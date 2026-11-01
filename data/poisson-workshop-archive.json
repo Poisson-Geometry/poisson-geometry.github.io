@@ -1,0 +1,160 @@
+{
+  "collected_at": "2026-11-01",
+  "source": "https://poissongeometry.github.io/",
+  "scope_note": "The supplied source covers the Brazilian Workshop on Poisson Geometry and Related Topics. It is distinct from the international biennial Poisson conference series. Historical affiliations and details below reflect the 2024 source, not current appointments.",
+  "event": {
+    "name": "XI Workshop on Poisson Geometry and Related Topics",
+    "subtitle": "Poisson in the Amazon",
+    "start_date": "2024-11-04",
+    "end_date": "2024-11-08",
+    "city": "Manaus",
+    "state": "Amazonas",
+    "country": "Brazil",
+    "venue": "Auditório I, Instituto de Computação, Universidade Federal do Amazonas (IComp–UFAM)",
+    "series": "Annual event of the Brazilian Poisson Geometry community; first edition in Rio de Janeiro in 2013.",
+    "topics": [
+      "Poisson geometry",
+      "Lie groupoids",
+      "Lie algebroids",
+      "Foliations",
+      "Quantization",
+      "Mathematical physics",
+      "Homotopy structures",
+      "Geometric mechanics"
+    ],
+    "speakers": [
+      "Anton Alekseev - Université de Genève",
+      "Daniel Álvarez - Instituto de Matemática Pura e Aplicada",
+      "Camilo Arias Abad - Universidad Nacional de Colombia",
+      "Ana Balibanu - Louisiana State University",
+      "Paula Balseiro - Universidade Federal Fluminense",
+      "Francesco Bonechi - Istituto Nazionale di Fisica Nucleare",
+      "Alejandro Cabrera - Universidade Federal do Rio de Janeiro",
+      "Miquel Cueca - Katholieke Universiteit Leuven",
+      "Matias del Hoyo - Universidade Federal Fluminense",
+      "Mateus de Melo - Universidade Federal do Espirito Santo",
+      "Rui Loja Fernandes - University of Illinois Urbana-Champaign",
+      "Marco Gualtieri - University of Toronto",
+      "David Iglesias Ponte - University of La Laguna",
+      "Alessia Mandini - Università di Verona and Universidade Federal Fluminense",
+      "Ioan Mărcuț - University of Cologne",
+      "Eckhard Meinrenken - University of Toronto",
+      "Alexander Quintero Velez - Universidad Nacional de Colombia",
+      "Ekaterina Shemyakova (virtual) - The University of Toledo",
+      "Ivan Struchiner - Universidade de São Paulo",
+      "Elizaveta Vishnyakova - Universidade Federal de Minas Gerais",
+      "Marco Zambon - Katholieke Universiteit Leuven"
+    ],
+    "scientific_committee": [
+      "Elizaveta Vishnyakova — UFMG",
+      "Cristian Ortiz — IME-USP",
+      "Henrique Bursztyn — IMPA"
+    ],
+    "local_committee": [
+      "Rosilene Barroso — UFAM",
+      "Hudson Lima — UFAM",
+      "Marcus Marrocos — UFAM"
+    ],
+    "listed_supporters": [
+      "CNPq",
+      "INCTMat",
+      "IMPA",
+      "FAPESP"
+    ],
+    "historical_contact": "workshoppoissongeometry@gmail.com"
+  },
+  "previous_editions": [
+    {
+      "label": "More info",
+      "url": "https://sites.google.com/view/poisson-geometry"
+    },
+    {
+      "label": "São Paulo, 2023",
+      "url": "https://www.xwpgrt.com.br"
+    },
+    {
+      "label": "Bahia, 2022",
+      "url": "https://sites.google.com/view/ecbpm/"
+    },
+    {
+      "label": "Online, 2021",
+      "url": "https://sites.google.com/ime.usp.br/workshop2021/"
+    },
+    {
+      "label": "Paraná, 2019",
+      "url": "https://sites.google.com/view/poisson-geometry/workshop/workshop-2019"
+    },
+    {
+      "label": "São Paulo, 2018",
+      "url": "http://poisson.icmc.usp.br/"
+    },
+    {
+      "label": "Rio de Janeiro, 2017",
+      "url": "https://impa.br/eventos-do-impa/eventos-2017/workshop-on-poisson-geometry-and-related-topics/"
+    },
+    {
+      "label": "Paraná, 2016",
+      "url": "https://sites.google.com/site/ivworkshoponpoissongeometry/"
+    },
+    {
+      "label": "São Paulo, 2015",
+      "url": "https://sites.google.com/site/iiiworkshoponpoissongeometry/"
+    },
+    {
+      "label": "São Paulo, 2014",
+      "url": "https://www.ime.usp.br/~cortiz/homepage/Workshop_on_Poisson_Geometry_and_Related_Topics_IME-USP.html"
+    },
+    {
+      "label": "Rio de Janeiro, 2013",
+      "url": "https://impa.br/sobre/memoria/reunioes-cientificas/mini-workshop-on-poisson-geometry-and-related-topics/"
+    }
+  ],
+  "resources": [
+    {
+      "label": "home",
+      "url": "https://poissongeometry.github.io/2024/home.html"
+    },
+    {
+      "label": "abstracts",
+      "url": "https://poissongeometry.github.io/2024/abstracts.html"
+    },
+    {
+      "label": "program",
+      "url": "https://poissongeometry.github.io/2024/program.html"
+    },
+    {
+      "label": "participants",
+      "url": "https://poissongeometry.github.io/2024/participants.html"
+    },
+    {
+      "label": "registration",
+      "url": "https://poissongeometry.github.io/2024/registration.html"
+    },
+    {
+      "label": "gallery",
+      "url": "https://poissongeometry.github.io/2024/gallery.html"
+    },
+    {
+      "label": "info",
+      "url": "https://poissongeometry.github.io/2024/info.html"
+    },
+    {
+      "label": "certificates",
+      "url": "https://poissongeometry.github.io/2024/certificates.html"
+    },
+    {
+      "label": "Abstract booklet PDF",
+      "url": "https://poissongeometry.github.io/2024/documents/abstracts.pdf"
+    },
+    {
+      "label": "Schedule image",
+      "url": "https://poissongeometry.github.io/2024/img/schedule1.png"
+    }
+  ],
+  "verification_notes": [
+    "Event details and speaker list extracted from 2024/home.html; venue corroborated in 2024/info.html.",
+    "The program page presents its schedule as an image; individual session times have not been transcribed.",
+    "Earlier-edition links are preserved as listed in the source; destination availability has not been checked.",
+    "No current registration, sponsor relationship, or contact ownership is implied."
+  ]
+}
