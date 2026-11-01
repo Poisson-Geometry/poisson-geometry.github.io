@@ -1,0 +1,156 @@
+{
+  "source": "http://www.lpthe.jussieu.fr/~dito/poissongeometry/",
+  "author": "Giuseppe Dito",
+  "snapshot_timestamp": "20250810091324",
+  "snapshot_url": "https://web.archive.org/web/20250810091324/http://www.lpthe.jussieu.fr/~dito/poissongeometry/",
+  "recovered_at": "2026-11-01",
+  "notes": [
+    "Historical labels, organizing committees and links are preserved as recorded in the snapshot.",
+    "No 2020 conference entry appears in this snapshot; no edition has been inferred.",
+    "Original external links may be unavailable. Use the snapshot to investigate older resources."
+  ],
+  "conferences": [
+    {
+      "year": 2026,
+      "location": "Antwerp and Leuven",
+      "original_url": "https://wis.kuleuven.be/events/2026_poisson/poisson2026",
+      "archived_details": "(School: August 3-7, Conference: August 10-14) Organizing committee: M. Cueca (Leuven), S. Hohloch (Antwerp), F. Zadra (Antwerp), M. Zambon (Leuven), L. Zwaan (Leuven)",
+      "links": []
+    },
+    {
+      "year": 2024,
+      "location": "Napoli",
+      "original_url": "https://sites.google.com/view/poisson2024//poisson-2024",
+      "archived_details": "(School: July 1-5, Conference: July 8-12) Organizing committee: F. D'Andrea (Napoli), A. De Nicola (Salerno), C. Esposito (Salerno), A. Tortorella (Salerno), L. Vitagliano (Salerno), A. Zampini (Napoli)",
+      "links": []
+    },
+    {
+      "year": 2022,
+      "location": "Barcelona and Madrid",
+      "original_url": "https://www.crm.cat/2022-poisson/",
+      "archived_details": "(School: July 18-22, Conference: July 25-29) Organizing committee: M. García Fernández (ICMAT-UAM), D. Iglesias Ponte (La Laguna), D. Martín de Diego (ICMAT-CSIC), A. Matveeva (UPC), E. Miranda (UPC), C. Oms (UPC), D. Peralta-Salas (ICMAT-CSIC), R. Rubio (UB)",
+      "links": []
+    },
+    {
+      "year": 2018,
+      "location": "Fields Institute, Toronto",
+      "original_url": "http://www.fields.utoronto.ca/activities/18-19/poisson-2018",
+      "archived_details": "(School: July 9-13, Conference: July 16-20) Organizing committee: M. Gualtieri (Toronto), E. Meinrenken (Toronto)",
+      "links": []
+    },
+    {
+      "year": 2016,
+      "location": "Geneva and Zurich",
+      "original_url": "http://www.unige.ch/math/Poisson2016",
+      "archived_details": "Organizing committee: A. Alekseev (Geneva), A. Cattaneo (Zurich), G. Felder (ETHZ), M. Podkopaeva (Geneva), P. Severa (Geneva), T. Willwacher (Zurich) Proceedings: Lett. Math. Phys. 108 (2018)",
+      "links": [
+        {
+          "label": "Lett. Math. Phys. 108 (2018)",
+          "url": "https://link.springer.com/journal/11005/108/3/page/1"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "location": "University of Illinois at Urbana-Champaign, U.S.A.",
+      "original_url": "https://faculty.math.illinois.edu/Poisson2014/",
+      "archived_details": "Organizing committee: Rui Loja Fernandes (Urbana-Champaign), Eugene Lerman (Urbana-Champaign) Proceedings: SIGMA 10 & 11 (2015)",
+      "links": [
+        {
+          "label": "SIGMA 10 & 11 (2015)",
+          "url": "http://www.emis.de/journals/SIGMA/Poisson2014.html"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "location": "Utrecht University, The Netherlands",
+      "original_url": "http://www.projects.science.uu.nl/poisson2012/Home.php",
+      "archived_details": "Organizing committee: M. Crainic (Utrecht) and the Utrecht Poisson Geometry Group Proceedings: Indagationes Mathematicae 25 (2014)",
+      "links": [
+        {
+          "label": "Indagationes Mathematicae 25 (2014)",
+          "url": "http://www.sciencedirect.com/science/journal/00193577/25/5"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "location": "IMPA, Rio de Janeiro",
+      "original_url": "https://impa.br/sobre/memoria/reunioes-cientificas/poisson-2010-poisson-geometry-in-mathematics-and-physics/",
+      "archived_details": "Organizing committee: H. Bursztyn (Rio de Janeiro), G. Dito (Dijon), M. Jardim (Campinas), J. Koiller (Rio de Janeiro), L. Macarini (Rio de Janeiro). Proceedings: Bull. Braz. Math. Soc., New Series 42 (2011)",
+      "links": [
+        {
+          "label": "Bull. Braz. Math. Soc., New Series 42 (2011)",
+          "url": "http://link.springer.com/journal/574/42/4/page/1"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "location": "École polytechnique fédérale de Lausanne",
+      "original_url": "http://cib.epfl.ch/hosted/programs/poisson2008/cms/index1434.php",
+      "archived_details": "Organizing committee: A. Alekseev (Geneva), A. Cattaneo (Zurich), T. Ratiu (Lausanne). Proceedings: Lett. Math. Phys. 90 (2009)",
+      "links": [
+        {
+          "label": "Lett. Math. Phys. 90 (2009)",
+          "url": "http://link.springer.com/journal/11005/90/1/page/1"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "location": "National Olympics Memorial Youth Center, Tokyo",
+      "original_url": "http://monge.u-bourgogne.fr/gdito/poisson2006/",
+      "archived_details": "Organizing committee: P. Bieliavsky (Louvain-la-Neuve), G. Dito (Dijon), Y. Maeda (Yokohama), K. Mikami (Akita), N. Nakanishi (Gifu), A. Yoshioka (Tokyo). Proceedings (conference): Cont. Math., Volume 450 , AMS (2008) Proceedings (school): Travaux Mathématiques, Volume XVII (2007)",
+      "links": [
+        {
+          "label": "Cont. Math., Volume 450 , AMS (2008)",
+          "url": "http://bookstore.ams.org/conm-450"
+        },
+        {
+          "label": "Travaux Mathématiques, Volume XVII (2007)",
+          "url": "http://wwwen.uni.lu/recherche/fstc/mathematics_research_unit/travaux_mathematiques"
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "location": "University of Luxembourg",
+      "original_url": "http://math.uni.lu/conferences/Poisson2004/",
+      "archived_details": "Organizing committee: G. Kass (Luxembourg), C. Molitor-Braun (Luxembourg), N. Poncin (Luxembourg), M. Schlather (Luxembourg), M. Schlichenmaier (Luxembourg). Proceedings: Travaux Mathématiques, Volume XVI (2005)",
+      "links": [
+        {
+          "label": "Travaux Mathématiques, Volume XVI (2005)",
+          "url": "http://math.uni.lu/travaux/last.htm"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "location": "Instituto Superior Técnico, Lisbon",
+      "original_url": "http://www.math.ist.utl.pt/~rfern/Poisson2002/",
+      "archived_details": "Organizing committee: A. Cannas da Silva (Lisbon), M. Tribolet de Abreu (Lisbon), R. L. Fernandes (Lisbon).",
+      "links": []
+    },
+    {
+      "year": 2000,
+      "location": "Centre international de rencontres mathématiques, Luminy",
+      "original_url": "Poisson2000/index.html",
+      "archived_details": "Organizing committee: J.-P. Dufour (Montpellier), Y. Kosmann-Schwarzbach (Palaiseau).",
+      "links": []
+    },
+    {
+      "year": 1998,
+      "location": "Banach Centre, Warsaw",
+      "original_url": "http://www.impan.pl/%7Ejagrab/dgm_2007/index-Poisson.html",
+      "archived_details": "Organizing committee: J.-P. Dufour (Montpellier), J. Grabowski (Warsaw), A. Weinstein (Berkeley), S. Zakrzewski (Warsaw), M. Zhitomirskii (Haifa). Proceedings: Banach Center Publications 51 (2000)",
+      "links": [
+        {
+          "label": "Banach Center Publications 51 (2000)",
+          "url": "https://eudml.org/journal/10253"
+        }
+      ]
+    }
+  ]
+}
