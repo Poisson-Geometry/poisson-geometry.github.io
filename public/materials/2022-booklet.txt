@@ -1,0 +1,1114 @@
+PDF PAGE 1
+       Poisson Conference 2022
+
+
+
+         Program and abstracts
+
+
+
+
+                  July, 25–29, 2022
+
+                   ICMAT Madrid
+
+                    Madrid, Spain
+
+
+https://www.icmat.es/congresos/2022/poisson/index.php
+
+
+PDF PAGE 2
+2
+
+
+PDF PAGE 3
+    Poisson 2022 is the 12th in a series of international confer-
+ences on Poisson geometry. The Poisson 2022 Conference will
+be held at the Headquarters of the Spanish National Research
+Council, located in Calle Serrano 117, 28006, Madrid, from July
+25 to July 29, 2022. It is organized by the Institute of Mathe-
+matical Sciences in Madrid. The Poisson 2022 Advanced School
+will be held at the Centre de Recerca Matemàtica, Barcelona.
+    These activities are part of the Joint CRM-ICMAT Intensive
+Research Programme on Poisson Geometry, organised by the
+Institute of Mathematical Sciences in Madrid and the Centre
+de Recerca Matemàtica in Barcelona. For details on previous
+conferences, visit the Poisson Geometry Website.
+    The Andre Lichnerowicz Prize in Poisson geometry was es-
+tablished in 2008. It is awarded for notable contributions to
+Poisson geometry, every two years at the ”International Con-
+ference on Poisson Geometry in Mathematics and Physics”, to
+researchers who completed their doctorates at most eight years
+before the year of the Conference. The prize is named in memory
+of Andre Lichnerowicz (1915-1998) whose work was fundamen-
+tal in establishing Poisson geometry as a branch of mathematics.
+It is awarded by a jury composed of the members of the scien-
+tific/advisory committee of the conference. The Lichnerowicz
+prizes 2022 will be sponsored by the University of Goettingen.
+    There will be a topical Issue on the Journal of Geometry
+and Physics dedicated to Poisson Geometry in Mathematics and
+Physics Editors: Anton Alekseev, Lisa Jeffrey, Eva Miranda and
+Volodya Roubtsov
+
+
+
+
+                                3
+
+
+PDF PAGE 4
+4
+
+
+PDF PAGE 5
+Monday, 25 July
+Venue: ICMAT CAMPUS UAM
+   9:00-
+            Bus Departure and registration at ICMAT
+   10:00
+  10:00–
+           Welcome and Lichnerowicz Prize Ceremony
+   10:30
+  10:30–
+                            Coffee break
+   11:00
+               Anton Alekseev
+  11:00–                            Virasoro Hamiltonian
+                 University of
+   12:00                                    spaces
+                   Geneva
+                 Alexander
+  12:15–          Shapiro            Quantum decorated
+   13:15         University of         character stacks
+                 Notre Dame
+                               Lunch
+                Ryszard Nest        Towards resolutions of
+ 15:00 –
+                 University of     singularities of Poisson
+  16:00
+                 Copenhagen               structures
+                Maria Amelia
+                  Salazar          Relative cohomology for
+ 16:15 –
+                 Universidade         Lie groupoids and
+  17:15
+                   Federal                algebroids
+                 Fluminense
+
+  Chairs: Chenchang Zhu and Cédric Oms
+
+
+
+
+                           5
+
+
+PDF PAGE 6
+Tuesday, 26 July
+Venue: CSIC Central Building
+                                         Constructions of
+  10:00–       Marius Crainic
+                                         codimension one
+   11:00       Utrecht University
+                                       symplectic foliations
+  11:00–
+                               Coffee break
+   11:30
+                 Yanli Song
+  11:30–                           Geometric quantization
+                 Washington
+   12:30                           of symplectic b-manifold
+                  University
+               Francis Bischoff       Representations of
+  12:40-
+                 University of      weighted homogeneous
+  13:40
+                    Oxford                groupoids
+                               Lunch
+                   Nicolai
+                 Reshetikhin
+                 University of
+  15:30–                            On superintegrability
+                  California,
+   16:30                                 (Zoom talk)
+                 Berkeley and
+                   Stanford
+                  University
+               Alan Weinstein
+                                       Hamiltonian Lie
+  16:45–         University of
+                                   algebroids over Poisson
+   17:45          California,
+                                    manifolds (Zoom talk
+                   Berkeley
+
+  18:30            Matemáticas en la Residencia
+                       Reception Cocktail
+
+  Chairs: Rui Loja Fernandez and Cédric Oms
+
+                               6
+
+
+PDF PAGE 7
+Wednesday, 27 July
+Venue: CSIC Central Building
+                Jiang Hua Lu          Cluster algebras of finite
+  10:00–
+               University of Hong     type and Bott-Samelson
+   11:00
+                     Kong                     varieties
+  11:00–
+                               Coffee break
+   11:30
+                Roberto Rubio
+  11:30-           Universitat        Generalized Geometry
+  12:30           Autònoma de           for 3-manifolds
+                   Barcelona
+                Luca Vitagliano
+  12:40–                              Integrating Nijenhuis
+                  University of
+   13:40                                    structures
+                    Salerno
+                                Lunch
+                            Free afternoon
+
+  Chair: David Iglesias
+
+
+
+
+                               7
+
+
+PDF PAGE 8
+Thursday, 28 July
+Venue: CSIC Central Building
+                                      The groupoidal picture
+                Alberto Ibort
+  10:00–                              of Quantum Mechanics:
+               Universidad Carlos
+   11:00                                  the classical and
+                 III de Madrid
+                                         semiclassical limits
+  11:00–
+                               Coffee break
+   11:30
+                Honglei Lang             Multiplicative
+  11:30-
+               China Agricultural     multivector fields and
+  12:30
+                   University        forms on Lie groupoids
+                                       Generalized Kahler
+               Marco Gualtieri
+  12:40-                              metrics as Lagrangian
+                 University of
+  13:40                                 branes in double
+                   Toronto
+                                      symplectic groupoids
+                                 Lunch
+                                     Transversely symplectic
+  15:30–       Yiannis Loizides
+                                      Riemannian foliations
+   16:30       Cornell University
+                                         and [Q, R] = 0
+               Daniel Alvarez        On 2-shifted lagrangian
+  16:45–
+                 University of       groupoids and Poisson
+   17:45
+                   Toronto                  geometry
+  17:45 –
+                            Poster Session
+   19:30
+                            Official dinner
+
+  Chairs: Manuel de León, Henrique Bursztyn
+
+
+
+
+                               8
+
+
+PDF PAGE 9
+Friday, 29 July
+Venue: CSIC Central Building
+                  Alvaro del Pino
+  10:00–                               Haefliger structures and
+                    Universiteit
+   11:00                                      wrinkling
+                      Utrecht
+  11:00–
+                               Coffee break
+   11:30
+                     Cornelia
+  11:30-              Vizman          Coadjoint orbits relevant
+  12:30           West University of   to ideal fluid dynamics
+                     Timisoara
+                   Yael Karshon
+                      Tel Aviv         Geometric quantization
+  12:40–
+                   University and        of Lagrangian torus
+   13:40
+                    University of             fibrations
+                       Toronto
+                                   Lunch
+
+  Chair: Eckhard Meinrenken
+
+
+
+
+                               9
+
+
+PDF PAGE 10
+Abstracts of talks (ordered according to ap-
+pearance)
+           Virasoro Hamiltonian spaces
+                        Anton Alekseev
+
+   Abstract: We develop a theory of Hamiltonian actions of the
+canonical central extension of the group of diffeomorphisms of
+the circle. It turns out that Virasoro Hamiltonian spaces (this
+is another name for such Hamiltonian actions) are in bijective
+correspondence with group valued Hamiltonian spaces with mo-
+ment map taking values in (a certain part of) the universal cover
+of the group SL(2, R). Among other things, this correspondence
+allows to recover the classical result of Lazutkin- Pankratova,
+Kirillov, Segal, Witten (and others) on classification of coad-
+joint orbits of the Virasoro algebra. Interesting examples of Vi-
+rasoro Hamiltonian spaces arise as moduli spaces of conformally
+compact hyperbolic metrics on oriented surfaces with boundary.
+   The talk is based on a joint work in progress with Eckhard
+Meinrenken.
+
+
+
+
+                               10
+
+
+PDF PAGE 11
+      Quantum decorated character stacks
+                       Alexander Shapiro
+
+   Abstract: I will discuss a joint work with D. Jordan, I. Le,
+and G. Schrader, in which we obtain categorical invariants of
+stratified surfaces. Our construction yields a quantization of the
+category of quasicoherent sheaves on the moduli stack of local
+systems on a surface, and uses representation theory of quantum
+groups and factorization homology. I will also discuss how one
+can recover Fock-Goncharov quantization of the moduli space of
+G-local systems from our construction, when G is of type A1 .
+
+
+
+
+                                11
+
+
+PDF PAGE 12
+Towards resolutions of singularities of Poisson
+                 structures
+                          Ryszard Nest
+
+   Abstract: E-symplectic manifolds include symplectic mani-
+folds with boundary (or corners), b-symplectic manifolds, com-
+pactified cotangent bundles and regular symplectic foliations.
+But how general can such structures be? In this talk, I will
+explain how to associate an E-symplectic structure to a Poisson
+structure with transverse structure of semisimple type. Desingu-
+larization of these structures will also be discussed. This should
+allow us to address a number of open questions in Poisson Ge-
+ometry from a brand-new perspective. This is joint work with
+Eva Miranda.
+
+
+
+
+                                12
+
+
+PDF PAGE 13
+  Relative cohomology for Lie groupoids and
+                 algebroids
+                 Maria Amelia Salazar Pinzon
+
+   Abstract: In this talk I will introduce the differentiable com-
+plex of a Lie groupoid relative to a Lie subgroupoid and its
+analogous infinitesimal version, the basic subcomplex of the
+Chevalley-Eilenberg complex of a Lie algebroid. I will explain
+the main properties of these complexes and how they give a neat
+and intrinsic construction of characteristic classes for represen-
+tations of Lie groupoids and Lie algebroids.
+
+
+
+
+                                13
+
+
+PDF PAGE 14
+Constructions of codimension one symplectic
+                 foliations
+                          Marius Crainic
+
+    Abstract: The existence of codimension one foliations on
+compact manifolds has a nice history, starting with Reeb’s foli-
+ation on S 3 that marked the birth of Foliation Theory, then on
+general 3-manifolds, then Lawson’s foliations on S 5 and then on
+all odd-dimensional sphere, up to the general characterization
+of Thurston in terms of the Euler characteristic. The analogous
+question for symplectic foliations is far from being understood- it
+is only rather recently that Lawson’s foliation on S 5 was turned
+onto a symplectic one, by Mitsumatsu, by some rather technical
+arguments.
+On the other hand, the confoliations of Eliashberg-Thurston re-
+vealed very close relationship (via actual deformations) between
+foliations and contact structure. That theory is well developed
+only in dimension 3 and that is due, I believe (at least in part), to
+not noticing that when moving to higher dimensions one should
+be looking not only at foliations, but at symplectic ones. As a
+side remark: also Mitsumatsu’s construction exploits the geom-
+etry of contact forms and adapted open book decompositons.
+In this talk I will provide an overview of various existing con-
+structions of symplectic foliations, then I will present a new
+method- via stable generalized complex geometry. In the case
+of Lawson’s foliation on S 5 , the new method provides a much
+more direct and simpler (we believe) way of turning it into a
+symplectic foliation. This is based on joint work with various
+people in Utrecht, among which my colleague Gil Cavalcanti and
+the former PhD students Lauran Toussaint and Aldo Witte.
+
+                                 14
+
+
+PDF PAGE 15
+     Geometric quantization of symplectic
+                 b-manifold
+                          Yanli Song
+
+   Abstract: In this talk, I will discuss one method of geometric
+quantization for compact b-symplectic manifolds in terms of the
+index of Dirac operators. Under an orientation hypothesis, our
+method also applies to manifold with simple normal crossing
+singularities. I will also talk about the “quantization commutes
+with reduction” principle in this setting. This is a joint work
+with Braverman, Loizides, Lin and Sjamaar.
+
+
+
+
+                               15
+
+
+PDF PAGE 16
+  Representations of weighted homogeneous
+                 groupoids
+                        Francis Bischoff
+
+    Abstract: In this talk I will present results on the represen-
+tation theory of weighted homogeneous groupoids. This is a
+family of holomorphic Lie groupoids that are closely related to
+torus action groupoids, and in many examples, their representa-
+tions correspond to flat connections with logarithmic singular-
+ities along Saito free divisors. As an application of the theory,
+I will present resonant normal form theorems for flat log con-
+nections for several examples of free divisors, as well as results
+related to the local Riemann-Hilbert problem
+
+
+
+
+                                16
+
+
+PDF PAGE 17
+                On superintegrability
+                      Nicolai Reshetikhin
+
+   Abstract: The talk will start with a short overview of super-
+integrable systems in Hamiltonian mechanics and in quantum
+mechanics. Then we will focus on examples related to mod-
+uli spaces of flat connections and their quantization. It will be
+concluded with a discussion of open problems.
+
+
+
+
+                               17
+
+
+PDF PAGE 18
+    Hamiltonian Lie algebroids over Poisson
+                  manifolds
+                         Alan Weinstein
+
+    Abstract: Christian Blohmann and I, along with Stefano
+Ronchi, are continuing our study of hamiltonian Lie algebroids,
+extending now from symplectic manifolds to Poisson manifolds
+rather than presymplectic manifolds. Many of the basic ideas
+remain the same, but there are many new examples, including
+the cotangent Lie algebroid of a Poisson manifold.
+    The Poisson case is also the most appropriate setting to test
+(finally!) some ideas proposed by Alejandro Cabrera after a
+talk which I gave in Banff in 2017. These concern the possibil-
+ity of interpreting the compatibility of a Lie algebroid structure,
+a connection, and a Poisson structure in terms of a naturally
+associated pair of Poisson structures on the dual of the Lie al-
+gebroid.
+
+
+
+
+                                18
+
+
+PDF PAGE 19
+        Cluster algebras of finite type and
+             Bott-Samelson varieties
+                         Jiang Hua Lu
+
+   Abstract: For a complex simple Lie group G and a Coxeter
+element c in the Weyl group of G, the reduced double Bruhat
+         −1
+cell Lc,c in G has a cluster structure of finite type. We use an
+                  −1
+embedding of Lc,c into a Bott-Samelson variety to construct all
+                        −1
+the cluster tori in Lc,c , and we explain the Poisson geometry
+in the construction.
+
+
+
+
+                               19
+
+
+PDF PAGE 20
+     Generalized Geometry for 3-manifolds
+                        Roberto Rubio
+
+   Abstract: Generalized complex geometry offers a unifying ap-
+proach to complex and symplectic structures. Moreover, there
+are generalized complex manifolds that are neither complex nor
+symplectic, but any of them must be almost complex and hence
+even-dimensional. In this talk I will discuss how Bn- general-
+ized geometry, the simplest variation of generalized geometry,
+provides a similar framework for manifolds of any dimension
+and I will especially focus on the case of 3-manifolds, which is
+recent joint work with J. Porti.
+
+
+
+
+                               20
+
+
+PDF PAGE 21
+         Integrating Nijenhuis Structures
+                        Luca Vitagliano
+
+   Abstract: A Nijenhuis operator on a manifold is a (1,1) ten-
+sor fulfilling an appropriate integrability condition. Nijenhuis
+operators appear naturally in complex geometry, integrable sys-
+tems, projective geometry, etc. Recently, they draw the atten-
+tion of researchers in their own. A Nijenhuis operator N defines
+a Lie algebroid which knows everything about N. We say that
+a Lie groupoid G integrates N if G integrates the Lie algebroid
+of N. In this case, G can be seen as a global counterpart of
+N, similarly as symplectic groupoids are global counterparts of
+Poisson structures. In this talk we characterize Lie groupoids in-
+tegrating a Nijenhuis operator. Our criterion involves a cochain
+complex whose 0-cocycles are multiplicative (1,1) tensors. Time
+permitting, we will illustrate our main result with various sim-
+ple examples including: integrable almost tangent structures,
+integrable projections, 2-step nilpotent Lie algebras (joint work
+with F. Pugliese and G. Sparano).
+
+
+
+
+                                21
+
+
+PDF PAGE 22
+     The groupoidal picture of Quantum
+   Mechanics: the classical and semiclassical
+                    limits
+                         Alberto Ibort
+
+   Abstract: Schwinger’s picture of Quantum Mechanics fits
+perfectly in a categorical/groupoidal description. Building upon
+this idea the main notions of quantum mechanics will be suc-
+cinctly reviewed and a novel interpretation of the quantum-to-
+classical transition will be discussed. In particular, it will be
+shown how Schwinger’s quantum dynamical principle leads to
+Lagrangian dynamics on Lie algebroids and its dual Hamilto-
+nian formulation.
+
+
+
+
+                               22
+
+
+PDF PAGE 23
+Multiplicative multivector fields and forms on
+                Lie groupoids
+                         Honglei Lang
+
+    Abstract: We first present two formulas in which multiplica-
+tive multivector fields (abbr. to MVs) and multiplicative forms
+(abbr. to MFs) on Lie groupoids are decomposed, respectively,
+into the sum of two parts, and we call the data obtained charac-
+teristic pairs. Then for a quasi-Poisson groupoid, we show that
+the space of MFs, together with ordinary forms on the base man-
+ifold, admits a graded weak Lie 2-algebra. The quasi-Poisson
+structure further builds a morphism from the said graded weak
+Lie 2-algebra to the graded Lie 2-algebra of MVs studied by
+Bonechi-Ciccoli-Laurent-Gengoux-Xu. This is joint work with
+Zhuo Chen and Zhangju Liu.
+
+
+
+
+                               23
+
+
+PDF PAGE 24
+  Generalized Kahler metrics as Lagrangian
+   branes in double symplectic groupoids
+                        Marco Gualtieri
+
+   Abstract: Generalized Kahler manifolds, which arise as natu-
+ral target spaces for supersymmetric 2-dimensional sigma mod-
+els, provide a rich family of examples to which many of the tools
+of Poisson geometry may be applied. After reviewing their basic
+structure, I will explain a new appearance of double groupoids
+and double Morita equivalences in the story. This is joint work
+with Yucong Jiang.
+
+
+
+
+                               24
+
+
+PDF PAGE 25
+      Transversely symplectic Riemannian
+            foliations and [Q, R] = 0
+                       Yiannis Loizides
+
+   Abstract: I will describe a quantization commutes with re-
+duction ([Q, R] = 0) theorem for Riemannian foliations equipped
+with a transverse symplectic structure. This is joint work with
+Yi Lin, Reyer Sjamaar, and Yanli Song.
+
+
+
+
+                              25
+
+
+PDF PAGE 26
+     On 2-shifted lagrangian groupoids and
+               Poisson geometry
+                        Daniel Àlvarez
+
+   Abstract: In this talk we will explain how the language of
+shifted symplectic geometry sheds some light on several inter-
+esting examples in Poisson geometry such as (1) the integrations
+of Poisson homogeneous spaces, (2) the configuration groupoids
+of flags and (3) the global counterparts of quasi-Poisson spaces.
+Joint work with H. Bursztyn and M. Cueca.
+
+
+
+
+                               26
+
+
+PDF PAGE 27
+        Haefliger structures and wrinkling
+                        Alvaro Del Pino
+
+    Abstract: Foliations in open manifolds were classified by Hae-
+fliger in ”Feuilletages sur les variétés ouvertes”. Using Gromov’s
+method of flexible sheaves, he proved that the space of foliations
+(up to concordance) is weakly equivalent to the space of Gamma
+structures (i.e. cocycles valued in the étale Lie groupoid of dif-
+feomorphism germs of Euclidean space), which may be thought
+of as foliations with singularities.
+    Gamma structures also appear naturally in the study of ge-
+ometric structures other than foliations. From the perspective
+of Geometry of PDEs, this has been explored in the works of
+M. Crainic, M.A. Salazar, O. Yulidevich, F. Cattafi, and L. Ac-
+cornero, among others. In a more homotopical direction, Hae-
+fliger himself observed that Gamma structures can be used to
+state classification results for symplectic and complex structures.
+    This latter perspective was recently pursued by Laudenbach
+and Meigniez. In ”Haefliger structures and symplectic/contact
+structures”, they present the construction of geometric struc-
+tures as a two-step process. First, one attempts to construct a
+Gamma structure starting from some given formal data. Then,
+one tries to produce a genuine geometric structure starting from
+a Gamma structure. Their main result says that the first step
+can always be carried out in the contact/symplectic case.
+    In this talk I will explain how the wrinkling approach of
+Eliashberg-Mishachev may be used to produce Gamma-structures
+for any family of geometric structures given by an open and
+Diff-invariant partial differential relation. I will put particular
+emphasis in explaining how h- principle ideas combine naturally
+
+                                27
+
+
+PDF PAGE 28
+with the Lie groupoid formalism needed to set up Gamma struc-
+tures.
+   If time allows, I will explain the role played by this result in
+the classification problem for contact structures and conformal
+symplectic foliations.
+   This is on-going work with A. Fokma and L. Toussaint.
+
+
+
+
+                                28
+
+
+PDF PAGE 29
+     Coadjoint orbits relevant to ideal fluid
+                   dynamics
+                       Cornelia Vizman
+
+   Abstract: We explore coadjoint orbits for the group of vol-
+ume preserving diffeomorphisms that are modeled on nonlinear
+Grassmannians of ubmanifolds of codimension one. We focus on
+vortex loops in 2D (collections of point vortices) and on vortex
+sheets in 3D (collections of vortex filaments). We also determine
+a Feynman-Onsager condition for their prequantizability.
+
+
+
+
+                               29
+
+
+PDF PAGE 30
+ Geometric quantization of Lagrangian torus
+                fibrations
+                        Yael Karshon
+
+   Abstract: By the Arnold-Liouville theorem, a regular com-
+pletely integrable system on a compact symplectic manifold M
+is Lagrangian torus fibration over an integral affine manifold
+B. When M is pre-quantized, we give a simple proof that
+its Riemann-Roch number coincides with its number of Bohr-
+Sommerfeld leaves. This can be viewed as an instance of the
+mysterious ”independence of polarization” phenomenon of geo-
+metric quantization.
+
+
+
+
+                              30
+
+
+PDF PAGE 31
+Abstract of posters
+ Equivariant cohomology for 2-group actions
+                Luis Alejandro Barbosa-Torres
+
+   We consider a strict action of a Lie 2-group on a Lie groupoid
+and we look for a notion of equivariant cohomology. Conse-
+quently, we check this cohomology is Morita invariant, giving us
+the relation with the category of differentiable stacks.
+
+
+        A Hamiltonian Floer complex for
+            b-symplectic manifolds
+                       Joaquim Bruguès
+
+   Since the beginnings of the development of Floer theory there
+has been an interest to adapt this construction to non-compact
+manifolds. In our project, we aim at building one such complex
+for the open part of b-symplectic manifolds, using a cosymplec-
+tic foliation in a tubular neighbourhood near the singular hy-
+persurface. This is a joint project with Eva Miranda and Cédric
+Oms.
+
+    Existence and classification of b-contact
+                  structrues
+                        Robert Cardona
+
+   One of the simplest class of non-transitive Jacobi structures
+are b-Jacobi structures, which are singular along a hypersur-
+face. These were first studied by Miranda-Oms, using Melrose’s
+b-calculus to reformulate them as b-contact structures. Using
+
+                               31
+
+
+PDF PAGE 32
+this approach and techniques from contact topology, we state
+general existence results for b-contact structures on any oriented
+three dimensional b-manifold (M, Z), i.e. prescribing the singu-
+lar hypersurface Z. We completely classify b-contact structures,
+up to isotopy, in some concrete b-manifolds. This is joint work
+with Cédric Oms.
+
+
+ Extending the Large Color R-matrix to the
+   three-fold symmetric Lie algebra so(8)
+                Alberto Ricardo Cavallar Oriol
+
+   The Gukov-Manolescu series, denoted by F K(x, q), is a con-
+jectural invariant of knot complements that, in a sense, ana-
+lytically continues the colored Jones polynomials. In a recent
+paper, Sunghyuk Park uses the large color R-matrix of sl(2) to
+study F K for some simple links, giving a definition of F K for
+positive braid knots and computing F K for various knots and
+links. This procedure has been extended by Angus Gruen to all
+other Lie algebras sl(n + 1) beyond sl(2). In this work, we turn
+to the family so(2n) of complex semisimple Lie algebras in Car-
+tan’s classification, mainly focusing on the so(8) case attracted
+by the three-fold symmetry in its Dynkin diagram D4.
+
+
+ Geometric Integrators in Poisson Geometry
+                         Oscar Cosserat
+
+   We use local symplectic Lie groupoids to construct Poisson
+integrators for generic Poisson structures. More precisely, recur-
+sively obtained solutions of a Hamilton-Jacobi-like equation are
+
+                                32
+
+
+PDF PAGE 33
+interpreted as Lagrangian bisections in a neighborhood of the
+unit manifold, that, in turn, give Poisson integrators.
+
+  Homotopy momentum sections and sigma
+               models
+                         Noriaki Ikeda
+
+   We introduce a notion of a homotopy momentum section on
+a Lie algebroid over a pre-multisymplectic manifold. A homo-
+topy momentum section is a generalization of the momentum
+map with a Lie group action and the momentum section on
+a pre-symplectic manifold, and is also a generalization of the
+homotopy momentum map on a multisymplectic manifold. A
+gauged nonlinear sigma model with Wess-Zumino term with Lie
+algebroid gauging has the homotopy momentum section struc-
+ture.
+
+
+   Log Floer cohomology for log symplectic
+                  surfaces
+                  Charlotte Kirchhoff-Lukat
+
+   I define a notion of Lagrangian intersection Floer cohomology
+for (orientable) log symplectic surfaces and describe the inter-
+action between different symplectic components in this theory.
+I show that for a single Lagrangian, this cohomology is isomor-
+phic to log de Rham cohomology. I will discuss what this low-
+dimensional toy model can teach us about Floer cohomology for
+stable generalized complex structures.
+
+
+
+                               33
+
+
+PDF PAGE 34
+   Symmetries of singular foliations through
+      universal Lie infinity algebroids
+                          Ruben Louis
+
+   We show that there is an equivalence of categories between
+Lie-Rinehart algebras over a commutative algebra O and ho-
+motopy equivalence classes of negatively graded Lie infinity-
+algebroids over their resolutions. This extends to a purely al-
+gebraic setting the construction of the universal Q-manifold of
+a locally real analytic singular foliation. In particular, it makes
+sense for the universal Lie infinity-algebroid of every singular fo-
+liation, without any additional assumption, and for Androulidakis-
+Zambon singular Lie algebroids. Also, to any ideal I ⊂ O pre-
+served by the anchor map of a Lie-Rinehart algebra A, we as-
+sociate a homotopy equivalence class of negatively graded Lie
+infinity-algebroids over complexes computing Tor O(A, O/I).
+
+
+Poisson Structures on Sets of Maurer-Cartan
+                 Elements
+                        Thomas Machon
+
+   Given a differential graded Lie algebra (dgla) L satisfying cer-
+tain conditions, we construct Poisson structures on the gauge or-
+bits of its set of Maurer-Cartan (MC) elements, termed Maurer-
+Cartan-Poisson (MCP) structures. They associate a compatible
+Batalin-Vilkovisky algebra to each MC element of L. An MCP
+structure is shown to exist for a number of dglas associated to
+commutative Frobenius algebras, deformations of Poisson and
+symplectic structures, as well as the Chevally-Eilenberg com-
+plex. MCP structures yield a notion of hamiltonian flow of MC
+
+                                34
+
+
+PDF PAGE 35
+elements, and also define Lie algebroids on gauge orbits, whose
+isotropy algebras give invariants of MC elements. As an exam-
+ple, this gives a finite-dimensional two-step nilpotent graded Lie
+algebra associated to any closed symplectic manifold.
+
+
+ Shifted Contact Structures on Differentiable
+                   Stacks
+                         Antonio Maglio
+
+   ♯ A contact structure on a manifold is equivalent to a line
+bundle L equipped with a non-degenerate, L-valued 2-cocycle
+W in the gauge algebroid DL (also called a symplectic Atiyah
+form).
+   In analogy with the symplectic case, we define a +1 shifted
+contact structure on a Lie groupoid G as a line bundle groupoid
+L → G together with an Atiyah 2-form W on L such that
+  • W is multiplicative
+  • dW is cohomologically trivial wrt the simplicial cohomology
+  • the flat map of W is a Morita map of VB groupoids
+   Our main result is a stacky version of ♯. As a side result, we
+prove that the kernel of a multiplicative 1-form with values in
+a trivial core V B groupoid E → G (may not exist as a smooth
+multiplicative distribution on G, but it) always exists as a stacky
+distribution on the differentiable stack presented by G. The
+proof involves a V B groupoid version of the homotopy kernel
+construction in Homological Algebra. This is joint work with
+Alfonso Giuseppe Tortorella and Luca Vitagliano.
+
+                                35
+
+
+PDF PAGE 36
+    The hamiltonian formulation of classical
+        gauge theories on E-manifolds
+                    Pablo Nicolás Martı́nez
+
+    We extend the formalism of vector bundles, principal bun-
+dles and principal connections to E-manifolds (as introduced
+in Nest and Tsygan), which can be used to describe singulari-
+ties in the configuration space of a classical particle. Manifolds
+with boundary or corners are configuration spaces naturally de-
+scribed in terms of E-manifolds extending that of b-manifolds
+(see Guillemin, Miranda, and Pires or Gualtieri and Li). Fol-
+lowing Weinstein, we show the existence of a universal model for
+the phase space of a particle interacting with a gauge field; in
+this new setting, Wong’s equations become hamiltonian. Also
+following Montgomery, we see that the universal E-symplectic
+spaces of Weinstein for Yang-Mills theories are symplectic leaves
+of a bigger universal Poisson space. This is a joint work with
+Pau Mir and Eva Miranda.
+
+
+         Bohr-Sommerfeld quantization of
+           b-symplectic toric manifolds
+                        Pau Mir Garcı́a
+
+   We define the Bohr-Sommerfeld quantization via T-modules
+for a b-symplectic toric manifold and show that it coincides with
+the formal geometric quantization of Guillemin, Miranda and
+Weitsman. In particular, we prove that its dimension is given
+by a signed count of the integral points in the moment polytope
+of the toric action on the manifold.
+
+
+                                36
+
+
+PDF PAGE 37
+   Quasifolds as groupoids and diffeological
+                    spaces
+                        David Miyamoto
+    A quasifold is a space that is locally modeled by quotients
+of Rn by countable group actions. These arise in Elisa Prato’s
+generalization of the Delzant theorem to irrational polytopes,
+and include irrational tori, orbifolds, and certain leaf spaces of
+foliations. We approach quasifolds in two ways: by viewing
+them as diffeological spaces, we form the category of diffeologi-
+cal quasifolds, and by viewing them as Lie groupoids, we form
+the category of quasifold groupoids. We show that an effective
+quasifold groupoid is determined by its diffeological orbit space.
+This is joint work with Yael Karshon.
+
+
+     Palatini formalism in the framework of
+               Courant algebroids
+                          Filip Moučka
+   Palatini approach to the Einstein-Hilbert action is a way how
+to justify the use of the Levi- Civita affine connection for general
+relativity. It has turned out that kind of similar thing can be
+done also for the Levi-Civita Courant algebroid connections. In
+the particular case of exact Courant algebroids, this procedure
+leads precisely to the Courant algebroid formulation of the su-
+pergravity (SUGRA) equations.
+
+
+           Courant-Nijenhuis algebroids
+                           Claire Netto
+
+                                37
+
+
+PDF PAGE 38
+   Inspired by Poisson-Nijenhuis structures, we define Courant-
+Nijenhuis (CN) algebroids using the formalism of generalized
+derivations on vector bundles. From this approach, we intro-
+duce a notion of Dirac-Nijenhuis (DN) structures which recovers
+the definition of Poisson-Nijenhuis structures when the Courant
+algebroid is the Pontryagin bundle T M + T ∗ M . We explore the
+examplos of holomorphic Courant algebroids and CN structures
+on T M + T ∗ M . Moreover, we revisit the theory of Manin triples
+for Lie algebroids, and establish a relation between Lie-Nijenhuis
+bialgebroids, CN algebroids and DN structures. Joint work with
+Henrique Bursztyn and Thiago Drummond.
+
+
+            Higher Cotangent groupoids
+                         Stefano Ronchi
+   It is well known that there exists a cotangent object for any
+Lie groupoid, which corresponds to the coadjoint representation
+up to homotopy, and that it is a symplectic groupoid. Our work
+aims to answer the question of how an object of this kind can
+be constructed for Lie n-groupoids, and more generally, what
+the dual objects of VB-n-groupoids are. This is a summary of
+several projects joint with Miquel Cueca, Madeleine Jotz Lean
+and Chenchang Zhu.
+
+
+   Stability results in Poisson geometry and
+               higher Lie theory
+                        Karandeep Singh
+   When studying deformations of a structure, a natural ques-
+tion one can ask is when some property is preserved when look-
+
+                                38
+
+
+PDF PAGE 39
+ing at a neighborhood of a given structure. For example, let Q
+be a structure which induces a singular foliation on the manifold
+M , such as a Lie (n−)algebroid, Courant algebroid or Poisson
+structure. Assume that p ∈ M is a singular point of the struc-
+ture. Then one can ask is when any structure Q′ near Q has a
+singular point near p.
+   We show that these problems are an instance of a more gen-
+eral question: given a differential graded Lie algebra (g, ∂, [−, −]),
+a differential graded Lie subalgebra (h, ∂, [−, −]), and a Maurer-
+Cartan element Q ∈ h1 , when is it the case that for every
+Q′ ∈ g1 , there exists X ∈ g0 , such that the gauge transformation
+of Q′ by X lies in h1 ?
+   When the codimension of h in g is finite, a sufficient condi-
+tion for a positive answer is that H 1 (g/h, ∂ + [Q, −]) = 0. In the
+case of Lie algebroids and Poisson structures, this recovers the
+Crainic-Fernandes stability criteria for zero-dimensional leaves.
+
+
+     Lie algebroid descriptions of T-duality
+                       Juan José Villamarı́n
+
+    T-duality establishes an equivalence between two field theo-
+ries on different space-time manifolds, it has been well under-
+stood in the context of principal T -bundles [BHM05]. In this
+context, the space-time is modeled by a principal T -bundle E
+over M and E is endowed with the so-called H-flux, a closed
+T -invariant 3-form H. Indeed, two different space-times (E, H)
+(E ′ , H ′ ) are T -dual if H −H ′ is exact in the correpondence space
+ExM E ′ . In this work we give an interpretation of T -duality in
+the context of Courant and Lie algebroids and exlpore some
+of its consequences. In particular, we show that T -duality can
+
+                                 39
+
+
+PDF PAGE 40
+be understood as an isomorphism of Courant algebroids [CG10]
+and, furthermore, we show that T -duality can be seen as a dual-
+ity of Atiyah algebroids A(E) and A(E ′ ), i.e. they define a Lie
+bi-algebroid [Mac05].
+   [BHM05] Peter Bouwknegt, Keith Hannabuss, and Vargh-
+ese Mathai. T -duality for principal torus bundles and dimen-
+sionally reduced Gysin sequences. Adv. Theor. Math. Phys.,
+9(5):749–773, 2005.
+   [CG10] Gil R. Cavalcanti and Marco Gualtieri. Generalized
+complex geometry and T -duality. In A celebration of the math-
+ematical legacy of Raoul Bott, volume 50 of CRM Proc. Lecture
+Notes, pages 341–365. Amer. Math. Soc., Providence, RI, 2010.
+   [Mac05] Kirill C. H. Mackenzie. General theory of Lie groupoids
+and Lie alge- broids, volume 213 of London Mathematical So-
+ciety Lecture Note Series. Cambridge University Press, Cam-
+bridge, 2005.
+
+
+              Generalizing bk -geometry
+                           Aldo Witte
+
+    The b-tangent bundle is the Lie algebroid consisting of vector
+fields tangent to a given embedded hypersurface Z. Although
+it is locally clear what is meant with vector fields tangent up
+to order k at Z, giving a global definition is surprisingly subtle.
+One approach is given by Scott where the auxiliary data of a jet
+of defining function is used. We generalized the notion of Scott,
+by considering the data of a jet of foliation F around Z and
+considering vector fields tangent to F at Z up to order k. Using
+an explicit description of the holonomy of these Lie algebroids,
+we show that any Lie algebroid which is locally given by vector
+
+                                40
+
+
+PDF PAGE 41
+fields tangent up to order k at Z, is of this form. Along the
+way, we will show that variations of this construction allow one
+to recover many other Lie algebroids and singular distributions.
+Joint work with Alvaro del Pino.
+
+
+
+
+                               41
+
+
+PDF PAGE 42
+Organizing committee
+  • Mario Garcia-Fernandez — ICMAT-UAM
+  • David Iglesias Ponte — La Laguna
+  • David Martı́n de Diego — ICMAT-CSIC
+  • Anastasiia Matveeva — UPC
+  • Eva Miranda — UPC-CRM
+  • Cédric Oms — ENS Lyon
+  • Daniel Peralta-Salas — ICMAT-CSIC
+  • Roberto Rubio — UAB
+
+Scientific committee
+  • Anton Alekseev — University of Geneva
+  • Henrique Bursztyn — IMPA
+  • Rui Loja Fernandes — Urbana-Champaign
+  • Jiang-Hua Lu — University of California, Berkeley
+  • Eckhard Meinrenken — University of Toronto
+  • Chenchang Zhu — University of Göttingen
+
+Financial Support
+
+
+
+
+                            42
+
+
+PDF PAGE 43
+43

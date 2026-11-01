@@ -1,0 +1,887 @@
+PDF PAGE 1
+                             Conference
+                           July 8 - 12, 2024
+                     Accademia Pontaniana - Napoli
+
+Contents
+Schedule . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    2
+
+Talks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    3
+   Monday, July 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . .      3
+   Tuesday, July 9 . . . . . . . . . . . . . . . . . . . . . . . . . . . .     5
+   Wednesday, July 10 . . . . . . . . . . . . . . . . . . . . . . . . . .      7
+   Thursday, July 11 . . . . . . . . . . . . . . . . . . . . . . . . . .       8
+   Friday, July 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . .    10
+
+Posters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   12
+
+
+PDF PAGE 2
+  Schedule
+                Monday                Tuesday         Wednesday   Thursday
+Morning session.
+09:30 -10:00   Registration
+                                      Cattaneo         Mazzocco   Polterovich
+10:00 -10:30 Opening + Prize
+10:30 -11:10      Coffee                Coffee          Coffee     Coffee
+11:10 -12:00       Zhu                Balibanu          Sheng      Rejzner
+12:10 -13:00    Matviichuk         Garcia-Fernandez     Poster      Naef
+13:00 -15:00                                            Buffet
+Afternoon session.
+15:00 -15:50      Khesin               Pridham                    Bursztyn
+16:00 -16:40      Coffee                Coffee                     Coffee
+16:40 -17:30     Antonini             Cueca Ten                   Schiavina
+                                                                   Dinner
+
+
+
+
+                   Friday
+Morning session.
+10:00 -10:40       Coffee
+10:40 -11:30      Fernandes
+11:40 -12:30        Pym
+12:30 -14:30
+Afternoon session.
+14:30 -15:20        Zhou
+15:30 -16:10       Coffee
+16:10 -17:00       Bischoff
+17:00 -17:30 Weinstein + Closing
+
+
+
+
+                                                2
+
+
+PDF PAGE 3
+Monday, July 8
+Chairman: Marco Gualtieri
+
+  ■ 11:10 - 12:00: Chenchang ZHU (Universität Göttingen).
+    Higher Derived Shifted Symplectic Groupoids.
+    In this talk, based on many previous works, we will introduce hope-
+    fully a helpful new tool for differential geometers:
+       • higher: to deal with quotient singularities
+       • derived: to heal transversality problems
+       • shifted: for more flexible symplectic situations.
+     At the same time of being as complete as possible, we also make the
+     framework as explicit as possible using groupoid models. In the end,
+     we will explain in some concrete examples how this theory is used.
+     This is based on a joint work in progress with Miquel Cueca Ten,
+     Florian Dorsch and Reyer Sjamaar.
+
+  ■ 12:10 - 13:00: Mykola MATVIICHUK (Imperial College).
+    Deformation Theory of Log Symplectic Manifolds.
+    TBA
+
+Chairman: Chiara Esposito
+
+  ■ 15:00 - 15:50: Boris KHESIN (University of Toronto).
+    Pensive Billiards.
+    We define a new class of plane billiards, where while preserving the
+    billiard rule of equality of the angles of incidence and reflection, the
+    billiard ball before reflecting travels along the boundary for some
+    distance depending on the incidence angle. This generalizes so called
+    "puck billiards" proposed by M.Bialy, as well as the motion of a vortex
+    dipole in 2D hydrodynamics near the domain boundary. We prove
+    the variational origin and invariance of a symplectic structure for
+    such billiards. We also observe the appearance of both the golden
+    and silver ratios in the corresponding vortex setting. This is a joint
+    work with D.Glukhovskiy and T.Drivas.
+
+
+
+
+                                    3
+
+
+PDF PAGE 4
+■ 16:40 - 17:30: Paolo Antonini (Università del Salento).
+  Optimal Transport between Algebraic Hypersurfaces.
+  I will report on a recent work in collaboration with F. Cavalletti and
+  A. Lerario where we study complex projective hypersurfaces seen as
+  probability measures on the projective space. Our guiding question is:
+  “What is the best way to deform a complex projective hypersurface
+  into another one?" Here the word best means from the point of view
+  of measure theory and mass optimal transportation. In particular we
+  construct an embedding of the space of complex homogeneous poly-
+  nomials into the probability measures on the projective space and
+  study its intrinsic Wasserstein metric. The Kähler structure of the
+  projective space plays a fundamental role and we combine different
+  techniques from symplectic geometry to the Benamou-Brenier dynam-
+  ical approach to optimal transportation to prove several interesting
+  facts. Among them we show that the space of hypersurfaces with
+  the Wasserstein metric is complete and geodesic: any two hypersur-
+  faces (possibly singular) are always joined by a minimizing geodesic.
+  Moreover outside the discriminant locus, the metric is induced by a
+  Kähler structure of Weil-Petersson type. In the last part I will give an
+  application to the condition number of polynomial equations solving.
+
+
+
+
+                                  4
+
+
+PDF PAGE 5
+Tuesday, July 9
+Chairman: Anton Alekseev
+
+  ■ 09:30 - 10:20: Alberto CATTANEO (University of Zurich).
+    Poisson Structures from Corners of Field Theories.
+    The BV formalism and its shifted versions in field theory have a nice
+    compatibility with boundary structures. Namely, one such structure
+    in the bulk induces a shifted (possibly degenerated) version on its
+    boundary, which can be interpreted as a Poisson structure (up to
+    homotopy). I will present the results for some field theories, in par-
+    ticular, 4D BF theory and 4D gravity.
+
+  ■ 11:10 - 12:00: Ana BALIBANU (Louisiana State University).
+    Reduction along Strong Dirac Maps.
+    We develop a general procedure for reduction along strong Dirac
+    maps, which are a broad generalization of Poisson moment maps.
+    The reduction level in this setting is a submanifold of the target, and
+    the symmetries are given by the action of a groupoid. When ap-
+    plied to group-valued moment maps, this framework recovers several
+    constructions from quasi-Poisson geometry and produces new mul-
+    tiplicative versions of many Poisson varieties that are important to
+    geometric representation theory. This is joint work with Maxence
+    Mayrand.
+
+  ■ 12:10 - 13:00: Mario GARCIA-FERNANDEZ (UAM & IC-
+    MAT).
+    Moduli Spaces and the First Pontryagin Class.
+    Principal bundles with vanishing first Pontryagin class play a spe-
+    cial role in the theory of higher structures, due to their relation
+    to Courant algebroids and the Chiral de Rham Complex. In this
+    talk I will overview our current knowledge of the geometry of mod-
+    uli spaces of instantons on principal bundles with vanishing first
+    Pontryagin class, from the moduli space metric to a conjectural
+    Donaldson-Uhlenbeck-Yau type theorem in higher gauge theory.
+
+
+
+
+                                    5
+
+
+PDF PAGE 6
+Chairman: Alessandro Zampini
+
+  ■ 15:00 - 15:50: Jonathan PRIDHAM (University of Edinburgh).
+    Derived Poisson Structures.
+    Shifted Poisson structures have appeared in many guises over the
+    past decades. I will give an overview and examples from the perspec-
+    tive of derived geometry, trying to emphasise similarities with, and
+    differences from, earlier and parallel approaches.
+
+  ■ 16:40 - 17:30: Miquel CUECA TEN (Universität Göttingen).
+    Transgressions in Poisson Geometry.
+    In a broad sense, a transgression map is the composition of a pull-back
+    with a push-forward in a way that some internal degree is changed.
+    A prototypical example is the transgression map from a manifold
+    to its loop space given by pull-back with the evaluation followed by
+    fiber integration. In this talk, I plan to explain the relevance of
+    transgression maps in the construction of secondary characteristic
+    classes for Courant algebroids, n-duals of VB-n-groupoids, integration
+    of Courant algebroids and shifted Lagrangian structures.
+
+
+
+
+                                    6
+
+
+PDF PAGE 7
+Wednesday, July 10
+Chairman: Eva Miranda
+
+  ■ 09:30 - 10:20: Marta MAZZOCCO (University of Birmingham).
+    Triangulations, Cluster Varieties and GDAHA.
+    Generalized double affine Hecke algebras (GDAHA) are flat deforma-
+    tions of the group algebras of 2-dimensional crystallographic groups
+    associated to star-shaped simply laced affine Dynkin diagrams. In
+    this talk, we construct embeddings of both GDAHAs of type D4 and
+    E6 into matrix algebras over quantum cluster χ-varieties, thus linking
+    to the theory of higher Teichmüller spaces.
+
+  ■ 11:10 - 12:00: Yunhe SHENG (Jilin University).
+    Post-groupoids and the Yang-Baxter Equation.
+    In this talk, first we recall the notion of a post-group. By differenti-
+    ation of a post-Lie group, one can obtain a post-Lie algebra, which
+    was introduced by Vallette in 2007 and have important applications
+    in numerical integration on manifolds and Martin Hairer’s regularity
+    structures. There are close relationships between post-groups, Rota-
+    Baxter groups, skew-left braces and Lie-Butcher groups. In particu-
+    lar, post-groups give rise to matched pairs of groups, and can be used
+    to construct set-theoretical solutions of the Yang-Baxter equation.
+    Then we introduce the notion of a post-groupoid. A post-groupoid is
+    a group bundle equipped with another binary operation. The section
+    space of a post-groupoid is a weak post group. A post-groupoid gives
+    rise to a groupoid and an action on the original group bundle. By
+    differentiation of a post-Lie groupoid, one can obtain a post-Lie alge-
+    broid, which was introduced by Munthe-Kaas and Lundervold in the
+    study of geometric numerical analysis. Finally, we show that post-
+    groupoids provide solutions of the Yang-Baxter equation on quivers.
+    This is a joint work with Rong Tang and Chenchang Zhu.
+
+
+
+
+                                    7
+
+
+PDF PAGE 8
+Thursday, July 11
+Chairman: Pavol Severa
+
+  ■ 09:30 - 10:20: Leonid POLTEROVICH (Tel Aviv University).
+    Big Fiber Theorems, Ideal-Valued Measures, and Symplec-
+    tic Topology.
+    I will discuss an adaptation of Gromov’s ideal-valued measures to sym-
+    plectic topology. It leads to a unified viewpoint at three "big fiber
+    theorems": the Centerpoint Theorem in combinatorial geometry, the
+    Maximal Fiber Inequality in topology, and the Non-displaceable Fiber
+    Theorem for involutive maps in symplectic topology, and yields appli-
+    cations to symplectic rigidity. Joint work with Adi Dickstein, Yaniv
+    Ganor, and Frol Zapolsky.
+
+  ■ 11:10 - 12:00: Kasia REJZNER (University of York).
+    Quantization of Gauge Theories in Perturbative Alge-
+    braic Quantum Field Theory.
+    I will begin with outlining the formalism of perturbative algebraic
+    quantum field theory, which has been successfully applied in quanti-
+    zation of gauge theories. Then I will explain how it can be generalized
+    to situations where a boundary is present, including the case of an
+    asymptotic "boundary at infinity." The key idea is to start with a
+    Poisson structure and quantize it through formal deformation quan-
+    tization. In the presence of boundaries and corners, one has a whole
+    hierarchy of such structures.
+
+  ■ 12:10 - 13:00: Florian NAEF (Trinity College Dublin).
+    Simple Homotopy Types in String Topology.
+    Reidemeister and Whitehead gave a completely algebraic description
+    of finite CW complexes up to cell collapses (aka simple homotopy
+    types). We will see how a weakening of this structure (namely its
+    trace) enters into the construction of a string topology operation on
+    the homology of the free loop space (the loop coproduct). This in
+    particular implies that string topology is not a homotopy invariant.
+    This is joint work with Pavel Safronov.
+
+
+
+
+                                    8
+
+
+PDF PAGE 9
+Chairman: Marco Zambon
+  ■ 15:00 - 15:50: Henrique BURSZTYN (IMPA).
+    Symplectic Groupoids via 2-Shifted Lagrangian Struc-
+    tures.
+    I will discuss the role of 2-shifted Lagrangian structures as a frame-
+    work for constructing (quasi-) symplectic groupoids of interest in
+    Poisson geometry. I will focus on Lagrangian structures on Lie
+    groupoid morphisms into (2-shifted symplectic) Lie groups and ex-
+    plain their infinitesimal counterparts in terms of Dirac structures.
+    Applications include the description of integrations of quasi-Poisson
+    spaces and the construction of symplectic groupoids of Poisson ho-
+    mogeneous spaces. The talk is based on joint work with D. Alvarez
+    and M. Cueca.
+  ■ 16:40 - 17:30: Michele SCHIAVINA (Università di Pavia).
+    Reduction by Stages for Gauge Theory with Corners.
+    I will discuss the Hamiltonian formulation of local field theories
+    on manifolds with corners in the particular, yet common, case in
+    which they admit an equivariant momentum map. In the presence
+    of corners, the momentum map naturally splits into a part encoding
+    “Cauchy data” or constraints, and a part encoding the “flux” across
+    the corner.
+    The reduced phase space is then conveniently handled via symplectic
+    reduction by stages, adapted to local group actions.
+    When smooth, the output of this analysis are natural Poisson struc-
+    tures associated to corner submanifolds (both on- and off-shell), lead-
+    ing to the concept of (classical) flux superselection sectors as their
+    symplectic leaves, and providing a roadmap to quantum superselec-
+    tion. Moreover, in terms of higher structures, embedding this “on
+    shell” data in ambient corner configuration spaces leads to “Poisson-
+    infinity data”.
+    As a byproduct, both the Peter-Weyl theorem and the Verlinde for-
+    mula are seen as descending from the superselection factorisation for
+    the appropriate gauge theory. Looking at electrodynamics or gravita-
+    tion, other factorisation formulas are expected, owing to the general
+    structure of reduced phase spaces.
+
+                                   9
+
+
+PDF PAGE 10
+Friday, July 12
+Chairman: Antonio De Nicola
+  ■ 10:40 - 11:30: Rui Loja FERNANDES (University of Illinois
+    Urbana-Champaign).
+    Proper Symplectic Groupoids.
+    In this talk, I will provide a survey of the rich geometry underlying
+    proper symplectic Lie groupoids. This is based on ongoing joint work
+    with Marius Crainic (Utrecht) and David Martinez Torres (Madrid).
+  ■ 11:40 - 12:30: Brent PYM (McGill University).
+    Semi-classical Hodge Theory.
+    Kontsevich’s deformation quantization formula associates to any Pois-
+    son manifold an algebra of "quantum observables", defined as a non-
+    commutative deformation of the product of functions. The formula is
+    Feynman-style series expansion, whose coefficients are multiple zeta
+    values, making it intractable for direct calculation. Following a sug-
+    gestion of Kontsevich, I will explain how K-theory and mixed Hodge
+    structures can be used to construct natural "period coordinates" on
+    the moduli space of smooth Poisson varieties, in which the quantiza-
+    tion can often be computed simply, explicitly and nonperturbatively
+    as the exponential map for a complex torus. This gives a concep-
+    tual explanation for the appearance of various classical transcenden-
+    tal functions in the relations defining well-known noncommutative
+    algebras. This talk is based on joint work with A. Lindberg.
+Chairman: Luca Vitagliano
+  ■ 14:30 - 15:20: Yan ZHOU (Northeastern University).
+    Stokes Geometry and WKB Analysis.
+    We study the Riemann-Hilbert maps of a class of irregular connec-
+    tions on the trivial rank n bundle over the projective line that appears
+    in various geometry and representation theory contexts. The Stokes
+    data give the generalized monodromy data of these connections. The
+    compactification of the parameter space of the irregular types of these
+    connections is M̄0,n . At the deepest stratum of M̄0,n , we show that
+    the WKB leading terms of the Stokes matrices are periods on the spec-
+    tral curves. Near the deepest stratum of M̄0,n , we study the WKB
+
+                                    10
+
+
+PDF PAGE 11
+   approximation of Stokes data via the frame of spectral networks. In
+   particular, we will explain how interlacing inequalities indicated by
+   Poisson geometry correspond to BPS states. If time permits, we will
+   comment on the picture of the quantized Riemann Hilbert maps. The
+   talk will be based on joint work with Alekseev, Neitzke, and Xu.
+
+■ 16:10 - 17:00: Francis BISCHOFF (University of Regina).
+  bk Poisson Geometry and the Character Variety.
+  The bk tangent bundle, first introduced by Scott, is a Lie algebroid
+  consisting of vector fields tangent to a hypersurface D to order k.
+  Although this algebroid depends on the choice of a local defining
+  function for D, all functions give rise to isotopic Lie algebroids. In this
+  talk I will introduce a wider class of Lie algebroids that are locally of
+  bk type but which are classified, up to isotopy, by a local system on D.
+  These algebroids allow us to define a new class of Poisson structures,
+  which are symplectic away from D, and whose geometry is controlled
+  by a local system on D. I will give examples of these Poisson structures
+  obtained by deformations along paths in a character variety. This is
+  joint work with Álvaro Del Pino and Aldo Witte.
+
+
+
+
+                                   11
+
+
+PDF PAGE 12
+Posters
+ ■ Lory Aintablian (MPIM Bonn).
+   Differentiation of elastic diffeological groupoids.
+   I will present a differentiation procedure from elastic diffeological
+   groupoids to generalized Lie algebroids in the category of diffeological
+   spaces. First, I will show the differentiation procedure of groupoid ob-
+   jects in any category with an abstract tangent structure in the sense
+   of Rosický. Since the left Kan extension of the tangent structure
+   of smooth manifolds defines a tangent structure on elastic diffeologi-
+   cal spaces, this construction applies to elastic diffeological groupoids.
+   This is joint work with Christian Blohmann.
+
+ ■ Daniel Alvarez (University of Toronto).
+   Transitive Courant algebroids and double symplectic
+   groupoids.
+
+
+ ■ Camilo Angulo (Jilin University).
+   Van Est theory for strict Lie 2-groups.
+   As it has been proven lately, the homological perturbation lemma
+   can be used to give a conceptual explanation for the van Est map
+   and a clear method from which van Est theorem follows. In this
+   poster, we present the double complex that the perturbation lemma
+   should be applied to in the case of strict Lie 2-groups; we explain
+   how this can be regarded as a differentiation method; we present
+   the corresponding van Est map and theorem; and, as an application,
+   present the differentiation of the Segal 2-form on the loop group.
+
+ ■ Eugenia Boffo (Comenius University Bratislava).
+   BV and pictures of the spinning particle.
+   Similarly to the Ramond-Neveu-Schwarz superstring, a spinning par-
+   ticle is a relativistic particle with a supersymmetric worldline. Af-
+   ter Becchi-Rouet-Stora-Tyutin quantization, different sectors arise for
+   the representation of the bosonic ghosts associated with supersymme-
+   try and are distinguished by different picture numbers [2]. Though
+   the maximal picture case (integral forms) and the minimal one (super-
+   forms) are cohomologically equivalent, a different situation emerges
+
+                                   12
+
+
+PDF PAGE 13
+  for the intermediate case, that of pseudoforms. In our recent work
+  [1] we have computed the partition function in all of the pictures and
+  highlighted the presence of topological sectors for the case of pseud-
+  oforms. In the same fashion as second quantizing a string leads to
+  string field theory, for a spinning particle second quantization yields
+  a (gauge) field theory. Motivated by the work of Zwiebach [3], which
+  shows the presence of a homotopy algebraic structure (the Batalin-
+  Vilkovisky one) in quantized closed string field theory, one may won-
+  der if the same structure is present in the case of a particle. After all,
+  BRST itself recovers the field theory up to linear order (or otherwise
+  stated, the BRST operator is the first product in the expansion in
+  multiproducts). We suggest [1] that indeed one can recover a BV
+  formulation of Yang-Mills theory (as target space theory for the spin-
+  ning particle).This possibility relies on the existence of a convenient
+  deformation of the BRST operator by fields.
+  [1]   E. Boffo et al. In: (2024). arXiv: 2402.09868 [hep-th].
+  [2]   E. Witten. In: Pure Appl. Math. Quart. 15 (2019).
+  [3]   B. Zwiebach. In: Nucl. Phys. B 390 (1993).
+■ Pedro Henrique Carvalho Silva (IMPA Rio de Janeiro).
+  Homological reduction of Poisson and Courant struc-
+  tures.
+
+
+■ Ioana Ciuclea (West University of Timisoara).
+  Dual pairs and coadjoint orbits of nonlinear flags.
+  We present a more general version of the ideal fluid dual pair, involv-
+  ing the group of diffeomorphisms preserving a weighted nonlinear flag.
+  Symplectic reduction for the right leg yields coadjoint orbits of the
+  Hamiltonian group, that consist of weighted nonlinear flags.
+■ Alessandro Pietro Contini (Leibniz Universität Hannover).
+  Symplectic geometry on scattering manifolds.
+  Symplectic geometry on singular manifolds, a topic that has received
+  considerable attention in the Poisson community, originated in an
+  analytical framework in the work of Melrose on Fourier Integral Op-
+  erators on manifolds with boundary. Recently, scattering-symplectic
+
+                                  13
+
+
+PDF PAGE 14
+  geometry has been introduced by Lanius to study higher-order sin-
+  gularities. In this poster, I want to present a notion of symplectic
+  structure and symplectomorphisms on scattering manifold, differing
+  slightly from this previous work, that is however very rooted in the
+  original approach and should lead to a good analytical theory
+
+■ Oscar Cosserat (Georg-August Universität Göttingen).
+  Post-Lie algebras and Poisson integrators.
+
+
+■ Sourav Das (Chennai Mathematical Institute).
+  Moduli stack of Higgs bundles on stable curves.
+  In this article, we construct a flat degeneration of the derived moduli
+  stack of Higgs bundles on smooth curves using the stack of expanded
+  degenerations of Jun Li. We show that there is an intrinsic relative
+  log-symplectic form on the degeneration and we compare it with the
+  one constructed by the second author. We show that the Hitchin map
+  of the degeneration we construct has complete fibers. Furthermore,
+  we show that the Hitchin map is flat and that a suitable open subset
+  of the smooth locus of the reduced nilpotent cone is Lagrangian. We
+  also extend the construction of the moduli of Higgs bundles along
+  with the relative log-symplectic form over the universal moduli stack
+  of stable curves.
+
+■ Thomas De Fraja (Heriot–Watt University).
+  Courant algebroid relations and T-duality.
+
+
+■ Lennart Döppenschmitt (University of Zurich).
+  Kähler geometry of brane moduli spaces.
+
+
+■ Ilias Ermeidis (Georg-August Universität Göttingen).
+  On Deformations of Infinitesimally Multiplicative Distri-
+  butions on Lie Algebroids.
+  In this poster, we present several features of the deformation theory
+  of IM-distributions, as well ideals, inside Lie algebroids.
+
+
+
+                                 14
+
+
+PDF PAGE 15
+■ Benedetta Facciotti (University of Birmingham).
+  An example of Stokes data and real decorated blowups.
+  This poster focuses on the study of a specific example of a meromor-
+  phic connection on a vector bundle of rank 3 on the projective line.
+  It will be shown how the Stokes data arising from the higher order
+  pole can be computed exploiting the decorated real oriented blowup
+  of the surface involved and Fock-Goncharov theory.
+
+■ Alfonso Garmendia (CRM).
+  Properties of E-symplectic Manifolds.
+
+
+■ Iván Gutiérrez Sagredo (Universidad de Burgos).
+  Unimodularity and invariant volume forms for hamilto-
+  nian dynamics on Poisson-Lie groups and Poisson homoge-
+  neous spaces.
+  In this poster, we discuss several relations between the existence
+  of invariant volume forms for Hamiltonian systems on Poisson-Lie
+  groups and Poisson homogeneous spaces and the unimodularity of
+  the Poisson-Lie structure. Some of the results presented are based on
+  [1].
+
+  [1]   I Gutierrez-Sagredo et al. “Unimodularity and invariant volume
+        forms for Hamiltonian dynamics on Poisson–Lie groups”. In:
+        Journal of Physics A: Mathematical and Theoretical 56 (2023).
+
+■ Yuji Hirota (Azabu University).
+  Symmetry in Bundle-Valued n-plectic Geometry.
+
+
+■ Douwe Hoekstra (Radboud University).
+  Poisson cohomology of three-dimensional linear Poisson
+  structures.
+  Linear Poisson structures are in one-to-one correspondence with Lie
+  algebras. This allows us to classify all linear Poisson structures in
+  three dimensions up to isomorphism. Using this classification, origi-
+  nally due to Bianchi, we compute the Poisson cohomology groups of
+  all linear Poisson structures in three dimensions. This work continues
+
+
+                                 15
+
+
+PDF PAGE 16
+  on the work of A. Weinstein & V. Ginzburg for so(3) and F. Zeiser
+  & I. Marcut for sl(2, R). This is joint work with F. Zeiser.
+
+■ Gavin Hurd (University of Toronto).
+  Prequantization of an odd exact Courant algebroid.
+
+
+■ Naoki Kimura (Tokyo University of Science).
+  Compatibility between Jacobi structures and pseudo
+  -Riemannian cometrics on Jacobi algebroids.
+  Boucetta introduced compatibility between Poisson structures and
+  pseudo-Riemannian cometrics on manifolds. In this poster presenta-
+  tion, we define compatibility between Jacobi structures and pseudo-
+  Riemannian cometrics on Jacobi algebroids, as a generalization of
+  the compatibility defined by Boucetta. We also state that this com-
+  patibility with a cometric is "preserved" by the Poissonization of a
+  Jacobi structure. In particular, for a contact metric structure on a
+  manifold, satisfying the compatibility condition is equivalent to be-
+  ing a Sasakian structure. This research is a joint work with Tomoya
+  Nakamura (Kogakuin University).
+
+■ Charlotte Kirchhoff-Lukat (KU Leuven).
+  Log symplectic surfaces and wrapped Fukaya categories.
+  In this talk I will explain how to apply the techniques of partially
+  wrapped Fukaya categories and stop removal (due to Ganatra-Pardon-
+  Shende) to log symplectic surfaces. Every closed log symplectic sur-
+  face can be decomposed into open symplectic surfaces and tubular
+  neighbourhoods of the log degeneracy loci. Having already directly
+  constructed the Fukaya category of any whole closed log symplectic
+  surface, we can use this decomposition as a tool for explicit computa-
+  tion: While computing the whole category explicitly quickly becomes
+  complicated for surfaces of higher genus and with more complicated
+  degeneracy loci, the wrapped Fukaya categories of the smaller com-
+  ponents are simpler to compute and can then be combined to obtain
+  the Fukaya category of the whole.
+
+
+
+
+                                 16
+
+
+PDF PAGE 17
+■ Praphulla Koushik (NIT Calicut).
+  On certain vector bundles over Dirac manifolds.
+  Motivated by the study of Poisson vector bundles over Poisson man-
+  ifolds by Viktor Ginzburg in their work "Grothendieck Groups of
+  Poisson Vector Bundles",we introduce the notion of a certain vector
+  bundle over Dirac manifolds and study certain properties. This will
+  be based on our work in progress.
+
+■ Kalin Krishna (Georg–August Universität Göttingen).
+  Higher Lie Groupoids and Bibundles.
+  We define the notion of Higher groupoids in Good Geometric Cate-
+  gories and organise them into an (∞, 1)-category framework, where
+  the morphism between the higher groupoids are given by bibundles be-
+  tween the groupoids. One particular example is the bibundle version
+  of higher morphisms between higher Lie groupoids as Kan fibrations
+  over interval and higher simplices. This approach gives a more com-
+  binatorial and geometric way of approaching anafunctors and higher
+  generalised morphisms between Lie groupoids.
+
+■ Andrey Krutov (Charles University).
+  Clifford algebra analogue of the Cartan theorem.
+  Let g be a complex simple Lie algebra. The Hopf-Koszul-Samelson
+  theorem asserts that the algebra of g-invariants in the exterior alge-
+  bra of g is the exterior algebra over the space of primitive invariants
+  P . Kostant proved the analogous result for the Clifford algebra of g.
+  Namely, the algebra of g-invariants in Cl(g) is the Clifford algebra
+  over the space of primitive invariants. Let k be a symmetric subal-
+  gebra of g and p be the corresponding isotropy representation. The
+  Cartan theorem states that the algebra of k-invariants in the exterior
+  algebra of p is isomorphic to the tensor product of the exterior alge-
+  bra of the Sameson subspace of P , corresponding to the pair (g, k),
+  and a certain commutative algebra A. We prove a Clifford algebra
+  analogue of the Cartan theorem. Namely, we show that the algebra
+  of k-invariants in Cl(p) is the tensor product of the Clifford algebra
+  over the space of primitive invariant of p with a certain filtered defor-
+  mation of A.
+  This is joint work with K. Calvert, K. Grizelj, and P. Pandžić.
+
+                                  17
+
+
+PDF PAGE 18
+■ Joshua Lackman (Peking University).
+  A Groupoid Construction of Functional Integrals.
+
+
+■ Aidan Lindberg (University of Toronto).
+  Picard Groups of Holomorphic Poisson Manifolds.
+
+
+■ Ruben Louis (Jilin University).
+  On Nash-type resolution of Lie algebroids with applica-
+  tions to (twisted) Poisson structures.
+  We introduce a Nash-type blowup method on (almost) Lie algebroids
+  with applications, particularly in the context of (twisted) Poisson
+  structures. It also makes sense on singular subalgebroids in the sense
+  of Androulidakis-Zambon. The study reveals that any Lie algebroid
+  transforms under this blowup to a new Lie algebroid whose anchor
+  map is injective on an open dense subset.
+
+■ Ana Carolina Mançur (IMPA Rio de Janeiro).
+  Manin triples for Poisson double structures.
+  Manin triples offer an alternative perspective to Lie bialgebras (or Lie
+  bialgebroids), which are infinitesimal counterparts of Poisson groups
+  (or groupoids). In this poster, we will discuss Manin triples in the
+  context of double structures that arise as infinitesimal versions of dou-
+  ble Poisson groupoids. We will observe that Drinfeld doubles in this
+  context yield structures known as LA-Courant algebroids and Mul-
+  tiplicative Courant algebroids, indicating the relationship between
+  them through differentiation and integration.
+
+■ Filip Moučka (Universitat Autònoma de Barcelona).
+  Symmetric Poisson structures.
+  A Poisson structure on a smooth manifold is a skew-symmetric bivec-
+  tor field satisfying a certain integrability condition. We give an an-
+  swer to the very natural and simple question: What is a suitable
+  integrability condition for a symmetric bivector field? The definition
+  and basic properties of so-called symmetric Poisson structures are
+  presented.
+
+
+
+                                  18
+
+
+PDF PAGE 19
+■ Joshua Mundinger (University of Wisconsin-Madison).
+  The Hochschild-Kostant-Rosenberg filtration in charac-
+  teristic p.
+  In characteristic zero, the HKR isomorphism describes Hochschild ho-
+  mology of a variety in terms of differential forms. In characteristic p,
+  we describe the first possibly nonzero obstruction to this isomorphism
+  using deformation quantization.
+■ Tomoya Nakamura (Kogakuin University).
+  Dirac pairs on Jacobi algebroids.
+  Kosmann-Schwarzbach introduced Dirac pairs on Lie algebroids. In
+  this talk, we introduced Dirac pairs on Jacobi algebroids. these are
+  a generalization of Dirac pairs on Lie algebroids. We show the rela-
+  tionship between Dirac pairs on Lie and on Jacobi algebroids, and
+  that Dirac pairs on Jacobi algebroids characterize several compati-
+  ble structures on Jacobi algebroids. For example, JΩ-structures and
+  ΩN-structures.
+■ Clarice Netto (University of São Paulo).
+  Algebraic aspects of multiplicative sections of CA-
+  groupoids.
+  Motivated by recent results of C. Ortiz and J. Waldron about
+  the category of multiplicative sections of VB-groupoids and LA-
+  groupoids, we study the algebraic structure underlying the category
+  of multiplicative sections of a multiplicative Courant algebroids (CA-
+  groupoids), which we obtain a Courant 2-algebra. We also discuss
+  quasi-isomorphisms of the Courant 2-algebras between CA-groupoids
+  Morita equivalents. This poster is based on a joint work in develop-
+  ment with C. Ortiz and E. Cupitra.
+■ Nikita Nikolaev (University of Birmingham).
+  Poisson Geometry of the Hodge Moduli Space.
+  The Hodge moduli space parameterises the data (X, D, E, ∇) con-
+  sisting of compact complex curves X with effective divisors D, and
+  holomorphic vector bundles E with meromorphic λ-connections ∇
+  with poles bounded by D. This space carries a complex hyperkahler
+  structure induced by the isomonodromy connection. It also carries an
+  integrable system structure over the full Hitchin base with Lagrangian
+
+                                  19
+
+
+PDF PAGE 20
+                               C                     C
+  fibres being algebraic tori ( × )2d which are the × -character vari-
+  eties of spectral curves. This is joint work in progress with Tom
+  Bridgeland.
+
+■ Taika Okuda (Tokyo University of Science).
+  Explicit Formula for Star Product with Separation of
+  Variables of Two-dimensional Locally Symmetric Kähler
+  Manifolds.
+  We explain the explicit formula that gives the star product with sepa-
+  ration of variables of two-dimensional locally symmetric Kähler man-
+  ifolds. The construction methods of deformation quantization with
+  separation of variables were proposed by Sako-Suzuki-Umetsu and
+  Hara-Sako for locally symmetric Kähler manifolds. These methods
+  state that for any locally symmetric Kähler manifolds, there exists
+  the star product that is concretely given from the solution of some
+  recurrence relations. From their construction method, the explicit
+  formula for a star product on arbitrary ones was obtained only in
+  one-dimensional case. In this work, we give the explicit formula for a
+  star product on two-dimensional locally symmetric Kähler manifolds
+  with matrix representations from the construction method proposed
+                                                         C
+  by Hara-Sako. By calculating the star products of 2 and P 2 asC
+  concrete examples from the obtained explicit formula, we also confirm
+  that their star products coincide with the results obtained in previous
+  works. This is the joint work with Akifumi Sako (Tokyo University
+  of Science).
+
+■ Stefano Ronchi (Georg-August Universität Göttingen).
+  Higher cotangent groupoids.
+
+
+■ Philipp Schmitt (Leibniz Universität Hannover).
+  Strict quantization of polynomial Poisson structures.
+
+
+
+
+                                   20
+
+
+PDF PAGE 21
+■ Wilmer Smilde (University of Illinois Urbana–Champaign).
+  Lie theory & classification of geometric structures:
+  Bryant algebroids.
+  Already implicit in the work of Elie Cartan, there is a deep connection
+  between classification problems for geometric structures (coframes)
+  and modern Lie theory. Many classification problems arise as a ‘PDE
+  in the structure functions of a coframe’. In rare (but not unnatural)
+  cases, this PDE is of so-called finite type, and defines a Lie algebroid
+  that classifies the problem. The problem of classifying all complete
+  (global) solutions is essentially the same as determining whether the
+  Lie algebroid is integrable. This deep connection between Lie the-
+  ory and geometric classification problems has been worked out by
+  Fernandes and Struchiner.
+  We propose a generalization of Lie algebroids, a Bryant algebroid,
+  that is designed to capture the essential structure of the ‘infinite
+  type PDEs in the structure functions of a coframe’. The theory of
+  Bryant algebroids makes the connection between generic classification
+  problems for geometric structures and Lie theory clear and precise.
+  This is ongoing work with Rui Loja Fernandes.
+
+■ Rudolf Smolka (Czech Technical University in Prague).
+  Geometric Approach to Graded Vector Bundles.
+                   Z
+  In the theory of -graded manifolds one usually defines the so-called
+  graded vector bundles first by their (graded) sheaf of sections, and
+  then proceeds to construct the underlying graded manifold. In this
+  poster we show a "geometric" definition much more akin to the usual
+  approach to vector bundles in ordinary (non-graded) differential ge-
+  ometry. Some examples and properties of graded vector bundles are
+  also presented.
+
+■ Andreas Swerdlow (University of Manchester).
+  A Graphical Calculus for Microformal Morphisms and
+  Pullbacks.
+  Microformal or thick morphisms, introduced by Ted Voronov, are a
+  generalisation of smooth maps between manifolds that still give rise
+  to pullbacks on functions. These pullbacks are in general nonlinear
+  and formal, and in special cases they define L-infinity morphisms be-
+
+                                  21
+
+
+PDF PAGE 22
+  tween the algebras of functions on homotopy Poisson or homotopy
+  Schouten manifolds. My poster will display my recent work develop-
+  ing a graphical calculus which calculates all terms in the formal power
+  series that result from these pullbacks. The method heavily resembles
+  the use of Feynman diagrams in perturbative quantum field theory,
+  and the relationship between the calculi for classical and quantum
+  thick morphisms is exactly the relationship between the tree-level
+  and full perturbative expansions in QFT.
+
+■ Fabricio Valencia (University of São Paulo).
+  Closed geodesics on Riemannian stacks.
+  We present a result which shows the existence of closed geodesics of
+  positive length on certain separated Riemannian stacks, thus gener-
+  alizing some of the well known results for the case of orbifolds due to
+  Guruprasad-Haefliger. Our approach follows two main steps. Firstly,
+  motivated by the case of orbifolds, we proceed by extending classi-
+  cal techniques from infinite dimensional Morse theory applied to the
+  stacky energy functional over the space of stacky loops in a Rieman-
+  nian stack that is presented by a proper regular groupoid. Secondly,
+  we use the regularization result for separated Riemannian stacks due
+  to Posthuma-Tang-Wang in order to push stacky geodesics of positive
+  length down. Based on joint work with C. Ortiz and L. Vitagliano.
+
+■ Mikhail Vasilev (University of Glasgow).
+  Ruijsenaars duality for B, C, D Toda systems.
+  We use theHamiltonian reduction method to construct the Ruijsenars
+  dual systems to generalized Toda chains associated with the classical
+  Lie algebras of types (B, C, D). The dual systems turn out to be
+  the B, C, and D analogues of the rational Goldfish model, which
+  is, as in the type A case, the strong coupling limit of rational Rui-
+  jsenaars systems. We explain how both types of systems emerge in
+  the reduction of the cotangent bundle of a Lie group and provide the
+  formulae for dual Hamiltonians and action-angle duality maps. We
+  compute explicitly the higher Hamiltonians of Goldfish models using
+  Cauchy–Binet theorem.
+
+
+
+
+                                 22
+
+
+PDF PAGE 23
+■ Dan Wang (CUHK).
+  Geometric Quantization of Kähler Manifold with T-
+  Symmetry.
+
+
+■ Aldo Witte (Antwerp University).
+  Jets of foliations and Lie algebroids.
+  In this talk we will study a higher version jet version of the Riemann-
+  Hilbert correspon- dence. The classical Riemann-Hilbert correspon-
+  dence relates linear representations of the fundamental group of man-
+  ifold with flat vector bundles over the manifold. Instead of linear
+  representations we will study representations which are polynomial
+  in nature. This leads to the discovery of the notion of a k-jet of foli-
+  ation, a distribution which is only involutive up to order k. We will
+  then show that these k-jets of foliations can be used to classify a cer-
+  tain group of Lie algebroids arising in singular symplectic geometry.
+  Joint work with Alvaro del Pino and Francis Bischoff.
+
+■ Xiaomeng Xu (Peking University).
+  Quantum Stokes matrices.
+
+
+■ Fabrizio Zanello (University of Potsdam).
+  Second order two-fields variational characterization of
+  (2 + 1)-dimensional modified sixth-order Boussinesq-type
+  equations and extensions of Lagrangian equivalents.
+  We determine second order Lagrangians for (2 + 1)-dimensional mod-
+  ified Boussinesq equations and we discuss some aspects concerning
+  conservation laws and conserved quantities associated with invari-
+  ance properties of their extended ‘full’ equivalents, in particular of
+  Krupka–Betounes type. (Joint work with Frabrizio Zanello)
+
+
+
+
+                                  23

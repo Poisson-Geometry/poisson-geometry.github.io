@@ -1,5 +1,6 @@
 node_modules/
 dist/
 .build/
+.research/
 *-desktop.png
 *-mobile.png

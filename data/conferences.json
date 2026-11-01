@@ -7,7 +7,8 @@
     "status": "Announced",
     "dates": null,
     "committee": null,
-    "proceedings": []
+    "proceedings": [],
+    "materials": []
   },
   {
     "year": 2026,
@@ -32,40 +33,465 @@
       "end_date": "2026-08-14",
       "url": "https://wis.kuleuven.be/events/2026_poisson/conference_poisson2026"
     },
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2026-historical-record",
+      "2026-alvarez",
+      "2026-gualtieri"
+    ],
+    "highlights": [
+      {
+        "text": "The opening slides of Daniel Álvarez’s lecture connect quasi-Poisson manifolds with Lie algebroids, global integration, Picard groups and Courant algebroids.",
+        "source": "2026-alvarez",
+        "page": 1
+      }
+    ]
   },
   {
     "year": 2024,
     "city": "Naples",
     "country": "Italy",
     "region": "Europe",
-    "venue": "Napoli",
+    "venue": "Accademia Pontaniana, Naples",
     "committee": "F. D'Andrea (Napoli), A. De Nicola (Salerno), C. Esposito (Salerno), A. Tortorella (Salerno), L. Vitagliano (Salerno), A. Zampini (Napoli)",
     "dates": "School: July 1-5, Conference: July 8-12",
     "proceedings": [],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2024-historical-record",
+      "2024-booklet",
+      "2024-sheng",
+      "2024-bursztyn"
+    ],
+    "talks": [
+      {
+        "speaker": "Chenchang Zhu",
+        "affiliation": "Universität Göttingen",
+        "title": "Higher Derived Shifted Symplectic Groupoids",
+        "day": "Monday, 8 July 2024",
+        "time": "11:10–12:00",
+        "source": "2024-booklet",
+        "page": 3
+      },
+      {
+        "speaker": "Mykola Matviichuk",
+        "affiliation": "Imperial College",
+        "title": "Deformation Theory of Log Symplectic Manifolds",
+        "day": "Monday, 8 July 2024",
+        "time": "12:10–13:00",
+        "source": "2024-booklet",
+        "page": 3
+      },
+      {
+        "speaker": "Boris Khesin",
+        "affiliation": "University of Toronto",
+        "title": "Pensive Billiards",
+        "day": "Monday, 8 July 2024",
+        "time": "15:00–15:50",
+        "source": "2024-booklet",
+        "page": 3
+      },
+      {
+        "speaker": "Paolo Antonini",
+        "affiliation": "Università del Salento",
+        "title": "Optimal Transport between Algebraic Hypersurfaces",
+        "day": "Monday, 8 July 2024",
+        "time": "16:40–17:30",
+        "source": "2024-booklet",
+        "page": 4
+      },
+      {
+        "speaker": "Alberto Cattaneo",
+        "affiliation": "University of Zurich",
+        "title": "Poisson Structures from Corners of Field Theories",
+        "day": "Tuesday, 9 July 2024",
+        "time": "09:30–10:20",
+        "source": "2024-booklet",
+        "page": 5
+      },
+      {
+        "speaker": "Ana Balibanu",
+        "affiliation": "Louisiana State University",
+        "title": "Reduction along Strong Dirac Maps",
+        "day": "Tuesday, 9 July 2024",
+        "time": "11:10–12:00",
+        "source": "2024-booklet",
+        "page": 5
+      },
+      {
+        "speaker": "Mario Garcia-Fernandez",
+        "affiliation": "UAM & ICMAT",
+        "title": "Moduli Spaces and the First Pontryagin Class",
+        "day": "Tuesday, 9 July 2024",
+        "time": "12:10–13:00",
+        "source": "2024-booklet",
+        "page": 5
+      },
+      {
+        "speaker": "Jonathan Pridham",
+        "affiliation": "University of Edinburgh",
+        "title": "Derived Poisson Structures",
+        "day": "Tuesday, 9 July 2024",
+        "time": "15:00–15:50",
+        "source": "2024-booklet",
+        "page": 6
+      },
+      {
+        "speaker": "Miquel Cueca Ten",
+        "affiliation": "Universität Göttingen",
+        "title": "Transgressions in Poisson Geometry",
+        "day": "Tuesday, 9 July 2024",
+        "time": "16:40–17:30",
+        "source": "2024-booklet",
+        "page": 6
+      },
+      {
+        "speaker": "Marta Mazzocco",
+        "affiliation": "University of Birmingham",
+        "title": "Triangulations, Cluster Varieties and GDAHA",
+        "day": "Wednesday, 10 July 2024",
+        "time": "09:30–10:20",
+        "source": "2024-booklet",
+        "page": 7
+      },
+      {
+        "speaker": "Yunhe Sheng",
+        "affiliation": "Jilin University",
+        "title": "Post-groupoids and the Yang-Baxter Equation",
+        "day": "Wednesday, 10 July 2024",
+        "time": "11:10–12:00",
+        "source": "2024-booklet",
+        "page": 7,
+        "slides": "2024-sheng"
+      },
+      {
+        "speaker": "Leonid Polterovich",
+        "affiliation": "Tel Aviv University",
+        "title": "Big Fiber Theorems, Ideal-Valued Measures, and Symplectic Topology",
+        "day": "Thursday, 11 July 2024",
+        "time": "09:30–10:20",
+        "source": "2024-booklet",
+        "page": 8
+      },
+      {
+        "speaker": "Kasia Rejzner",
+        "affiliation": "University of York",
+        "title": "Quantization of Gauge Theories in Perturbative Algebraic Quantum Field Theory",
+        "day": "Thursday, 11 July 2024",
+        "time": "11:10–12:00",
+        "source": "2024-booklet",
+        "page": 8
+      },
+      {
+        "speaker": "Florian Naef",
+        "affiliation": "Trinity College Dublin",
+        "title": "Simple Homotopy Types in String Topology",
+        "day": "Thursday, 11 July 2024",
+        "time": "12:10–13:00",
+        "source": "2024-booklet",
+        "page": 8
+      },
+      {
+        "speaker": "Henrique Bursztyn",
+        "affiliation": "IMPA",
+        "title": "Symplectic Groupoids via 2-Shifted Lagrangian Structures",
+        "day": "Thursday, 11 July 2024",
+        "time": "15:00–15:50",
+        "source": "2024-booklet",
+        "page": 9,
+        "slides": "2024-bursztyn"
+      },
+      {
+        "speaker": "Michele Schiavina",
+        "affiliation": "Università di Pavia",
+        "title": "Reduction by Stages for Gauge Theory with Corners",
+        "day": "Thursday, 11 July 2024",
+        "time": "16:40–17:30",
+        "source": "2024-booklet",
+        "page": 9
+      },
+      {
+        "speaker": "Rui Loja Fernandes",
+        "affiliation": "University of Illinois Urbana-Champaign",
+        "title": "Proper Symplectic Groupoids",
+        "day": "Friday, 12 July 2024",
+        "time": "10:40–11:30",
+        "source": "2024-booklet",
+        "page": 10
+      },
+      {
+        "speaker": "Brent Pym",
+        "affiliation": "McGill University",
+        "title": "Semi-classical Hodge Theory",
+        "day": "Friday, 12 July 2024",
+        "time": "11:40–12:30",
+        "source": "2024-booklet",
+        "page": 10
+      },
+      {
+        "speaker": "Yan Zhou",
+        "affiliation": "Northeastern University",
+        "title": "Stokes Geometry and WKB Analysis",
+        "day": "Friday, 12 July 2024",
+        "time": "14:30–15:20",
+        "source": "2024-booklet",
+        "page": 10
+      },
+      {
+        "speaker": "Francis Bischoff",
+        "affiliation": "University of Regina",
+        "title": "bᵏ Poisson Geometry and the Character Variety",
+        "day": "Friday, 12 July 2024",
+        "time": "16:10–17:00",
+        "source": "2024-booklet",
+        "page": 11
+      }
+    ],
+    "overview": "The Naples conference ran from 8 to 12 July 2024 at the Accademia Pontaniana. The booklet lists 20 scheduled plenary talks, alongside a poster programme. Themes include shifted and derived geometry, groupoids, quantization, moduli spaces, dynamics and mathematical physics. The timetable places the poster buffet on Wednesday 10 July.",
+    "overviewSource": "2024-booklet",
+    "overviewPage": 2,
+    "highlights": [
+      {
+        "text": "Yunhe Sheng’s slides connect post-groups and post-groupoids with Rota–Baxter operators, braces, Butcher groups and Yang–Baxter equations. The title page records 10 July 2024.",
+        "source": "2024-sheng",
+        "page": 1
+      },
+      {
+        "text": "Henrique Bursztyn’s handwritten slides present symplectic groupoids through 2-shifted Lagrangian structures and credit joint work with D. Álvarez and M. Cueca.",
+        "source": "2024-bursztyn",
+        "page": 1
+      }
+    ]
   },
   {
     "year": 2022,
     "city": "Barcelona & Madrid",
     "country": "Spain",
     "region": "Europe",
-    "venue": "Barcelona and Madrid",
+    "venue": "Madrid · ICMAT campus (25 July) and CSIC Central Building (26–29 July)",
     "committee": "M. García Fernández (ICMAT-UAM), D. Iglesias Ponte (La Laguna), D. Martín de Diego (ICMAT-CSIC), A. Matveeva (UPC), E. Miranda (UPC), C. Oms (UPC), D. Peralta-Salas (ICMAT-CSIC), R. Rubio (UB)",
     "dates": "School: July 18-22, Conference: July 25-29",
     "proceedings": [],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2022-historical-record",
+      "2022-booklet"
+    ],
+    "overview": "The 12th international Poisson conference took place on 25–29 July 2022. Its booklet describes a joint CRM–ICMAT intensive research programme, with an advanced school in Barcelona preceding the Madrid conference. The schedule distinguishes the opening day at ICMAT from the following days at the CSIC Central Building. The programme includes Hamiltonian spaces, quantization, symplectic foliations, Lie groupoids and algebroids.",
+    "overviewSource": "2022-booklet",
+    "overviewPage": 3,
+    "talks": [
+      {
+        "speaker": "Anton Alekseev",
+        "title": "Virasoro Hamiltonian spaces",
+        "source": "2022-booklet",
+        "page": 10
+      },
+      {
+        "speaker": "Alexander Shapiro",
+        "title": "Quantum decorated character stacks",
+        "source": "2022-booklet",
+        "page": 11
+      },
+      {
+        "speaker": "Ryszard Nest",
+        "title": "Towards resolutions of singularities of Poisson structures",
+        "source": "2022-booklet",
+        "page": 12
+      },
+      {
+        "speaker": "Maria Amelia Salazar Pinzon",
+        "title": "Relative cohomology for Lie groupoids and algebroids",
+        "source": "2022-booklet",
+        "page": 13
+      },
+      {
+        "speaker": "Marius Crainic",
+        "title": "Constructions of codimension one symplectic foliations",
+        "source": "2022-booklet",
+        "page": 14
+      }
+    ],
+    "talksNote": "Selected talks extracted from the booklet. The full schedule and abstracts remain available in Materials."
   },
   {
     "year": 2018,
     "city": "Toronto",
     "country": "Canada",
     "region": "North America",
-    "venue": "Fields Institute, Toronto",
+    "venue": "University of Toronto, St. George Campus · Earth Sciences Centre, Room 1050",
     "committee": "M. Gualtieri (Toronto), E. Meinrenken (Toronto)",
     "dates": "School: July 9-13, Conference: July 16-20",
     "proceedings": [],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2018-historical-record",
+      "2018-programme"
+    ],
+    "talks": [
+      {
+        "title": "Codimension one symplectic foliations",
+        "speaker": "Marius Crainic",
+        "affiliation": "Utrecht University",
+        "day": "Monday, July 16th, 2018",
+        "time": "10:00–10:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Desingularizing Poisson structures",
+        "speaker": "Eva Miranda",
+        "affiliation": "Universitat Politècnica de Catalunya",
+        "day": "Monday, July 16th, 2018",
+        "time": "11:30–12:20",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Lagrangian cores of Weinstein manifolds",
+        "speaker": "Eliashberg",
+        "affiliation": "",
+        "day": "Monday, July 16th, 2018",
+        "time": "14:00–14:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Deformations of presymplectic forms via Dirac geometry",
+        "speaker": "Marco Zambon",
+        "affiliation": "Katholieke Universiteit Leuven",
+        "day": "Monday, July 16th, 2018",
+        "time": "15:30–16:20",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Multiple zeta values in deformation quantization",
+        "speaker": "Brent Pym",
+        "affiliation": "University of Edinburgh",
+        "day": "Tuesday, July 17th, 2018",
+        "time": "09:00–09:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Kostant, Steinberg, and the Stokes matrices of the tt*-Toda equations",
+        "speaker": "Nan-Kuo Ho",
+        "affiliation": "National Tsing Hua University",
+        "day": "Tuesday, July 17th, 2018",
+        "time": "10:00–10:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Poisson deformations and birational geometry",
+        "speaker": "Yoshinori Namikawa",
+        "affiliation": "Kyoto University",
+        "day": "Tuesday, July 17th, 2018",
+        "time": "11:30–12:20",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Twisting procedure and quantized actions",
+        "speaker": "Chiara Esposito",
+        "affiliation": "University of Salerno",
+        "day": "Tuesday, July 17th, 2018",
+        "time": "14:00–14:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "The Goldman-Turaev Lie bialgebra and the Kashiwara-Vergne problem",
+        "speaker": "Florian Naef",
+        "affiliation": "Massachusetts Institute of Technology",
+        "day": "Tuesday, July 17th, 2018",
+        "time": "15:30–16:20",
+        "source": "2018-programme"
+      },
+      {
+        "title": "New insights into semitoric invariants of focus-focus singularities",
+        "speaker": "Sonja Hohloch",
+        "affiliation": "University of Antwerp",
+        "day": "Wednesday, July 18th, 2018",
+        "time": "09:00–09:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Morita equivalence and the generalized Kahler potential",
+        "speaker": "Maxim Zabzine",
+        "affiliation": "Uppsala University",
+        "day": "Wednesday, July 18th, 2018",
+        "time": "10:00–10:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Flowing halfway into the quantum",
+        "speaker": "Alejandro Cabrera",
+        "affiliation": "Universidade Federal do Rio de Janeiro",
+        "day": "Wednesday, July 18th, 2018",
+        "time": "11:30–12:20",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Integrability and Associativity",
+        "speaker": "Rui Loja Fernandes",
+        "affiliation": "University of Illinois at Urbana-Champaign",
+        "day": "Thursday, July 19th, 2018",
+        "time": "09:00–09:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Geometric stacks for groupoids with geometry",
+        "speaker": "Joel Villatoro",
+        "affiliation": "University of Illinois at Urbana-Champaign",
+        "day": "Thursday, July 19th, 2018",
+        "time": "10:00–10:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Hodge decompositions for Lie algebroids on manifolds with boundary",
+        "speaker": "Joey van der Leer Durán",
+        "affiliation": "University of Toronto",
+        "day": "Thursday, July 19th, 2018",
+        "time": "11:30–12:20",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Higgs bundles and the triple reduced product",
+        "speaker": "Lisa Jeffrey",
+        "affiliation": "University of Toronto",
+        "day": "Thursday, July 19th, 2018",
+        "time": "14:00–14:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Stokes phenomenon, Yang-Baxter equations and Gromov-Witten theory",
+        "speaker": "Xiaomeng Xu",
+        "affiliation": "Massachusetts Institute of Technology",
+        "day": "Thursday, July 19th, 2018",
+        "time": "15:30–16:20",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Non-linear Maslov index on lens spaces",
+        "speaker": "Yael Karshon",
+        "affiliation": "University of Toronto",
+        "day": "Friday, July 20th, 2018",
+        "time": "09:00–09:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "From nonequilibrium thermodynamics to multi-Dirac structures",
+        "speaker": "François Gay-Balmaz",
+        "affiliation": "Ecole Normale Supérieure",
+        "day": "Friday, July 20th, 2018",
+        "time": "10:00–10:50",
+        "source": "2018-programme"
+      },
+      {
+        "title": "Hamiltonian Lie algebroids over presymplectic and Poisson manifolds",
+        "speaker": "Alan Weinstein",
+        "affiliation": "University of California Berkeley",
+        "day": "Friday, July 20th, 2018",
+        "time": "11:30–12:20",
+        "source": "2018-programme"
+      }
+    ],
+    "overview": "The 11th international edition met in Toronto on 16–20 July 2018. The programme includes plenary talks on symplectic foliations, deformation quantization, Dirac geometry and Poisson–Lie theory. The official record lists a reception and poster session at the Fields Institute and identifies Brent Pym and Chelsea Walton as the 2018 Lichnerowicz Prize recipients.",
+    "overviewSource": "2018-programme"
   },
   {
     "year": 2016,
@@ -74,11 +500,18 @@
     "region": "Europe",
     "venue": "Geneva and Zurich",
     "committee": "A. Alekseev (Geneva), A. Cattaneo (Zurich), G. Felder (ETHZ), M. Podkopaeva (Geneva), P. Severa (Geneva), T. Willwacher (Zurich)",
-    "dates": null,
+    "dates": "School: 27 June–2 July; conference: 4–8 July 2016",
     "proceedings": [
       "Lett. Math. Phys. 108 (2018)"
     ],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2016-historical-record",
+      "2016-exercises"
+    ],
+    "overview": "The Geneva and Zurich edition combined a summer school with the international conference. The recovered exercise notes develop Poisson brackets, submanifolds, the Schouten bracket, Poisson–Lie groups and the Lie algebroid and groupoid viewpoint.",
+    "overviewSource": "2016-exercises",
+    "overviewPage": 1
   },
   {
     "year": 2014,
@@ -91,7 +524,10 @@
     "proceedings": [
       "SIGMA 10 & 11 (2015)"
     ],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2014-historical-record"
+    ]
   },
   {
     "year": 2012,
@@ -104,7 +540,10 @@
     "proceedings": [
       "Indagationes Mathematicae 25 (2014)"
     ],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2012-historical-record"
+    ]
   },
   {
     "year": 2010,
@@ -117,7 +556,10 @@
     "proceedings": [
       "Bull. Braz. Math. Soc., New Series 42 (2011)"
     ],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2010-historical-record"
+    ]
   },
   {
     "year": 2008,
@@ -130,7 +572,10 @@
     "proceedings": [
       "Lett. Math. Phys. 90 (2009)"
     ],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2008-historical-record"
+    ]
   },
   {
     "year": 2006,
@@ -144,7 +589,10 @@
       "Cont. Math., Volume 450 , AMS (2008)",
       "Travaux Mathématiques, Volume XVII (2007)"
     ],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2006-historical-record"
+    ]
   },
   {
     "year": 2004,
@@ -157,7 +605,10 @@
     "proceedings": [
       "Travaux Mathématiques, Volume XVI (2005)"
     ],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2004-historical-record"
+    ]
   },
   {
     "year": 2002,
@@ -168,7 +619,10 @@
     "committee": "A. Cannas da Silva (Lisbon), M. Tribolet de Abreu (Lisbon), R. L. Fernandes (Lisbon).",
     "dates": null,
     "proceedings": [],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2002-historical-record"
+    ]
   },
   {
     "year": 2000,
@@ -179,7 +633,10 @@
     "committee": "J.-P. Dufour (Montpellier), Y. Kosmann-Schwarzbach (Palaiseau).",
     "dates": null,
     "proceedings": [],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "2000-historical-record"
+    ]
   },
   {
     "year": 1998,
@@ -192,6 +649,9 @@
     "proceedings": [
       "Banach Center Publications 51 (2000)"
     ],
-    "status": "Past edition"
+    "status": "Past edition",
+    "materials": [
+      "1998-historical-record"
+    ]
   }
 ]

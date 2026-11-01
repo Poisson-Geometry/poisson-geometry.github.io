@@ -1,0 +1,520 @@
+SOURCE: https://www.fieldsinstitute.ca/activities/18-19/poisson-2018
+Retrieved: 1 November 2026
+Format: text extracted from the official event page
+
+ Poisson 2018 - International Conference on Poisson Geometry | Fields Institute for Research in Mathematical Sciences 
+ About Us 
+ Sponsors and Partners 
+ People and Contacts 
+ Calendar 
+ FieldsLive 
+ Mailing List 
+ Donate 
+ The Fields Institute for Research in Mathematical Sciences
+ Activities Thematic and Focus Programs Current and Upcoming 
+ Past 
+ Fields Medal Symposium Public Opening 
+ Scientific Program 
+ Student Night 
+ Labs and Research Networks Fields Lab for Network Computation 
+ Mathematics for Public Health 
+ Workshops and Conferences Current and Upcoming 
+ Past 
+ Special Lecture Series Current and Upcoming 
+ Past 
+ Fields Academy 
+ Seminar Series Current 
+ Past 
+ Courses and Schools 
+ Outreach 
+ Past Featured Programs Commercial and Industrial Mathematics Program 
+ Centres Centre for Mathematical AI 
+ Centre for Quantitative Analysis and Modelling 
+ Centre for Financial Industries 
+ Centre for Mathematical Medicine 
+ Centre for Mathematics Education 
+ Centre for Sustainable Development 
+ NRC-Fields Collaboration Centre 
+ Honours and Fellowships Fields Institute Fellows 
+ Fellowships and Visitorships Fields Research Fellowship 
+ Postdoctoral Fellowships 
+ Elliott-Yui Distinguished Visitorship 
+ Simons Distinguished Visitor 
+ Dean's Distinguished Visiting Professorship 
+ CAIMS-Fields Industrial Mathematics Prize 
+ CRM-Fields-PIMS Prize 
+ Margaret Sinclair Memorial Award 
+ Publications Annual Reports and Newsletters 
+ Communications and Monographs 
+ The Fields Institute Turns Twenty-Five 
+ Fields Mathematics Education Journal 
+ Mathematics-in-Industry Case Studies Journal 
+ Resources Proposals and Applications 
+ Research and Training Opportunities Fields Research Exchange Program 
+ Other Opportunities 
+ For Program Organizers 
+ For Event Organizers 
+ For Speakers 
+ For Visitors 
+ Ontario Mathematics Calendar 
+ Home » Programs and Activities 
+ Poisson 2018 - International Conference on Poisson Geometry
+ July 16 - 20, 2018 , The Fields Institute 
+ Description
+ Poisson 2018 is the 11th in a series of international conferences on Poisson geometry. It will be held at the University of Toronto St. George Campus, Earth Sciences Centre (5 Bancroft Avenue) Room 1050 
+ We will be hosting a poster session on Tuesday during the reception, which will be held at the Fields Institute. We are expecting 10-15 posters at this point, if you have not arleady arranged printing you may find information here useful. Please drop posters off to the Program Coordinators office at Fields any time during opening hours, or simply bring the poster directly with you to the reception.  
+ For details on previous conferences, visit the  Poisson Geometry Website .
+ Andre Lichnerowicz Prize in Poisson geometry 
+ The Andre Lichnerowicz Prize in Poisson geometry was established in 2008.
+ It is awarded for notable contributions to Poisson geometry, every two years at the "International Conference on Poisson Geometry in Mathematics and Physics", to researchers who completed their doctorates at most eight years before the year of the Conference.
+ The prize is named in memory of Andre Lichnerowicz (1915-1998) whose work was fundamental in establishing Poisson geometry as a branch of mathematics. It is awarded by a jury composed of the members of the scientific/advisory committee of the conference.
+ The prize for the year 2018 was awarded to Brent Pym and Chelsea Walton .
+ Schedule
+ Monday, July 16th, 2018 
+ 09:00 to 09:50 
+ Opening and prizes
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 10:00 to 10:50 
+ Codimension one symplectic foliations 
+ Marius Crainic, Utrecht University
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 11:00 to 11:30 
+ Coffee break
+ 11:30 to 12:20 
+ Desingularizing Poisson structures 
+ Eva Miranda, Universitat Politècnica de Catalunya
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 12:30 to 14:00 
+ Lunch
+ 14:00 to 14:50 
+ Lagrangian cores of Weinstein manifolds 
+ Eliashberg
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 15:00 to 15:30 
+ Coffee break
+ 15:30 to 16:20 
+ Deformations of presymplectic forms via Dirac geometry 
+ Marco Zambon, Katholieke Universiteit Leuven
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ Tuesday, July 17th, 2018 
+ 09:00 to 09:50 
+ Multiple zeta values in deformation quantization 
+ Brent Pym, University of Edinburgh
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 10:00 to 10:50 
+ Kostant, Steinberg, and the Stokes matrices of the tt*-Toda equations 
+ Nan-Kuo Ho, National Tsing Hua University
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 11:00 to 11:30 
+ Coffee break
+ 11:30 to 12:20 
+ Poisson deformations and birational geometry 
+ Yoshinori Namikawa, Kyoto University
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 12:30 to 14:00 
+ Lunch
+ 14:00 to 14:50 
+ Twisting procedure and quantized actions 
+ Chiara Esposito, University of Salerno
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 15:00 to 15:30 
+ Coffee break
+ 15:30 to 16:20 
+ The Goldman-Turaev Lie bialgebra and the Kashiwara-Vergne problem 
+ Florian Naef, Massachusetts Institute of Technology
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 17:00 to 19:00 
+ Reception & Poster Session
+ Location: Fields Institute
+ Wednesday, July 18th, 2018 
+ 09:00 to 09:50 
+ New insights into semitoric invariants of focus-focus singularities 
+ Sonja Hohloch, University of Antwerp
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 10:00 to 10:50 
+ Morita equivalence and the generalized Kahler potential 
+ Maxim Zabzine, Uppsala University
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 11:00 to 11:30 
+ Coffee break
+ 11:30 to 12:20 
+ Flowing halfway into the quantum 
+ Alejandro Cabrera, Universidade Federal do Rio de Janeiro
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ Thursday, July 19th, 2018 
+ 09:00 to 09:50 
+ Integrability and Associativity 
+ Rui Loja Fernandes, University of Illinois at Urbana-Champaign
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 10:00 to 10:50 
+ Geometric stacks for groupoids with geometry 
+ Joel Villatoro, University of Illinois at Urbana-Champaign
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 11:00 to 11:30 
+ Coffee break
+ 11:30 to 12:20 
+ Hodge decompositions for Lie algebroids on manifolds with boundary 
+ Joey van der Leer Durán, University of Toronto
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 12:30 to 14:00 
+ Lunch
+ 14:00 to 14:50 
+ Higgs bundles and the triple reduced product 
+ Lisa Jeffrey, University of Toronto
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 15:00 to 15:30 
+ Coffee break
+ 15:30 to 16:20 
+ Stokes phenomenon, Yang-Baxter equations and Gromov-Witten theory 
+ Xiaomeng Xu, Massachusetts Institute of Technology
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ Friday, July 20th, 2018 
+ 09:00 to 09:50 
+ Non-linear Maslov index on lens spaces 
+ Yael Karshon, University of Toronto
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 10:00 to 10:50 
+ From nonequilibrium thermodynamics to multi-Dirac structures 
+ François Gay-Balmaz, Ecole Normale Supérieure
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ 11:00 to 11:30 
+ Coffee break
+ 11:30 to 12:20 
+ Hamiltonian Lie algebroids over presymplectic and Poisson manifolds 
+ Alan Weinstein, University of California Berkeley
+ Location: Earth Sciences Centre, Room 1050 (Reichman Family Lecture Hall)
+ Registered Participants
+ Name 
+ Affiliation 
+ Luca Accornero 
+ University of Utrecht 
+ Davide Alboresi 
+ Utrecht University 
+ Anton Alekseev 
+ University of Geneva 
+ omar daniel alvarez sanchez 
+ Instituto Nacional de Matematica Pura e Aplicada (IMPA) 
+ Panagiotis Angelinos 
+ University of Toronto 
+ Camilo Angulo 
+ IME-USP 
+ Aaron Aragon Maroja 
+ Universidade Federal Fluminense 
+ Camilo Arias Abad 
+ Universidad Nacional de Colombia 
+ Adam Artymowicz 
+ McGill University 
+ Michael Bailey 
+ University of Waterloo 
+ Ana Balibanu 
+ Harvard University 
+ Francis Bischoff 
+ University of Toronto 
+ Anthony Blaom 
+ Henrique Bursztyn 
+ IMPA 
+ Alejandro Cabrera 
+ Universidade Federal do Rio de Janeiro 
+ Robert Cardona 
+ Universitat Politècnica de Catalunya 
+ Fernando Carvalho 
+ University of Sao Paulo 
+ Matteo Casati 
+ University of Kent 
+ Francesco Cattafi 
+ Universiteit Utrecht 
+ Marius Crainic 
+ Utrecht University 
+ Miquel Cueca Ten 
+ IMPA 
+ Irina Davydenkova 
+ Université de Genève 
+ Matias Luis del Hoyo 
+ Universidade Federal Fluminense 
+ Álvaro del Pino Gómez 
+ Universiteit Utrecht 
+ Roisin Dempsey Braddell 
+ Universitat Politècnica de Catalunya 
+ Yassir Dinar 
+ University of Khartoum 
+ Jack Ding 
+ University of Toronto 
+ Lennart Döppenschmitt 
+ University of Toronto 
+ Thiago Drummond 
+ Federal University of Rio de Janeiro 
+ Chiara Esposito 
+ University of Salerno 
+ Rui Loja Fernandes 
+ University of Illinois at Urbana-Champaign 
+ Simon-Raphael Fischer 
+ SwissMap 
+ Chi-Kwong Fok 
+ The University of Adelaide 
+ Marine Fontaine 
+ Universität Augsburg 
+ Elisheva Adina Gamse 
+ University of Toronto 
+ Mario Garcia-Fernandez 
+ Universidad Autónoma de Madrid 
+ Alfonso Gadir Garmendia Gonzalez 
+ Katholieke Universiteit Leuven 
+ François Gay-Balmaz 
+ Ecole Normale Supérieure 
+ Stephane Geudens 
+ Katholieke Universiteit Leuven 
+ Marco Gualtieri 
+ University of Toronto 
+ Pedram Hekmati 
+ University of Auckland 
+ Yuji Hirota 
+ Azabu University 
+ Sonja Hohloch 
+ University of Antwerp 
+ Nan-Kuo Ho 
+ National Tsing Hua University 
+ Thomas Honey 
+ University of Mancheter 
+ David Baldomero Iglesias Ponte 
+ Universidad de La Laguna 
+ Noriaki Ikeda 
+ Ritsumeikan university 
+ Juan Sebastián Jaramillo Diaz 
+ Universidad Nacional de Colombia 
+ David Jarossay 
+ University of Geneva 
+ Lisa Jeffrey 
+ University of Toronto 
+ Dusan Joksimovic 
+ Utrecht University 
+ Yael Karshon 
+ University of Toronto 
+ Omar Kidwai 
+ University of Oxford 
+ Charlotte Kirchhoff-Lukat 
+ University of Cambridge 
+ Ralph Klaasse 
+ Université Libre de Bruxelles 
+ Derek Krepski 
+ University of Manitoba 
+ Joshua Lackman 
+ University of Toronto 
+ Jeremy Lane 
+ University of Geneva 
+ Honglei Lang 
+ Max Planck Institute for Mathematics and China Agricultural University 
+ Melinda Lanius 
+ University of Illinois at Urbana-Champaign 
+ Pier Paolo La Pastina 
+ Sapienza Università di Roma 
+ Hudson Lima 
+ UFPR - Federal University of Parana 
+ Songhao Li 
+ University of Notre Dame 
+ Yanpeng LI 
+ Université de Genève 
+ Fernando Maia Nardelli Escobosa 
+ University of Sao Paulo 
+ Leyli Mammadova 
+ Katholieke Universiteit Leuven 
+ Ioan Marcut 
+ Radboud University Nijmegen 
+ David Martínez Torres 
+ Pontificia Catolica Universidade, Rio de Janeiro 
+ Anastasia Matveeva 
+ Higher School of Economics 
+ Mykola Matviichuk 
+ University of Toronto 
+ Maxence Mayrand 
+ University of Oxford 
+ Eckhard Meinrenken 
+ University of Toronto 
+ Joao Nuno Mestre 
+ Max Planck Institute for Mathematics 
+ Kentaro Mikami 
+ Akita University 
+ Eva Miranda 
+ Universitat Politècnica de Catalunya 
+ Antonio Michele Miti 
+ Università Cattolica del Sacro Cuore 
+ Maarten Mol 
+ Utrecht University 
+ Mateus Moreira de Melo 
+ IMPA - Instituto Nacional de Matemática Pura e Aplicada 
+ Victor Mouquin 
+ Shanghai Jiaotong University 
+ Florian Naef 
+ Massachusetts Institute of Technology 
+ Yoshinori Namikawa 
+ Kyoto University 
+ Nikita Nikolaev 
+ Université de Genève 
+ Cédric Oms 
+ Universitat Politècnica de Catalunya 
+ Cristian Ortiz 
+ University of Sao Paulo 
+ Adriano Pacifico 
+ University of Toronto 
+ Jeffrey Pike 
+ University of Toronto 
+ Jan Pulmann 
+ University of Geneva 
+ Brent Pym 
+ University of Edinburgh 
+ Elise Raphael 
+ University of Geneva 
+ Tudor Ratiu 
+ Shanghai Jiao Tong University 
+ Patrick Robinson 
+ Validere 
+ Claude ROGER 
+ Université Claude Bernard (Lyon 1) 
+ Maria Amelia Salazar 
+ Universidade Federal Fluminense 
+ Shinji Sasaki 
+ University of Toronto 
+ Jonas Schnitzer 
+ Università degli Studi di Salerno 
+ Daniele Sepe 
+ Universidade Federal Fluminense 
+ Pavol Severa 
+ University of Geneva 
+ Yunhe Sheng 
+ Jilin University 
+ Marcelo Silva 
+ Pontifícia Universidade Católica do Rio de Janeiro 
+ Reyer Sjamaar 
+ Cornell University 
+ Yang Song 
+ University of Illinois at Urbana-Champaign 
+ Thomas Strobl 
+ Institut Camille Jordan 
+ Xiudi Tang 
+ University of California, San Diego 
+ Selim Tawfik 
+ University of Toronto 
+ Lauran Toussaint 
+ Utrecht University 
+ Fridrich Valach 
+ University of Geneva 
+ Joey van der Leer Durán 
+ University of Toronto 
+ Sebastian Velez 
+ Universidad Nacional de Colombia 
+ Joel Villatoro 
+ University of Illinois at Urbana-Champaign 
+ Cornelia Vizman 
+ West University of Timisoara 
+ Rik Voorhaar 
+ University of Geneva 
+ Christophe Wacheux 
+ IBS Center for Geometry and Pysics 
+ Kirsten Wang 
+ Korteweg-de Vries 
+ Alan Weinstein 
+ University of California Berkeley 
+ Aldo Witte 
+ Utrecht University 
+ Xiaomeng Xu 
+ Massachusetts Institute of Technology 
+ Maxim Zabzine 
+ Uppsala University 
+ Marco Zambon 
+ Katholieke Universiteit Leuven 
+ Florian Zeiser 
+ Radboud Universiteit 
+ Ahmed Zerouali 
+ University of Toronto 
+ Xincheng Zhang 
+ University of Toronto 
+ Yining Zhang 
+ Indiana University, Bloomington 
+ Luka Zwaan 
+ Utrecht University 
+ Local Organizing Committee
+ Marco Gualtieri - 
+ University of Toronto 
+ Eckhard Meinrenken - 
+ University of Toronto 
+ Scientific Committee
+ Anton Alekseev - 
+ University of Geneva 
+ Henrique Bursztyn - 
+ IMPA 
+ Marius Crainic - 
+ Utrecht University 
+ Eva Miranda - 
+ Universitat Politècnica de Catalunya 
+ Alan Weinstein - 
+ University of California Berkeley 
+ Quick Links
+ Fields Contact: Brittany Camp 
+ Scheduled as part of
+ Focus Program on Poisson Geometry and Physics 
+ Who we are
+ The Fields Institute is a centre for mathematical research activity - a place where mathematicians from Canada and abroad, from academia, business, industry and financial institutions, can come together to carry out research and formulate problems of mutual interest. Our mission is to provide a supportive and stimulating environment for mathematics innovation and education. Learn more about us. 
+ The Fields Institute promotes mathematical activity in Canada and helps to expand the application of mathematics in modern society.
+ Everyone is welcome to register and participate in events at the Fields Institute.
+ Find us on the following social media sites.
+ E-mail: inquiries@fields.utoronto.ca 
+ People and Contacts
+ Contacting the Institute, Staff, and Visiting Members of the Fields Institute.
+ View Contacts 
+ Calendar and Events
+ Stay up to date with our upcoming events and news by viewing our calendar.
+ View Events 
+ Activities Thematic and Focus Programs Current and Upcoming 
+ Past 
+ Fields Medal Symposium Public Opening 
+ Scientific Program 
+ Student Night 
+ Labs and Research Networks Fields Lab for Network Computation 
+ Mathematics for Public Health 
+ Workshops and Conferences Current and Upcoming 
+ Past 
+ Special Lecture Series Current and Upcoming 
+ Past 
+ Fields Academy 
+ Seminar Series Current 
+ Past 
+ Courses and Schools 
+ Outreach 
+ Past Featured Programs Commercial and Industrial Mathematics Program 
+ Centres Centre for Mathematical AI 
+ Centre for Quantitative Analysis and Modelling 
+ Centre for Financial Industries 
+ Centre for Mathematical Medicine 
+ Centre for Mathematics Education 
+ Centre for Sustainable Development 
+ NRC-Fields Collaboration Centre 
+ Honours and Fellowships Fields Institute Fellows 
+ Fellowships and Visitorships Fields Research Fellowship 
+ Postdoctoral Fellowships 
+ Elliott-Yui Distinguished Visitorship 
+ Simons Distinguished Visitor 
+ Dean's Distinguished Visiting Professorship 
+ CAIMS-Fields Industrial Mathematics Prize 
+ CRM-Fields-PIMS Prize 
+ Margaret Sinclair Memorial Award 
+ Publications Annual Reports and Newsletters 
+ Communications and Monographs 
+ The Fields Institute Turns Twenty-Five 
+ Fields Mathematics Education Journal 
+ Mathematics-in-Industry Case Studies Journal 
+ Resources Proposals and Applications 
+ Research and Training Opportunities Fields Research Exchange Program 
+ Other Opportunities 
+ For Program Organizers 
+ For Event Organizers 
+ For Speakers 
+ For Visitors 
+ Ontario Mathematics Calendar 
+ About Us 
+ Sponsors and Partners 
+ People and Contacts 
+ Calendar 
+ FieldsLive 
+ Mailing List 
+ Donate 
+ 222 College Street · Toronto, Ontario · M5T 3J1 · Canada
+ 

@@ -1,0 +1,315 @@
+PDF PAGE 1
+                         EXERCISES IN POISSON GEOMETRY
+
+
+   The suggested problems for the exercise sessions #1 and #2 are marked with an asterisk.
+The material from the last section will be discussed in lecture IV, but it’s possible (and good)
+to do the problems beforehand.
+
+                                      1. Poisson manifolds
+1.1. Poisson bracket and Poisson bivector field.
+
+1.1.1. Problem. Let {·, ·} be a skew-symmetric bilinear form on C ∞ (M ), and denote by
+                        Jac(f, g, h) = {f, {g, h}} + {g, {h, f }} + {h, {f, g}}
+the Jacobiator. Show that if Xf = {f, ·} is a derivation, then Jac(f, g, h) is a derivation in each
+of its arguments. Consequently, the value of Jac(f, g, h) at m depends only on the differentials
+of f, g, h at m. In particular, if dim M = 2 it follows that Jac(f, g, h) = 0; thus {·, ·} is a
+Poisson bracket.
+
+1.1.2. Problem. (Poisson pencils.) Let {·, ·}0 and {·, ·}1 be two Poisson brackets on M ,with
+the property that the sum
+                                      {f, g}0 + {f, g}1
+is again a Poisson bracket. Prove that all linear combinations
+                                        a0 {f, g}0 + a1 {f, g}1
+are Poisson brackets.
+
+1.1.3. Problem. Let π be a Poisson structure on a vector space V , and π0 the leading term of
+its Taylor expansion at 0. Show that π0 is again a Poisson structure.
+
+1.1.4. Problem. (∗) Classify the translation invariant (i.e., ‘constant’) Poisson structures on a
+vector space V .
+
+1.1.5. Problem. (∗) Let π be a Poisson structure on a manifold M , and x0 a point with π|x0 = 0.
+Show that the cotangent space Tx∗0 M acquires a Lie bracket.
+
+1.1.6. Problem. (∗) A vector field X on a Poisson manifold M is called a Poisson vector field
+if it satisfies
+                              LX {f, g} = {LX f, g} + {f, LX g}
+for all f, g. In particular, all Hamiltonian vector fields are Poisson vector fields. a) Give an
+example, as simple as possible, of a Poisson manifold and a Poisson vector field that is not a
+Hamiltonian vector field.
+   b) Show that the Hamiltonian vector field are a Lie algebra ideal in the Lie algebra of Poisson
+vector fields.
+                                                   1
+
+
+PDF PAGE 2
+2                                 EXERCISES IN POISSON GEOMETRY
+
+1.1.7. Problem. Let G be a connected Lie group acting on a symplectic manifold (M, ω), pre-
+serving the symplectic structure. A map Φ : Q → g∗ is called a moment map for the action if
+it is G-equivariant, and the generating vector fields satisfy
+                                           ι(ξM )ω = −dhΦ, ξi
+for all ξ ∈ g. Show that Φ is a Poisson map with respect to the Lie-Poisson structure on g∗ .
+Conversely, show that any Poisson map Φ : M → g∗ generates a (local) G-action having Φ as
+its moment map.
+1.1.8. Problem. Given a Poisson manifold M , and a free and proper action of a Lie group G by
+Poisson diffeomorphisms, show that the quotient space M/G inherits a Poisson structure. As
+an example, show that the Kirillov Poisson structure on g∗ may be obtained from a G-action
+on the symplectic manifold T ∗ G.
+1.2. Submanifolds. Suppose (M, π) is a Poisson manifold. A submanifold N ⊂ M is called
+a coisotropic submanifold if it has the property
+                                          π ] (ann(T N )) ⊂ T N.
+It is called a Poisson submanifold if π ] (T ∗ M |N ) ⊂ T N .
+1.2.1. Problem. (∗) Let (M, π) be a Poisson manifold.
+    (a) Show that N is coisotropic, if for all f, g ∈ C ∞ (M ) vanishing on N , the restriction
+        {f, g}|N vanishes on N .
+   (b) Show that N ⊂ M is a Poisson submanifold if and only if for all f, g ∈ C ∞ (M ), the
+        restriction {f, g}|N depends only on f |N , g|N .
+1.2.2. Problem. (∗) Show that for any coisotropic submanifold N ⊂ M , the conormal bundle
+                              ν(M, N )∗ ∼
+                                        = ann(T N ) ⊂ T ∗ M |N
+acquires a Lie algebroid structure. Remark: This problem becomes easier once you know about
+the Lie algebroid structure on T ∗ M , for a Poisson manifold M – cf. Lecture II. What happens
+for a Poisson submanifold?
+1.3. The Schouten bracket.
+1.3.1. Problem. Let g be a Lie algebra, and ∧• g its exterior algebra. Prove the following
+Theorem 1.1 (Schouten bracket). There is a unique structure of a Z-graded super Lie algebra
+   g• := ∧•−1 g, such that
+on e
+                                    g0 = g;
+    (i) The bracket extends that on e
+                         k
+   (ii) For fixed u ∈ ∧ (M ), the bracket [u, ·] is a graded derivation of the wedge product on
+        ∧• g, of degree k − 1.
+  Here, ‘super Lie algebra’ means that the Jacobi identity and skew-symmetry hold with signs.
+Thus, [u, v] = −(−1)|u||v| [v, u] and
+                [u, [v, w]] + (−1)|u|(|v|+|w|) [v, [w, u]] + (−1)|w|(|u|+|v|) [w, [u, v]] = 0
+for homogeneous elements u, v, w.
+
+
+PDF PAGE 3
+                                 EXERCISES IN POISSON GEOMETRY                                       3
+
+1.3.2. Problem. Let X• (M ) = Γ(∧• T M ) be the Z-graded vector space of multi-vector fields.
+Prove the following
+Theorem 1.2 (Schouten bracket). There is a unique structure of a Z-graded super Lie algebra
+on k• := X•−1 (M ), with the following properties:
+    (i) for fixed u ∈ Xk (M ), the bracket [u, ·] is a graded derivation of degree k − 1, with respect
+        to the wedge product on X• (M ).
+   (ii) For X ∈ X1 (M ), the Schouten bracket [X, ·] is the Lie derivative.
+   Note that the grading for the graded Lie algebra structure on multi-vector fields differs
+from the grading for the graded algebra structure! For example, [·, ·] is a bilinear map from
+Xk (M ) × Xl (M ) to Xk+l−1 (M ), while the wedge product is a bilinear map Xk (M ) × Xl (M ) to
+Xk+l (M ). Property (ii) above means that
+                            [u, v ∧ w] = [u, v] ∧ w + (−1)(k−1)l v ∧ [u, w]
+if u, v, w are multivector fields of degrees k, l, m.
+
+1.3.3. Problem. Using the defining properties of the Schouten bracket, show that
+                                          [f, u] = −ι(df )u
+for all f ∈ C ∞ (M ) and u ∈ X• (M ).
+
+1.3.4. Problem. Given a bivector field π ∈ X2 (M ), define {f, g} = π(df, dg). Show that
+                                [π, π](df, dg, dh) = −2 Jac(f, g, h).
+
+1.3.5. Problem. From the properties of the Schouten bracket, it follows that
+                                             dπ := [π, ·]
+is a differential on the Z-graded superalgebra X• (M ): That is,
+                                     1           1
+                               d2π = [dπ , dπ ] = [[π, π], ·] = 0.
+                                     2           2
+   (a) Give a geometric interpretation to the cocycles in degree 1 and 2, as well as the cobound-
+       aries in degree 1.
+   (b) Show that the map π ] : Ω(M ) → X(M ) is a cochain map.
+
+1.4. Poisson Lie groups. A Poisson Lie group is a Lie group G, together with a Poisson
+structure π such that the group multiplication is Poisson. A G-action on a Poisson manifold
+is called Poisson if the action map G × M → M is a Poisson map.
+
+1.4.1. Problem. (∗) Show that for any Poisson Lie group G, the Poisson structure vanishes at
+the group unit e.
+
+1.4.2. Problem. Show that for a Poisson Lie group G, the inversion map Inv : G → G is anti-
+Poisson. That is, it becomes a Poisson map (G, πG ) → (G, −πG ).
+
+1.4.3. Problem. (∗) Let G be a Poisson Lie group with a Poisson action on a Poisson manifold
+M . Show that the space C ∞ (M )G of invariant functions is closed under the Poisson bracket.
+
+
+PDF PAGE 4
+4                              EXERCISES IN POISSON GEOMETRY
+
+1.5. Tangent lifts. Given a vector field X ∈ X(M ), let
+                                         XT ∈ X(T M )
+denote its tangent lift. That is, the (local) flow of X is obtained by applying the tangent
+functor to the flow of X. The vertical lift of X, denoted XV ∈ X(T M ), is the vertical vector
+field whose restriction to each fiber Tm M is given by Xm , regarded as a constant vector field.
+For f ∈ C ∞ (M ), let its tangent lift fT ∈ C ∞ (T M ) be the function such that
+                                          fT (v) = v(f )
+for all v ∈ T M . We define the vertical lift fV ∈ C ∞ (T M ) to be simply the pullback.
+
+1.5.1. Problem.
+    (a) Express XT and fT in local coordinates.
+   (b) Show that X 7→ XT is a Lie algebra morphism X(M ) → X(T M ).
+    (c) Show that (X(f ))T = XT (fT ) for all X ∈ X(M ) and f ∈ C ∞ (M ).
+   (d) Give formulas for (f g)T , (f X)T , for all X ∈ X(M ) and f, g ∈ C ∞ (M ).
+    (e) Extend the tangent lift operation to a morphism of graded Lie algebras, relative to the
+        Schouten bracket,
+                              X•−1 (M ) → X•−1 (T M ),     u 7→ uT .
+       Express this lift operation in local coordinates.
+
+1.5.2. Problem. As application of the previous problem, every Poisson structure π ∈ X2 (M )
+has a tangent lift to a Poisson structure πT ∈ X2 (T M ).
+    (a) Given a local coordinate expression for π, find the corresponding local coordinate ex-
+        pression for πT .
+   (b) Show that if π is nondegenerate, then so is πT .
+    (c) More generally, show that if N ⊂ M is a symplectic leaf of π, then T N ⊂ T M is a
+        symplectic leaf of πT .
+
+1.5.3. Problem. As we saw, the dual bundle E ∗ of any Lie algebroid E → M inherits a Poisson
+structure. If M is a Poisson manifold, and E = T ∗ M its cotangent Lie algebroid, show that
+this Poisson structure on E ∗ = T M is the tangent lift.
+
+1.5.4. Problem. Given a Lie algebroid E over M , construct a ‘tangent lift’ Lie algebroid ET
+over T M .
+
+                                     2. Dirac manifolds
+2.1. Dirac manifolds.
+
+2.1.1. Problem. (∗) Prove that for any closed 2-form ω ∈ Ω2 (M ), with corresponding map
+ω [ : T M → T ∗ M, v 7→ ω(v, ·), the graph
+                              E = Gr(ω) = {v + ω [ (v)| v ∈ T M }
+is a Dirac structure, with E ∩T ∗ M = 0. Conversely, every Dirac structure E with E ∩T ∗ M = 0
+is the graph of a closed 2-form.
+
+
+PDF PAGE 5
+                                    EXERCISES IN POISSON GEOMETRY                                         5
+
+2.1.2. Problem. (∗) Describe a Dirac structure E ⊂ TM associated to any (regular) foliation
+F of M .
+
+2.1.3. Problem. (∗) Show that a smooth map Φ : M 0 → M between Poisson manifolds is a
+Poisson map if and only if the pull-back map on 1-forms Ω1 (M ) → Ω1 (M 0 ) is a Lie algebra
+homomorphism.
+
+2.1.4. Problem. (∗) Let E ⊂ TM be a Dirac structure, with the property that Em = Tm∗ M for
+                                                                                   ∗ M.
+some m ∈ M . Show that the Lie bracket on Γ(E) induces a Lie algebra structure on Tm
+
+2.1.5. Problem. (Linear Dirac geometry) A metrized vector space is a vector space V with a
+non-degenerate metric. A subspace E ⊂ V is Lagrangian, is E = E ⊥ . Let V be the same
+vector space with the opposite metric. A Lagrangian relation between metrized vector spaces
+V and V 0 is a Lagrangian subspaces L ⊂ V 0 × V . Write v ∼L v 0 if (v 0 , v) ∈ L. We define ker(L)
+to be the set of all v such that v ∼L 0.
+   (a) Given a Lagrangian subspace E ⊂ V , show that its forward image E 0 ⊂ V 0 , consisting
+       of all v 0 ∈ V 0 such that v ∼L v 0 for some v ∈ E, is Lagrangian.
+   (b) Similarly, for a Lagrangian F 0 ⊂ V 0 , define its backward image and show that it is
+       Lagrangian.
+   (c) Suppose that in a) we have ker(L) ∩ E = 0, and let E 0 be the forward image. If F 0 ⊂ V 0
+       with E 0 ∩ F 0 = 0, show that the backward image F ⊂ V satisfies E ∩ F = 0.
+
+2.1.6. Problem. (∗) Let Φ ∈ C ∞ (M, N ). Sections σ = X +α ∈ Γ(TM ) and τ = Y +β ∈ Γ(TN )
+are called Φ-related if
+                              σ ∼Φ τ :⇔ X ∼Φ Y, α = Φ∗ β.
+Show that
+                             σ1 ∼Φ τ1 , σ2 ∼Φ τ2 ⇒ [[σ1 , σ2 ]] ∼Φ [[τ1 , τ2 ]].
+
+2.1.7. Problem. Show that the integrability of Lagrangian subbundles E ⊂ TM is measured
+by a certain 3-tensor ΥE ∈ Γ(∧3 E ∗ ).
+
+2.1.8. Problem. (Mackenzie-Xu) Let E, F ⊂ TM be two Dirac structures, with E ∩ F = 0. Let
+e1 , . . . , en be a (local) basis of sections of E, and f 1 , . . . , f n the dual basis of sections of F .
+Letting a : TM → T M be the projection to the vector field part, show that
+                                                X
+                                            π=     a(ei ) ∧ a(f i )
+                                                      i
+
+is a Poisson structure.
+
+                                       3. Symplectic groupoids
+3.1. Lie groupoid cochains. Let G ⇒ M be a Lie groupoid, and G (k) ⊂ G k its space of
+k-arrows. Define maps ∂i : G (k+1) → G (k) , i = 0, . . . , k + 1 by
+                            ∂i (g1 , . . . .gk+1 ) = (g1 , . . . , gi ◦ gi+1 , . . . , gk+1 )
+
+
+PDF PAGE 6
+6                                     EXERCISES IN POISSON GEOMETRY
+
+for 0 < i < k + 1, while the map ∂0 drops g1 and ∂k+1 drops gk+1 .1 Let
+                                      k+1
+                                      X
+                                 δ=       (−1)i ∂i∗ : Ω• (G (k) ) → Ω• (G (k+1) ).
+                                      i=0
+Then δ ◦ δ = 0. (Exercise.)
+3.1.1. Problem. A form α ∈ Ωl (G) is called multiplicative if it satisfies δα = 0. For l = 0
+this means, f (g1 ◦ g2 ) = f (g1 ) + f (g2 ). Show that a symplectic 2-form ω on a groupoid
+G ⇒ M is multiplicative if and only if the graph of the groupoid multiplication is a Lagrangian
+submanifold Gr(MultG ) ⊂ G × G × G.
+3.2. Bisections. An embedded submanifold S ⊂ G of a Lie groupoid G ⇒ M is a bisection if
+both s and t restrict to diffeomorphisms S → M . (Thus, S can be regarded as a section of s,
+and also of t.) Let Γ(G) be the set of all bisections.
+3.2.1. Problem.
+    (a) Show that Γ(G) is naturally a group, and define actions Γ(G) → Diff(G) of left multi-
+        plication, right multiplication, and conjugation (adjoint action) on G. Show that the
+        conjugation action is by automorphisms of the groupoid structure.
+   (b) Describe the group Γ(G), and its actions, for the following basic examples:
+           (i) G = G ⇒ pt a Lie group,
+          (ii) G = M × M ⇒ M a pair groupoid,
+         (iii) G ∼
+                 = G × M ⇒ M an action groupoid for a G-action on M ,
+         (iv) G ⇒ M the gauge groupoid of a principal G-bundle P → M .
+    (c) For a symplectic groupoid (G, ω), show that the actions above preserve the symplectic
+        form if and only if S is a Lagrangian submanfold. Show that the Lagrangian bisections
+        form a subgroup ΓLag (G) ⊂ Γ(G).
+3.3. Symplectic realization. Let (M, π) be a Poisson manifold. A symplectic realization of
+(M, π) is a Poisson manifold (P, πP ), with πP non-degenerate (i.e. symplectic), together with
+a Poisson map P → M . It is called full if it is a surjective submersion. An important example
+is M = g∗ with the standard Lie-Poisson structure: a full symplectic realization is given by
+P = T ∗ G, where G is a Lie group integrating g, and with the map
+                                                   T ∗ G → g∗
+given by left trivialization.
+3.3.1. Problem. (∗) (Following Cannas da Silva-Weinstein) Let M = R2 with the Poisson
+structure
+                                                     ∂     ∂
+                                         π = x1         ∧     .
+                                                   ∂x1 ∂x2
+Let P = R4 , with coordinates q1 , q2 , p1 , p2 , with the Poisson structure
+                                            ∂       ∂      ∂     ∂
+                                πP =             ∧      +     ∧
+                                          ∂q1 ∂p1 ∂q2 ∂p2
+    1Intuitively, a k-arrow involves k + 1 base points x , . . . , x , and arrows g going from x to x
+                                                        0           k              i            i     i−1 . The map
+∂i is such that it omits the i-th base point.
+
+
+PDF PAGE 7
+                               EXERCISES IN POISSON GEOMETRY                                    7
+
+corresponding to the standard symplectic form. Let i : M → P be the inclusion (x1 , x2 ) 7→
+(x1 , x2 , 0, 0).
+  a) Show that the map
+                         t : P → M, (q1 , p1 , q2 , p2 ) 7→ (q1 , q2 + p1 q1 )
+is Poisson. Thus, t defines a symplectic realization, with t ◦ i = idM .
+   b) Find a submersion s : P → M , with s ◦ i = idM , such that the fibers are symplectically
+orthogonal to those of t. Verify that s is anti-Poisson.
+   c) Not using the formulas from parts a) and b), argue that M admits a global symplectic
+groupoid integrating it. (Hint: This Poisson structure on R2 is a special case of ...).
+3.3.2. Problem. (∗) Find a full symplectic realization for any Poisson structure of the form
+                                                   ∂   ∂
+                                     f (q1 , q2 )    ∧    ,
+                                                  ∂q1 ∂q2
+on R2 , where f is a smooth function.
+3.3.3. Problem. (∗) Consider π = ∂q∂1 ∧ ∂q∂2 on R2 . Using the Poisson spray
+                                                 ∂        ∂
+                                       X = p1       − p2     ,
+                                                ∂q2      ∂q1
+on P = T ∗ R2 , show that the Poisson structure from Crainic-Marcut’s symplectic realization is
+                                  ∂        ∂       ∂   ∂   ∂     ∂
+                           πP =      ∧        +      ∧   −    ∧    ,
+                                 ∂q1 ∂p1 ∂q2 ∂p2 ∂q1 ∂q2
+with s(q, p) = q and t(q, p) = (q1 − p2 , q2 + p1 ).
+3.3.4. Problem. As a more interesting example, work out the Crainic-Marcut construction for
+g∗ , the dual of a Lie algebra. (The result will be T ∗ G ∼
+                                                          = g∗ × G, in ‘exponential’ coordinates’
+on G near e.)

@@ -1,0 +1,134 @@
+SOURCE: https://sites.google.com/view/poisson2024/poisson-2024/conference/speakers
+Retrieved: 1 November 2026
+Format: text extracted from the official event page
+
+ INdAM Poisson - Speakers 
+ Search this site
+ Embedded Files 
+ Skip to main content 
+ Skip to navigation 
+ INdAM Poisson Home 
+ Seminars & Workshops 
+ Symmetry & Reduction 
+ Lie Groupoids, Lie Algebroids & Differentiable Stacks 
+ Poisson 2024 
+ School 
+ Lecturers 
+ Distinguished Women in Mathematics 
+ Schedule 
+ Registration 
+ Participants & Photos 
+ Practical Info 
+ Conference 
+ Lichnerowicz prize 
+ Speakers 
+ Schedule & Posters 
+ Registration 
+ Participants & Photos 
+ Proceedings 
+ Practical Info 
+ INdAM Poisson 
+ Poisson 2024 Conference 
+ Speakers & Talks 
+ July 8-12, 2024 
+ Accademia Pontaniana - Napoli 
+ Invited Speakers 
+ Paolo ANTONINI 
+ Università del Salento Optimal Transport between Algebraic Hypersurfaces 
+ Abstract: I will report on a recent work in collaboration with F. Cavalletti and A. Lerario where we study complex projective hypersurfaces seen as probability measures on the projective space. 
+ Our guiding question is: 
+ “What is the best way to deform a complex projective hypersurface into another one?" 
+ Here the word best means from the point of view of measure theory and mass optimal transportation. In particular we construct an embedding of the space of complex homogeneous polynomials into the probability measures on the projective space and study its intrinsic Wasserstein metric. 
+ The Kähler structure of the projective space plays a fundamental role and we combine different techniques from symplectic geometry to the Benamou-Brenier dynamical approach to optimal transportation to prove several interesting facts. Among them we show that the space of hypersurfaces with the Wasserstein metric is complete and geodesic: any two hypersurfaces (possibly singular) are always joined by a minimizing geodesic. Moreover outside the discriminant locus, the metric is induced by a Kähler structure of Weil-Petersson type. 
+ In the last part I will give an application to the condition number of polynomial equations solving. 
+ Slides . 
+ Ana BALIBANU 
+ Louisiana State University Reduction along Strong Dirac Maps 
+ Abstract: We develop a general procedure for reduction along strong Dirac maps, which are a broad generalization of Poisson moment maps. The reduction level in this setting is a submanifold of the target, and the symmetries are given by the action of a groupoid. When applied to group-valued moment maps, this framework recovers several constructions from quasi-Poisson geometry and produces new multiplicative versions of many Poisson varieties that are important to geometric representation theory. This is joint work with Maxence Mayrand. 
+ Slides . 
+ Francis BISCHOFF 
+ University of Regina b ^ k Poisson Geometry and the Character Variety 
+ Abstract: The b^k tangent bundle, first introduced by Scott, is a Lie algebroid consisting of vector fields tangent to a hypersurface D to order k. Although this algebroid depends on the choice of a local defining function for D, all functions give rise to isotopic Lie algebroids. In this talk I will introduce a wider class of Lie algebroids that are locally of b^k type but which are classified, up to isotopy, by a local system on D. These algebroids allow us to define a new class of Poisson structures, which are symplectic away from D, and whose geometry is controlled by a local system on D. I will give examples of these Poisson structures obtained by deformations along paths in a character variety. This is joint work with Àlvaro Del Pino and Aldo Witte. 
+ Slides . 
+ Henrique BU RSZTYN 
+ IMPA Symplectic Groupoids via 2-Shifted Lagrangian Structures 
+ Abstract: I will discuss the role of 2-shifted Lagrangian structures as a framework for constructing (quasi-) symplectic groupoids of interest in Poisson geometry. I will focus on  Lagrangian structures on Lie groupoid morphisms into (2-shifted symplectic) Lie groups and explain their infinitesimal counterparts in terms of Dirac structures. Applications include the description  of integrations of quasi-Poisson spaces and the construction of symplectic groupoids of Poisson homogeneous spaces. The talk is based on joint work with D. Alvarez and M. Cueca. 
+ Slides . 
+ Alberto CATTANEO 
+ University of Zurich Poisson Structures from Corners of Field Theories 
+ Abstract: The BV formalism and its shifted versions in field theory have a nice compatibility with boundary structures. Namely, one such structure in the bulk induces a shifted (possibly degenerated) version on its boundary, which can be interpreted as a Poisson structure (up to homotopy). I will present the results for some field theories, in particular, 4D BF theory and 4D gravity.  
+ Slides . 
+ Miquel C UECA TEN 
+ Universität Göttingen Transgressions in Poisson Geometry 
+ Abstract: In a broad sense, a transgression map is the composition of a pull-back with a push-forward in a way that some internal degree is changed. A prototypical example is the transgression map from a manifold to its loop space given by pull-back with the evaluation followed by fiber integration. In this talk, I plan to explain the relevance of transgression maps in the construction of secondary characteristic classes for Courant algebroids, n-duals of VB-n-groupoids, integration of Courant algebroids and shifted Lagrangian structures. 
+ Slides . 
+ Rui Loja FERNANDES 
+ University of Illinois Urbana-Champaign   Proper Symplectic Groupoids 
+ Abstract: In this talk, I will provide a survey of the rich geometry underlying proper symplectic Lie groupoids. This is based on ongoing joint work with Marius Crainic (Utrecht) and David Martinez Torres (Madrid). 
+ Slides. 
+ Mario GARCIA-FERNANDEZ 
+ UAM & ICMAT Moduli Spaces and the First Pontryagin Class 
+ Abstract: Principal bundles with vanishing first Pontryagin class play a special role in the theory of higher structures, due to their relation to Courant algebroids and the Chiral de Rham Complex. In this talk I will overview our current knowledge of the geometry of moduli spaces of instantons on principal bundles with vanishing first Pontryagin class, from the moduli space metric to a conjectural Donaldson-Uhlenbeck-Yau type theorem in higher gauge theory. 
+ Slides . 
+ Boris KHESIN 
+ University of Toronto Pensive Billiards 
+ Abstract:   We define a new class of plane billiards, where while preserving the billiard rule of equality of the angles of incidence and reflection, the billiard ball before reflecting travels along the boundary for some distance depending on the incidence angle. This generalizes so called "puck billiards" proposed by M.Bialy, as well as the motion of a vortex dipole in 2D hydrodynamics near the domain boundary. We prove the variational origin and invariance of a symplectic structure for such billiards. We also observe the appearance of both the golden and silver ratios in the corresponding vortex setting. This is a joint work with D.Glukhovskiy and T.Drivas. 
+ Slides . 
+ Mykola MATVIICHUK 
+ Imperial College Deformation Theory of Log Symplectic Manifolds 
+ Abstract: I will start by describing the Poisson deformations of log canonical brackets assuming they are log symplectic. Then I will introduce the notion of a log symplectic manifold and describe its Poisson deformations. Remarkably, these are controlled by the underlying topological data, the de Rham cohomology class of the log symplectic form. I will then discuss the geometry of the obtained Poisson deformations and state a conjecture on when they are elliptic. Some of the presented results are joint with Brent Pym and Travis Schedler. 
+ Slides . 
+ Marta MAZZOCCO 
+ University of Birmingham Triangulations, Cluster Varieties and GDAHA 
+ Abstract: Generalized double affine Hecke algebras (GDAHA) are flat deformations of the group algebras of 2-dimensional crystallographic groups associated to star-shaped simply laced affine Dynkin diagrams. In this talk, we construct embeddings of both GDAHAs of type ~D_4 and ~E_6 into matrix algebras over quantum cluster X -varieties, thus linking to the theory of higher Teichmüller spaces.  
+ Slides . 
+ Florian NAEF 
+ Trinity College Dublin Simple Homotopy Types in String Topology 
+ Abstract: Reidemeister and Whitehead gave a completely algebraic description of finite CW complexes up to cell collapses (aka simple homotopy types). We will see how a weakening of this structure (namely its trace) enters into the construction of a string topology operation on the homology of the free loop space (the loop coproduct). This in particular implies that string topology is not a homotopy invariant. This is joint work with Pavel Safronov. 
+ Slides . 
+ Leonid POLTEROVICH 
+ Tel Aviv University    Big Fiber Theorems, Ideal-Valued Measures, and Symplectic Topology 
+ Abstract: I will discuss an adaptation of Gromov's ideal-valued measures to symplectic topology. It leads to a unified viewpoint at three "big fiber theorems": the Centerpoint Theorem in combinatorial geometry, the Maximal Fiber Inequality in topology, and the Non-displaceable Fiber Theorem for involutive maps in symplectic topology, and yields applications to symplectic rigidity. Joint work with Adi Dickstein, Yaniv Ganor, and Frol Zapolsky. 
+ Slides . 
+ Jonathan PRIDHAM 
+ University of Edinburgh Derived Poisson Structures 
+ Abstract: Shifted Poisson structures have appeared in many guises over the past decades. I will give an overview and examples from the perspective of derived geometry, trying to emphasise similarities with, and differences from, earlier and parallel approaches. 
+ Slides . 
+ Brent PYM 
+ McGill University   Semi-classical Hodge Theory 
+ Abstract: Kontsevich's deformation quantization formula associates to any Poisson manifold an algebra of "quantum observables", defined as a noncommutative deformation of the product of functions. The formula is Feynman-style series expansion, whose coefficients are multiple zeta values, making it intractable for direct calculation.  Following a suggestion of Kontsevich, I will explain how K-theory and mixed Hodge structures can be used to construct natural "period coordinates" on the moduli space of smooth Poisson varieties, in which the quantization can often be computed simply, explicitly and nonperturbatively as the exponential map for a complex torus. This gives a conceptual explanation for the appearance of various classical transcendental functions in the relations defining well-known noncommutative algebras. This talk is based on joint work with A. Lindberg. 
+ Slides. 
+ Kasi a RE JZNER 
+ University of York Quantization of Gauge Theories in Perturbative Algebraic Quantum Field Theory 
+ Abstract: I will begin with outlining the formalism of perturbative algebraic quantum field theory, which has been successfully applied in quantization of gauge theories. Then I will explain how it can be generalized to situations where a boundary is present, including the case of an asymptotic "boundary at infinity." The key idea is to start with a Poisson structure and quantize it through formal deformation quantization. In the presence of boundaries and corners, one has a whole hierarchy of such structures. 
+ Slides . 
+ Michele SCHIAVINA 
+ Università di Pavia Reduction by Stages for Gauge Theory with Corners 
+ Abstract: I will discuss the Hamiltonian formulation of local field theories on manifolds with corners in the particular, yet common, case in which they admit an equivariant momentum map.  In the presence of corners, the momentum map naturally splits into a part encoding “Cauchy data” or constraints, and a part encoding the “flux” across the corner.  
+ The reduced phase space is then conveniently handled via symplectic reduction by stages, adapted to local group actions.   
+ When smooth, the output of this analysis are natural Poisson structures associated to corner submanifolds (both on- and off-shell), leading to the concept of (classical) flux superselection sectors as their symplectic leaves, and providing a roadmap to quantum superselection. Moreover, in terms of higher structures, embedding this “on shell” data in ambient corner configuration spaces leads to “Poisson-infinity data”. 
+ As a byproduct, both the Peter-Weyl theorem and the Verlinde formula are seen as descending from the superselection factorisation for the appropriate gauge theory. Looking at electrodynamics or gravitation, other factorisation formulas are expected, owing to the general structure of reduced phase spaces. 
+ Slides. 
+ Yunhe SHENG 
+ Jilin University Post-Groupoids and the Yang-Baxter Equation 
+ Abstract: In this talk, first we recall the notion of a post-group. By differentiation of a post-Lie group, one can obtain a post-Lie algebra, which was introduced by Vallette in 2007 and have important applications in numerical integration on manifolds and Martin Hairer's regularity structures. There are close relationships between post-groups, Rota-Baxter groups, skew-left braces and Lie-Butcher groups. In particular, post-groups give rise to matched pairs of groups, and can be used to construct set-theoretical solutions of the Yang-Baxter equation. Then we introduce the notion of a post-groupoid. A post-groupoid is a group bundle equipped with another binary operation. The section space of a post-groupoid is a weak post group. A post-groupoid gives rise to a groupoid and an action on the original group bundle. By differentiation of a post-Lie groupoid, one can obtain a post-Lie algebroid, which was introduced by Munthe-Kaas and Lundervold in the study of geometric numerical analysis. Finally, we show that post-groupoids provide solutions of the Yang-Baxter equation on quivers. This is a joint work with Rong Tang and Chenchang Zhu. 
+ Slides . 
+ Yan ZHOU 
+ Northeastern University Stokes Geometry and WKB Analysis 
+ Abstract: We study the Riemann-Hilbert maps of a class of irregular connections on the trivial rank n bundle over the projective line that appears in various geometry and representation theory contexts. The Stokes data give the generalized monodromy data of these connections. The compactification of the parameter space of the irregular types of these connections is \bar{M}_{0,n}. At the deepest stratum of \bar{M}_{0,n}, we show that the WKB leading terms of the Stokes matrices are periods on the spectral curves. Near the deepest stratum of \bar{M}_{0,n}, we study the WKB approximation of Stokes data via the frame of spectral networks. In particular, we will explain how interlacing inequalities indicated by Poisson geometry correspond to BPS states. If time permits, we will comment on the picture of the quantized Riemann Hilbert maps. The talk will be based on joint work with Alekseev, Neitzke, and Xu. 
+ Slides . 
+ Chenchang ZHU 
+ Universität Göttingen Higher Derived Shifted Symplectic Groupoids 
+ Abstract: In this talk, based on many previous works, we will introduce hopefully a helpful new tool for differential geometers:  
+ -higher: to deal with quotient singularities 
+ -derived: to heal transversality problems 
+ -shifted: for more flexible symplectic situations.  
+ At the same time of being as complete as possible, we also make the framework as explicit as possible using groupoid models. In the end, we will explain in some concrete examples how this theory is used. This is based on a joint work in progress with Miquel Cueca Ten, Florian Dorsch and Reyer Sjamaar.  
+ Slides . 
+ Google Sites
+ Report abuse
+ Page details
+ Page updated 
+ Google Sites
+ Report abuse
+ 

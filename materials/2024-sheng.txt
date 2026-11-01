@@ -1,0 +1,1416 @@
+PDF PAGE 1
+                                               Introduction
+                                                Post-groups
+        Rota-Baxter operators, braces and Butcher groups
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+                           Post-groups, post-groupoids and
+                              the Yang-Baxter equation
+
+                                                   Yunhe Sheng
+                     (Joint work with Chengming Bai, Li Guo, Rong Tang
+                                     and Chenchang Zhu)
+
+                            Department of Mathematics, Jilin University, China
+
+
+                                      Poisson 2024, July 10, 2024
+
+
+
+                                             Yunhe Sheng      Post-groups, post-groupoids and the Yang-Baxter equation
+
+
+PDF PAGE 2
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Outline
+             1    Introduction
+                     Examples
+                     Applications in Butcher series
+                     Applications in regularity structures
+                     Applications in Rota-Baxter algebras
+                     Applications in braces
+             2    Post-groups
+             3    Rota-Baxter operators, braces and Butcher groups
+                     Rota-Baxter operators and post-groups
+                     Skew-left braces and post-groups
+                     Butcher groups
+             4    Set theoretical solutions of the Yang-Baxter equation
+             5    Post-groupoids and quiver-theoretical solutions of the YBE
+                     Post-groupoids
+                     Quiver-theoretical solutions of the Yang-Baxter equation
+                                                                                                      2 / 45
+
+
+PDF PAGE 3
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Post-Lie algebras
+      Definition (Vallette)
+      A post-Lie algebra (g, [·, ·]g , ) consists of a Lie algebra (g, [·, ·]g )
+      and a binary product  : g ⊗ g → g such that
+
+                           x  [y, z]g = [x  y, z]g + [y, x  z]g ,
+                           [x, y]g  z = a (x, y, z) − a (y, x, z),
+
+      where a (x, y, z) = x  (y  z) − (x  y)  z.
+
+             B. Vallette, Homology of generalized partition posets, J. Pure Appl.
+             Algebra 208 (2007), 699-725.
+
+                                           L                            
+                                            x [y, z]g = [Lx y, z]g + [y, Lx z]g ,
+          ([x, y]g + x  y − y  x)  z = x  (y  z) − y  (x  z).
+                                                                                                      3 / 45
+
+
+PDF PAGE 4
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Post-Lie algebras
+      Definition (Vallette)
+      A post-Lie algebra (g, [·, ·]g , ) consists of a Lie algebra (g, [·, ·]g )
+      and a binary product  : g ⊗ g → g such that
+
+                           x  [y, z]g = [x  y, z]g + [y, x  z]g ,
+                           [x, y]g  z = a (x, y, z) − a (y, x, z),
+
+      where a (x, y, z) = x  (y  z) − (x  y)  z.
+
+             B. Vallette, Homology of generalized partition posets, J. Pure Appl.
+             Algebra 208 (2007), 699-725.
+
+                                           L                            
+                                            x [y, z]g = [Lx y, z]g + [y, Lx z]g ,
+          ([x, y]g + x  y − y  x)  z = x  (y  z) − y  (x  z).
+                                                                                                      3 / 45
+
+
+PDF PAGE 5
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Post-Lie algebras
+      Proposition
+
+      A post-Lie algebra (g, [·, ·]g , ) gives rise to a new Lie algebra
+      (g, [·, ·] ), called the sub-adjacent Lie algebra and denoted by
+      g , where the Lie bracket [·, ·] is defined by
+
+                         [x, y] = [x, y]g + x  y − y  x, ∀x, y ∈ g.
+
+      Moreover, L : (g, [·, ·] ) → Der(g, [·, ·]g ) is an action of the
+      sub-adjacent Lie algebra g on the original Lie algebra (g, [·, ·]g ).
+
+            In a post-Lie algebra (g, [·, ·]g , ), if the Lie bracket [·, ·]g is
+      trivial, then we obtain a pre-Lie algebra, namely a vector space g
+      with a multiplication  satisfying
+                                     a (x, y, z) − a (y, x, z) = 0.
+                                                                                                      4 / 45
+
+
+PDF PAGE 6
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Post-Lie algebras
+      Proposition
+
+      A post-Lie algebra (g, [·, ·]g , ) gives rise to a new Lie algebra
+      (g, [·, ·] ), called the sub-adjacent Lie algebra and denoted by
+      g , where the Lie bracket [·, ·] is defined by
+
+                         [x, y] = [x, y]g + x  y − y  x, ∀x, y ∈ g.
+
+      Moreover, L : (g, [·, ·] ) → Der(g, [·, ·]g ) is an action of the
+      sub-adjacent Lie algebra g on the original Lie algebra (g, [·, ·]g ).
+
+            In a post-Lie algebra (g, [·, ·]g , ), if the Lie bracket [·, ·]g is
+      trivial, then we obtain a pre-Lie algebra, namely a vector space g
+      with a multiplication  satisfying
+                                     a (x, y, z) − a (y, x, z) = 0.
+                                                                                                      4 / 45
+
+
+PDF PAGE 7
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Post-Lie algebras
+      Proposition
+
+      A post-Lie algebra (g, [·, ·]g , ) gives rise to a new Lie algebra
+      (g, [·, ·] ), called the sub-adjacent Lie algebra and denoted by
+      g , where the Lie bracket [·, ·] is defined by
+
+                         [x, y] = [x, y]g + x  y − y  x, ∀x, y ∈ g.
+
+      Moreover, L : (g, [·, ·] ) → Der(g, [·, ·]g ) is an action of the
+      sub-adjacent Lie algebra g on the original Lie algebra (g, [·, ·]g ).
+
+            In a post-Lie algebra (g, [·, ·]g , ), if the Lie bracket [·, ·]g is
+      trivial, then we obtain a pre-Lie algebra, namely a vector space g
+      with a multiplication  satisfying
+                                     a (x, y, z) − a (y, x, z) = 0.
+                                                                                                      4 / 45
+
+
+PDF PAGE 8
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Post-Lie algebras
+
+
+      Example
+
+      Let (g, [·, ·]g ) be a Lie algebra, (A, ·) a commutative associative
+      algebra and ρ : g → Der(A) a Lie algebra homomorphism.
+      Then there is a post-Lie algebra structure on A ⊗ g, which is
+      given by
+
+                                    [a ⊗ x, b ⊗ y] = ab ⊗ [x, y]g ,
+                             (a ⊗ x)  (b ⊗ y) = a · ρ(x)(b) ⊗ y,
+
+      for all a, b ∈ A, x, y ∈ g.
+
+
+
+                                                                                                      5 / 45
+
+
+PDF PAGE 9
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Examples
+
+
+
+
+      Example
+
+      Let (V, ) be a magma algebra. Extend the magma operation
+       : V ⊗ V → V to the free Lie algebra (Lie(V ), [·, ·]). Then
+      (Lie(V ), [·, ·], ) is a post-Lie algebra.
+
+
+
+
+                                                                                                      6 / 45
+
+
+PDF PAGE 10
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Examples
+      Example (Free post-Lie algebra)
+      Let O be the set of isomorphism classes of planar rooted trees:
+
+
+
+      Let k{O} be the free k-vector space generated by O. The left grafting
+      operator  : k{O} ⊗ k{O} → k{O} is defined by
+                                   X
+                      τ ω =              τ ◦s ω, ∀τ, ω ∈ O,
+                                            s∈Nodes(ω)
+
+       where τ ◦s ω is the planar rooted tree resulting from attaching the root of τ to
+      the node s of the tree ω from the left. Consider the free Lie algebra
+      Lie(k{O}), and extend the left grafting operator  on k{O} to the free Lie
+      algebra Lie(k{O}). Then (Lie(k{O}), [·, ·], ) is a post-Lie algebra, which is
+      the free post-Lie algebra generated by one generator {•}.
+
+                                                                                                      7 / 45
+
+
+PDF PAGE 11
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Examples
+
+      Example (Free pre-Lie algebra)
+      Let T be the set of isomorphism classes of rooted trees, which is denoted by
+
+
+
+
+      Let k{T } be the free k-vector space generated by T . The grafting operator
+      y: k{T } × k{T } → k{T } is defined by
+                                   X
+                      τ yω=               τ ◦s ω, ∀τ, ω ∈ T ,
+                                           s∈Nodes(ω)
+
+      where τ ◦s ω is the rooted tree resulting from attaching the root of τ to the
+      node s of the rooted tree ω. Chapoton and Livernet have shown that
+      (k{T }, y) is the free pre-Lie algebra generated by one generator {•}.
+
+                                                                                                      8 / 45
+
+
+PDF PAGE 12
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Examples
+
+
+
+      Example
+      There is a natural pre-Lie algebra structure on the vector space
+      X(Rn ) of smooth vector fields, which is given by
+               X             X              X
+                    Xi ∂i         Yj ∂ j =       Xi (∂i Yj )∂j ,
+                   1≤i≤n                  1≤j≤n               1≤i,j≤n
+
+      for all Xi , Yj ∈ C ∞ (Rn ).
+
+
+
+
+                                                                                                      9 / 45
+
+
+PDF PAGE 13
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Butcher series
+             We consider systems of differential equations
+                         dy1
+                        
+                            dx  = f1 (y1 , y2 , · · · , yn ),
+                         dy2 = f2 (y1 , y2 , · · · , yn ),
+                        
+                             dx
+                                  ..
+                        
+                        
+                                  .
+                         dyn
+                             dx  = fn (y1 , y2 , · · · , yn ).
+      Use the vector notation as following:
+
+         y = (y1 , y2 , · · · , yn )T , f (y) = (f1 (y), f2 (y), · · · , fn (y))T ,
+
+      we can rewrite the above systems of differential equations to
+      dy
+      dx = f (y) with the initial value
+
+                         y(x0 ) = y0 = (y1 (x0 ), y2 (x0 ), · · · , yn (x0 ))T .
+                                                                                                      10 / 45
+
+
+PDF PAGE 14
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Butcher series
+
+           It is really surprise that one should use the free pre-Lie algebra
+      in the formal Taylor expansion of the solution at x0 + h.
+           Any map f : Rn → Rn gives a smooth vector field
+                                    X
+                           f (y) =       fi (y)∂i ∈ X(Rn ).
+                                                 1≤i≤n
+
+      Moreover, there is a unique pre-Lie algebra homomorphism F from
+      R{T } to X(Rn ) such that
+
+                                                     F (•) = f.
+
+
+
+                                                                                                      11 / 45
+
+
+PDF PAGE 15
+                                               Introduction      Examples
+                                                Post-groups      Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups         Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation       Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE       Applications in braces
+
+
+Applications in Butcher series
+             The formal Taylor expansion of the solution at x0 + h is
+                                     X h|τ |
+                    y(x0 + h) = y0 +              F (τ )(y0 ).
+                                         σ(τ )τ !
+                                                        τ ∈T
+
+      Set T + = T ∪ {∅} and denote by BR the set of all maps
+      {a : T + → R|a(∅) = 1}. The formal series defined by
+                                                               X h|τ | a(τ )
+                    B(a, h, f )(y) = a(∅)y +                                      F (τ )(y)
+                                                                       σ(τ )
+                                                               τ ∈T
+      is called the Butcher series.
+             J. C. Butcher, An algebraic theory of integration methods, Math. Comp.
+             26 (1972), 79-106.
+
+             H. Z. Munthe-Kaas and A. Lundervold, On post-Lie algebras, Lie-Butcher
+             series and moving frames, Found. Comput. Math. 13 (2013), 583-613.
+                                                                                                         12 / 45
+
+
+PDF PAGE 16
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Applications in regularity structures
+
+             There is a meta theorem in the regularity structures.
+      Theorem (Bruned-Katsetsiadis)
+      The Hopf algebra in Martin Hairer’s regularity structures encoding
+      the combinatorics of recentering is obtained as the universal
+      envelope of a suitable post-Lie algebra.
+
+             Y. Bruned and F. Katsetsiadis, Post-Lie algebras in regularity structures.
+             Forum Math. Sigma 11 (2023), Paper No. e98.
+
+             M. Hairer, A theory of regularity structures. Invent. Math. 198 (2014),
+             269-504.
+             Y. Bruned, M. Hairer and L. Zambotti, Algebraic renormalisation of
+             regularity structures. Invent. Math. 215 (2019), 1039-1156.
+
+                                                                                                      13 / 45
+
+
+PDF PAGE 17
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Applications in Rota-Baxter algebras
+             Rota-Baxter operators                       splitting of algebras
+      Proposition
+      Let B : g → g be a Rota-Baxter operator on a Lie algebra g, i.e.
+      the following equality holds:
+
+                  [B(x), B(y)]g = B([B(x), y]g + [x, B(y)]g + [x, y]g ).
+
+      Define a multiplication B on g by
+
+                                  x B y = [B(x), y]g ,               ∀x, y ∈ g.
+
+      Then (g, [·, ·]g , B ) is a post-Lie algebra.
+
+             C. Bai, L. Guo and X. Ni, Nonabelian generalized Lax pairs, the classical
+             Yang-Baxter equation and PostLie algebras, Comm. Math. Phys. 297
+             (2010), 553-596.                                                                         14 / 45
+
+
+PDF PAGE 18
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Applications in braces
+
+
+          A brace (G, ◦, ·) consists of an abelian group (G, ·) and a
+      group (G, ◦) such that
+
+                  a ◦ (b · c) = (a ◦ b) · a·−1 · (a ◦ c),                  ∀a, b, c ∈ G.
+
+           Smoktunowicz proposed the following questions:
+           Question. Is there a passage from all left nilpotent braces of
+      cardinality pn , with n + 1 < p, to left nilpotent pre-Lie rings?
+             A. Smoktunowicz, On the passage from finite braces to pre-Lie rings.
+             Adv. Math. 409 (2022), 108683.
+
+
+
+
+                                                                                                      15 / 45
+
+
+PDF PAGE 19
+                                               Introduction   Examples
+                                                Post-groups   Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups      Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation    Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE    Applications in braces
+
+
+Applications in braces
+
+
+          A brace (G, ◦, ·) consists of an abelian group (G, ·) and a
+      group (G, ◦) such that
+
+                  a ◦ (b · c) = (a ◦ b) · a·−1 · (a ◦ c),                  ∀a, b, c ∈ G.
+
+           Smoktunowicz proposed the following questions:
+           Question. Is there a passage from all left nilpotent braces of
+      cardinality pn , with n + 1 < p, to left nilpotent pre-Lie rings?
+             A. Smoktunowicz, On the passage from finite braces to pre-Lie rings.
+             Adv. Math. 409 (2022), 108683.
+
+
+
+
+                                                                                                      15 / 45
+
+
+PDF PAGE 20
+                                               Introduction      Examples
+                                                Post-groups      Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups         Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation       Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE       Applications in braces
+
+
+
+
+             Questions:
+              What is the integration of post-Lie algebras, and Rota-Baxter
+              Lie algebras?
+
+
+                                                              splitting/
+                     Rota-BaxterO Lie group                             post-LieO group
+                                         integration         integration
+                                           splitting
+                                                  / post-Lie algebra
+                    Rota-Baxter Lie algebra
+
+
+
+
+                                                                                                         16 / 45
+
+
+PDF PAGE 21
+                                               Introduction      Examples
+                                                Post-groups      Applications in Butcher series
+        Rota-Baxter operators, braces and Butcher groups         Applications in regularity structures
+     Set theoretical solutions of the Yang-Baxter equation       Applications in Rota-Baxter algebras
+Post-groupoids and quiver-theoretical solutions of the YBE       Applications in braces
+
+
+
+
+             Questions:
+              What is the integration of post-Lie algebras, and Rota-Baxter
+              Lie algebras?
+
+
+                                                              splitting/
+                     Rota-BaxterO Lie group                             post-LieO group
+                                         integration         integration
+                                           splitting
+                                                  / post-Lie algebra
+                    Rota-Baxter Lie algebra
+
+
+
+
+                                                                                                         16 / 45
+
+
+PDF PAGE 22
+                                               Introduction
+                                                Post-groups
+        Rota-Baxter operators, braces and Butcher groups
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Outline
+             1    Introduction
+                     Examples
+                     Applications in Butcher series
+                     Applications in regularity structures
+                     Applications in Rota-Baxter algebras
+                     Applications in braces
+             2    Post-groups
+             3    Rota-Baxter operators, braces and Butcher groups
+                     Rota-Baxter operators and post-groups
+                     Skew-left braces and post-groups
+                     Butcher groups
+             4    Set theoretical solutions of the Yang-Baxter equation
+             5    Post-groupoids and quiver-theoretical solutions of the YBE
+                     Post-groupoids
+                     Quiver-theoretical solutions of the Yang-Baxter equation
+                                                                                17 / 45
+
+
+PDF PAGE 23
+                                               Introduction
+                                                Post-groups
+        Rota-Baxter operators, braces and Butcher groups
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+      Definition (Bai-Guo-S.-Tang)
+      A post-group is a group (G, ·) equipped with another binary
+      operation  on G such that
+         1    for all a ∈ G, the left multiplication
+
+                                L
+                                 a : G → G,                   L
+                                                               a b = a  b,     ∀b ∈ G,
+
+              is an automorphism of the group (G, ·), that is,
+
+                            a  (b · c) = (a  b) · (a  c),                  ∀a, b, c ∈ G;
+
+         2    the following “weighted” associativity for  holds:
+
+                       a  (b  c) = a · (a  b)  c, ∀a, b, c ∈ G.
+                                                
+
+
+                                                                                              18 / 45
+
+
+PDF PAGE 24
+                                               Introduction
+                                                Post-groups
+        Rota-Baxter operators, braces and Butcher groups
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Post-groups
+      Theorem (Bai-Guo-S.-Tang)
+      Let (G, ·, ) be a post-group. Define ◦ : G × G → G by
+
+                                 a ◦ b = a · (a  b),         ∀a, b ∈ G.
+
+      Then (G, ◦) is a group with e being the unit, and the inverse map
+      † : G → G given by
+
+                                           a† := (L  −1 −1
+                                                   a ) (a ).
+
+      Moreover, L : G → Aut(G) is an action of the group (G, ◦) on
+      the group (G, ·).
+
+          The group G := (G, ◦) is called the subadjacent group of
+      the post-group (G, ·, ).
+                                                                           19 / 45
+
+
+PDF PAGE 25
+                                               Introduction
+                                                Post-groups
+        Rota-Baxter operators, braces and Butcher groups
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+           Let e the identity of the Lie group G. Let g = Te G be the Lie
+      algebra of G.
+           Define . : g ⊗ g → g by
+
+                                        d                  d      d
+      x.y = L
+             ∗e (x)(y) =                       L
+                                                exp(tx) y=              L       exp(sy).
+                                        dt t=0             dt t=0 ds s=0 exp(tx)
+
+
+      Theorem (Bai-Guo-S.-Tang)
+
+      Let (G, ·, ) be a post-Lie group. Then (g, [·, ·]g , .) is a post-Lie
+      algebra.
+
+             Let
+                                                exp(·) : g −→ G
+      be the exponential map.
+                                                                                       20 / 45
+
+
+PDF PAGE 26
+                                               Introduction
+                                                Post-groups
+        Rota-Baxter operators, braces and Butcher groups
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+                                                              21 / 45
+
+
+PDF PAGE 27
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Outline
+             1    Introduction
+                     Examples
+                     Applications in Butcher series
+                     Applications in regularity structures
+                     Applications in Rota-Baxter algebras
+                     Applications in braces
+             2    Post-groups
+             3    Rota-Baxter operators, braces and Butcher groups
+                     Rota-Baxter operators and post-groups
+                     Skew-left braces and post-groups
+                     Butcher groups
+             4    Set theoretical solutions of the Yang-Baxter equation
+             5    Post-groupoids and quiver-theoretical solutions of the YBE
+                     Post-groupoids
+                     Quiver-theoretical solutions of the Yang-Baxter equation
+                                                                                                      22 / 45
+
+
+PDF PAGE 28
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Rota-Baxter Lie groups
+
+
+      Definition (Guo-Lang-S.)
+      A Rota-Baxter operator of weight 1 on a Lie group G is a smooth
+      map B : G → G such that
+
+                          B(g)B(h) = B(gAdB(g) h),                            g, h ∈ G.
+
+      Theorem (Guo-Lang-S.)
+      If (G, B) is a Rota-Baxter Lie group, then (g, B = B∗e ) is a
+      Rota-Baxter Lie algebra of weight 1.
+
+
+
+                                                                                                      23 / 45
+
+
+PDF PAGE 29
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Rota-Baxter Lie groups
+
+
+      Definition (Guo-Lang-S.)
+      A Rota-Baxter operator of weight 1 on a Lie group G is a smooth
+      map B : G → G such that
+
+                          B(g)B(h) = B(gAdB(g) h),                            g, h ∈ G.
+
+      Theorem (Guo-Lang-S.)
+      If (G, B) is a Rota-Baxter Lie group, then (g, B = B∗e ) is a
+      Rota-Baxter Lie algebra of weight 1.
+
+
+
+                                                                                                      23 / 45
+
+
+PDF PAGE 30
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Useful formulas
+
+
+          The relation between the Lie bracket [·, ·]g and the Lie group
+      multiplication is given by the following important formula:
+
+                                  d2
+                  [u, v]g =                 exptu expsv exp−tu ,                   ∀ u, v ∈ g.
+                                 dtds t,s=0
+           Since B = B∗e is the tangent map of B at e, we have the
+      following relation for sufficiently small t:
+                d                  d
+                       B(exptu ) =        exptB(u) = B(u),                               ∀ u ∈ g.
+                dt t=0             dt t=0
+
+
+
+                                                                                                      24 / 45
+
+
+PDF PAGE 31
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+      Proof.
+
+
+                   [B(u), B(v)]
+                    d2
+             =                 exptB(u) expsB(v) exp−tB(u)
+                   dtds t,s=0
+                    d2
+             =                B(exptu )B(expsv )B(exp−tu )
+                   dtds t,s=0
+                    d2
+             =                B(exptu )B(expsv AdB(expsv ) exp−tu )
+                   dtds t,s=0
+                    d2
+             =                B(exptu (AdB(exptu ) expsv )(AdB(exptu )B(expsv ) exp−tu ))
+                   dtds t,s=0
+                        2
+                          d                              d2
+             =     B∗e              AdB(exptu ) expsv +            AdB(expsv ) exp−tu
+                         dtds t,s=0                     dtds t,s=0
+                            d2
+                                                         
+                       +              exptu expsv exp−tu
+                           dtds t,s=0
+             =     B([B(u), v] − [B(v), u] + [u, v]).
+
+                                                                                                      25 / 45
+
+
+PDF PAGE 32
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+From Rota-Baxter operators to post-groups
+
+
+
+      Theorem (Bai-Guo-S.-Tang)
+      Let B : G −→ G be a Rota-Baxter operator on a group (G, ·).
+      Define a binary product  : G × G → G as following:
+
+                                g  h = AdB(g) h,              ∀g, h ∈ G.
+
+      Then (G, ·, ) is a post-group.
+
+
+
+
+                                                                                                      26 / 45
+
+
+PDF PAGE 33
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+From post-groups to Rota-Baxter operators
+
+
+
+
+      Proposition (Bai-Guo-S.-Tang)
+      Let (G, ·, ) be a post-group. Then the identity map Id : G → G
+      is a relative Rota-Baxter operator on the subadjacent group (G, ◦)
+      with respect to the action L on the group (G, ·).
+
+
+
+
+                                                                                                      27 / 45
+
+
+PDF PAGE 34
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Skew-left braces
+
+      Definition (Rump)
+      A skew-left brace (G, ◦, ·) consists of a group (G, ·) and a group
+      (G, ◦) such that
+
+                  a ◦ (b · c) = (a ◦ b) · a·−1 · (a ◦ c),                 ∀a, b, c ∈ G.
+
+             W. Rump, A decomposition theorem for square-free unitary solutions of
+             the quantum Yang-Baxter equation. Adv. Math. 193 (2005), 40-55.
+
+             T. Gateva-Ivanova, Set-theoretic solutions of the Yang-Baxter equation,
+             braces and symmetric groups. Adv. Math. 338 (2018), 649-701.
+
+             F. Cedó, A. Smoktunowicz and L. Vendramin, Skew left braces of
+             nilpotent type. Proc. Lond. Math. Soc. 118 (2019), 1367-1392.
+
+
+                                                                                                      28 / 45
+
+
+PDF PAGE 35
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+      Proposition (Bai-Guo-S.-Tang)
+      Let (G, ◦, ·) be a skew-left brace. Define a binary product
+       : G × G → G by
+
+                              a  b = a−1 · (a ◦ b),              ∀a, b ∈ G,
+
+      here a−1 is the inverse of a in (G, ·). Then (G, ·, ) is a
+      post-group.
+
+
+
+
+                                                                                                      29 / 45
+
+
+PDF PAGE 36
+                                               Introduction
+                                                Post-groups   Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups      Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation    Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Skew-left braces
+
+
+
+      Proposition (Bai-Guo-S.-Tang)
+      Let (G, ·, ) be a post-group. Then (G, ◦, ·) is a skew-left brace.
+
+      Theorem (Bai-Guo-S.-Tang)
+      The category of post-groups is isomorphic to the category of
+      skew-left braces.
+
+
+
+
+                                                                                                      30 / 45
+
+
+PDF PAGE 37
+                                               Introduction
+                                                Post-groups      Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups         Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation       Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Butcher groups
+             Let T be the set of isomorphism classes of rooted trees:
+
+
+
+             We set T + = T ∪ {∅} and denote by
+                                   BR = {a : T + → R|a(∅) = 1}.
+
+      Theorem (Hairer-Wanner)
+      (BR , ◦) is a group, which is called Butcher group, where
+                                          X
+                (a ◦ b)(τ ) = a(τ ) +          a(P c (τ ))b(Rc (τ )).
+                                                              c∈AC(τ )
+
+
+             E. Hairer and G. Wanner, On the Butcher group and general multi-value
+             methods, Computing 13 (1974), 1-15.
+                                                                                                         31 / 45
+
+
+PDF PAGE 38
+                                               Introduction
+                                                Post-groups      Rota-Baxter operators and post-groups
+        Rota-Baxter operators, braces and Butcher groups         Skew-left braces and post-groups
+     Set theoretical solutions of the Yang-Baxter equation       Butcher groups
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Butcher group
+             We define an abelian group structure on BR by
+
+                (a · b)(∅) = 1, (a · b)(ω) = a(ω) + b(ω), ∀ω ∈ T ,
+
+             Define the binary product  : BR × BR → BR by
+
+                   (a  b)(∅) = 1,
+                                                 X
+                   (a  b)(τ ) =                              a(P c (τ ))b(Rc (τ )), ∀ω ∈ T .
+                                              c∈AC(τ )
+
+
+
+      Theorem (Bai-Guo-S.-Tang)
+      With the above notations, (BR , ·, ) is a post-group, whose
+      subadjacent group is exactly the Butcher group (BR , ◦).
+
+                                                                                                         32 / 45
+
+
+PDF PAGE 39
+                                               Introduction
+                                                Post-groups
+        Rota-Baxter operators, braces and Butcher groups
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Outline
+             1    Introduction
+                     Examples
+                     Applications in Butcher series
+                     Applications in regularity structures
+                     Applications in Rota-Baxter algebras
+                     Applications in braces
+             2    Post-groups
+             3    Rota-Baxter operators, braces and Butcher groups
+                     Rota-Baxter operators and post-groups
+                     Skew-left braces and post-groups
+                     Butcher groups
+             4    Set theoretical solutions of the Yang-Baxter equation
+             5    Post-groupoids and quiver-theoretical solutions of the YBE
+                     Post-groupoids
+                     Quiver-theoretical solutions of the Yang-Baxter equation
+                                                                                33 / 45
+
+
+PDF PAGE 40
+                                               Introduction
+                                                Post-groups
+        Rota-Baxter operators, braces and Butcher groups
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+The Yang-Baxter equation
+          We show that a post-group gives rise to a braiding group, and
+      thus lead to a set-theoretical solution of the Yang-Baxter equation.
+      Definition
+      Let X be a set. A set-theoretical solution to the Yang-Baxter
+      equation on X is a bijective map R : X × X → X × X satisfying:
+
+                                    R12 R23 R12 = R23 R12 R23 .
+
+             V. G. Drinfel’d, On some unsolved problems in quantum group theory.
+             Quantum groups (Leningrad, 1990), 1-8, Lecture Notes in Math., 1510,
+             Springer, Berlin, 1992.
+             P. Etingof, T. Schedler and A. Soloviev, Set-theoretical solutions to the
+             quantum Yang-Baxter equation. Duke Math. J. 100 (1999), 169-209.
+
+             J. Lu, M. Yan and Y. Zhu, On the set-theoretical Yang-Baxter equation.
+             Duke Math. J. 104 (2000), 1-18.
+                                                                                         34 / 45
+
+
+PDF PAGE 41
+                                               Introduction
+                                                Post-groups
+        Rota-Baxter operators, braces and Butcher groups
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Yang-Baxter equations
+
+             Let (G, ·, ) be a post-group. Define RG : G × G → G × G
+      by
+
+                  RG (x, y) = (x  y, (x  y)† ◦ x ◦ y), ∀x, y ∈ G,
+
+      where ◦ is the subadjacent group structure.
+      Theorem (Bai-Guo-S.-Tang)
+      Let (G, ·, ) be a post-group. Then (G, ◦), RG is a braiding
+                                                     
+
+      group, and RG is a solution of the Yang-Baxter equation on the
+      set G.
+
+
+
+                                                                        35 / 45
+
+
+PDF PAGE 42
+                                               Introduction
+                                                Post-groups
+                                                              Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                              Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+Outline
+             1    Introduction
+                     Examples
+                     Applications in Butcher series
+                     Applications in regularity structures
+                     Applications in Rota-Baxter algebras
+                     Applications in braces
+             2    Post-groups
+             3    Rota-Baxter operators, braces and Butcher groups
+                     Rota-Baxter operators and post-groups
+                     Skew-left braces and post-groups
+                     Butcher groups
+             4    Set theoretical solutions of the Yang-Baxter equation
+             5    Post-groupoids and quiver-theoretical solutions of the YBE
+                     Post-groupoids
+                     Quiver-theoretical solutions of the Yang-Baxter equation
+                                                                                                                   36 / 45
+
+
+PDF PAGE 43
+                                               Introduction
+                                                Post-groups
+                                                              Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                              Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+      Definition
+      A post-Lie algebroid structure on a vector bundle A −→ M is a
+      triple that consists of a C ∞ (M )-linear Lie algebra structure [·, ·]A
+      on Γ(A), a bilinear operation .A : Γ(A) ⊗ Γ(A) −→ Γ(A) and a
+      vector bundle morphism aA : A −→ T M , called the anchor, such
+      that (Γ(A), [·, ·]A , .A ) is a post-Lie algebra, and for all
+      f ∈ C ∞ (M ) and u, v ∈ Γ(A), the following relations are satisfied:
+        (i) u .A (f v) = f (u .A v) + aA (u)(f )v,
+      (ii) (f u) .A v = f (u .A v).
+
+             H. Z. Munthe-Kaas and A. Lundervold, On post-Lie algebras, Lie-Butcher
+             series and moving frames, Found. Comput. Math. 13 (2013), 583-613.
+
+
+
+                                                                                                                   37 / 45
+
+
+PDF PAGE 44
+                                               Introduction
+                                                Post-groups
+                                                                 Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                                 Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+      Example
+
+      Let (g, [·, ·]g ) be a Lie algebra and M a manifold. Then the section
+      space Γ(M × g) of the trivial bundle A = M × g enjoys a
+      C ∞ (M )-linear Lie algebra structure [·, ·]g given by
+
+                    [f u, gv]g = f g[u, v]g ,                 ∀f, g ∈ C ∞ (M ), u, v ∈ g.
+
+      Let φ : g → X(M ) be an action of g on M . Then one can define
+      aA : M × g → T M by
+
+                              aA (m, u) = φ(u)m ,                  ∀m ∈ M, u ∈ g
+
+      and define .A : Γ(A) × Γ(A) −→ Γ(A) by
+
+               (f u) .A (gv) = f φ(u)(g)v,                      ∀f, g ∈ C ∞ (M ), u, v ∈ g.
+
+      Then (A = M × g, [·, ·]g , .A , aA ) is a post-Lie algebroid.                                                   38 / 45
+
+
+PDF PAGE 45
+                                               Introduction
+                                                Post-groups
+                                                              Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                              Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+                                                                                                                   39 / 45
+
+
+PDF PAGE 46
+                                               Introduction
+                                                Post-groups
+                                                              Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                              Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+      Example
+                                                                                          π
+      Let G be a group and M a set. Then G = M × G −→ M is a
+      trivial group bundle, where π is the projection to M . Let
+      Φ : M × G → M be an action of G on M . In this case,
+
+         GΦ ×π G = {((m, g), (n, h)) ∈ G × G such that n = Φ(m, g)}.
+
+      Define  : GΦ ×π G → G by
+
+                                         (m, g)  (n, h) = (m, h).
+                                 π
+      Then (M × G −→ M, ·, Φ, ) is a post-groupoid.
+
+
+
+                                                                                                                   40 / 45
+
+
+PDF PAGE 47
+                                               Introduction
+                                                Post-groups
+                                                              Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                              Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+      Theorem (S. -Tang-Zhu)
+                    π
+      Let (G −→ M, ·, Φ, ) be a post-groupoid. Then
+              α=π /
+      (G             / M , ?, ι, inv ) is a groupoid, called the sub-adjacent
+              β=Φ
+      groupoid, where the groupoid multiplication ? : GΦ ×π G → G is
+      defined by
+                          γ1 ? γ2 = γ1 · (γ1  γ2 ),
+      and the new inverse map inv is given by
+
+                                        inv (γ) = (L  −1
+                                                     γ ) inv(γ).
+
+      Moreover,  gives rise to an action of the sub-adjacent groupoid
+              α=π /
+      (G             / M , ?, ι, inv ) on the group bundle G −→
+                                                               π
+                                                                 M.
+              β=Φ
+
+
+                                                                                                                   41 / 45
+
+
+PDF PAGE 48
+                                               Introduction
+                                                Post-groups
+                                                              Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                              Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+             Denote the Lie algebroid of the subadjacent Lie groupoid
+              α=π /
+      (G             / M , ?, ι, inv ) by (A −→ M, d·, ·e , Φ∗ ). The Lie
+              β=Φ
+      groupoid homomorphism L induces a Lie algebroid
+      homomorphism L    ∗ from (A −→ M, d·, ·e , Φ∗ ) to Der(A). In
+      particular, there holds:
+                                  Φ∗ (u) = a(L
+                                              ∗ (u)),              ∀u ∈ Γ(A).
+             Define .A : Γ(A) ⊗ Γ(A) → Γ(A) by
+                                 u .A v = L
+                                           ∗ (u)v,              ∀u, v ∈ Γ(A).
+
+      Theorem (S. -Tang-Zhu)
+                    π
+      Let (G −→ M, ·, Φ, ) be a post-Lie groupoid. Then
+      (A −→ M, [·, ·]A , Φ∗ , .A ) is a post-Lie algebroid, where
+      (A −→ M, [·, ·]A ) is the Lie algebra bundle associated to the Lie
+                         π
+      group bundle G −→ M .
+                                                                                                                   42 / 45
+
+
+PDF PAGE 49
+                                               Introduction
+                                                Post-groups
+                                                              Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                              Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+      Definition
+      A quiver over M is a set A equipped with two maps
+      α, β : A → M , called the source map and the target map.
+
+      Definition
+                      α     //
+      Let (A                     M ) be a quiver. A quiver-theoretical solution of the
+                      β
+      Yang-Baxter equation on the quiver A is an isomorphism R of
+      quivers from Aβ ×α A to Aβ ×α A satisfying:
+
+                                        R12 R23 R12 = R23 R12 R23 .
+
+             N. Andruskiewitsch, On the quiver-theoretical quantum Yang-Baxter
+             equation. Selecta Math. (N.S.) 11 (2005), 203-246.
+
+
+                                                                                                                   43 / 45
+
+
+PDF PAGE 50
+                                               Introduction
+                                                Post-groups
+                                                              Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                              Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+                            π
+          Let (G −→ M, Φ, ) be a post-groupoid. Define
+      RG : GΦ ×π G → GΦ ×π G by
+
+       RG (γ, δ) = γ  δ, inv (γ  δ) ? γ ? δ , ∀(γ, δ) ∈ GΦ ×π G.
+                                              
+
+
+      Theorem (S. -Tang-Zhu)
+                    π
+      Let (G −→ M, ·, Φ, ) be a post-groupoid. Then RG is a
+      quiver-theoretical solution of the Yang-Baxter equation on the
+                        α=π /
+      quiver G                  /M .
+                        β=Φ
+
+
+
+
+                                                                                                                   44 / 45
+
+
+PDF PAGE 51
+                                               Introduction
+                                                Post-groups
+                                                              Post-groupoids
+        Rota-Baxter operators, braces and Butcher groups
+                                                              Quiver-theoretical solutions of the Yang-Baxter equation
+     Set theoretical solutions of the Yang-Baxter equation
+Post-groupoids and quiver-theoretical solutions of the YBE
+
+
+
+
+                                  Thanks for your attention!
+
+
+
+
+                                                                                                                   45 / 45
