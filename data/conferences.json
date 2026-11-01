@@ -1,0 +1,197 @@
+[
+  {
+    "year": 2028,
+    "city": "Beijing & Changchun",
+    "country": "China",
+    "region": "Asia",
+    "status": "Announced",
+    "dates": null,
+    "committee": null,
+    "proceedings": []
+  },
+  {
+    "year": 2026,
+    "city": "Antwerp & Leuven",
+    "country": "Belgium",
+    "region": "Europe",
+    "venue": "Antwerp and Leuven",
+    "committee": "M. Cueca (Leuven), S. Hohloch (Antwerp), F. Zadra (Antwerp), M. Zambon (Leuven), L. Zwaan (Leuven)",
+    "dates": "School: August 3-7, Conference: August 10-14",
+    "proceedings": [],
+    "school": {
+      "institution": "University of Antwerp",
+      "city": "Antwerp",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-07",
+      "url": "https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/poissonschool2026/"
+    },
+    "conference": {
+      "institution": "KU Leuven",
+      "city": "Leuven",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-14",
+      "url": "https://wis.kuleuven.be/events/2026_poisson/conference_poisson2026"
+    },
+    "status": "Past edition"
+  },
+  {
+    "year": 2024,
+    "city": "Naples",
+    "country": "Italy",
+    "region": "Europe",
+    "venue": "Napoli",
+    "committee": "F. D'Andrea (Napoli), A. De Nicola (Salerno), C. Esposito (Salerno), A. Tortorella (Salerno), L. Vitagliano (Salerno), A. Zampini (Napoli)",
+    "dates": "School: July 1-5, Conference: July 8-12",
+    "proceedings": [],
+    "status": "Past edition"
+  },
+  {
+    "year": 2022,
+    "city": "Barcelona & Madrid",
+    "country": "Spain",
+    "region": "Europe",
+    "venue": "Barcelona and Madrid",
+    "committee": "M. García Fernández (ICMAT-UAM), D. Iglesias Ponte (La Laguna), D. Martín de Diego (ICMAT-CSIC), A. Matveeva (UPC), E. Miranda (UPC), C. Oms (UPC), D. Peralta-Salas (ICMAT-CSIC), R. Rubio (UB)",
+    "dates": "School: July 18-22, Conference: July 25-29",
+    "proceedings": [],
+    "status": "Past edition"
+  },
+  {
+    "year": 2018,
+    "city": "Toronto",
+    "country": "Canada",
+    "region": "North America",
+    "venue": "Fields Institute, Toronto",
+    "committee": "M. Gualtieri (Toronto), E. Meinrenken (Toronto)",
+    "dates": "School: July 9-13, Conference: July 16-20",
+    "proceedings": [],
+    "status": "Past edition"
+  },
+  {
+    "year": 2016,
+    "city": "Geneva & Zurich",
+    "country": "Switzerland",
+    "region": "Europe",
+    "venue": "Geneva and Zurich",
+    "committee": "A. Alekseev (Geneva), A. Cattaneo (Zurich), G. Felder (ETHZ), M. Podkopaeva (Geneva), P. Severa (Geneva), T. Willwacher (Zurich)",
+    "dates": null,
+    "proceedings": [
+      "Lett. Math. Phys. 108 (2018)"
+    ],
+    "status": "Past edition"
+  },
+  {
+    "year": 2014,
+    "city": "Urbana-Champaign",
+    "country": "United States",
+    "region": "North America",
+    "venue": "University of Illinois at Urbana-Champaign, U.S.A.",
+    "committee": "Rui Loja Fernandes (Urbana-Champaign), Eugene Lerman (Urbana-Champaign)",
+    "dates": null,
+    "proceedings": [
+      "SIGMA 10 & 11 (2015)"
+    ],
+    "status": "Past edition"
+  },
+  {
+    "year": 2012,
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "region": "Europe",
+    "venue": "Utrecht University, The Netherlands",
+    "committee": "M. Crainic (Utrecht) and the Utrecht Poisson Geometry Group",
+    "dates": null,
+    "proceedings": [
+      "Indagationes Mathematicae 25 (2014)"
+    ],
+    "status": "Past edition"
+  },
+  {
+    "year": 2010,
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "region": "South America",
+    "venue": "IMPA, Rio de Janeiro",
+    "committee": "H. Bursztyn (Rio de Janeiro), G. Dito (Dijon), M. Jardim (Campinas), J. Koiller (Rio de Janeiro), L. Macarini (Rio de Janeiro).",
+    "dates": null,
+    "proceedings": [
+      "Bull. Braz. Math. Soc., New Series 42 (2011)"
+    ],
+    "status": "Past edition"
+  },
+  {
+    "year": 2008,
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "region": "Europe",
+    "venue": "École polytechnique fédérale de Lausanne",
+    "committee": "A. Alekseev (Geneva), A. Cattaneo (Zurich), T. Ratiu (Lausanne).",
+    "dates": null,
+    "proceedings": [
+      "Lett. Math. Phys. 90 (2009)"
+    ],
+    "status": "Past edition"
+  },
+  {
+    "year": 2006,
+    "city": "Tokyo",
+    "country": "Japan",
+    "region": "Asia",
+    "venue": "National Olympics Memorial Youth Center, Tokyo",
+    "committee": "P. Bieliavsky (Louvain-la-Neuve), G. Dito (Dijon), Y. Maeda (Yokohama), K. Mikami (Akita), N. Nakanishi (Gifu), A. Yoshioka (Tokyo).",
+    "dates": null,
+    "proceedings": [
+      "Cont. Math., Volume 450 , AMS (2008)",
+      "Travaux Mathématiques, Volume XVII (2007)"
+    ],
+    "status": "Past edition"
+  },
+  {
+    "year": 2004,
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "region": "Europe",
+    "venue": "University of Luxembourg",
+    "committee": "G. Kass (Luxembourg), C. Molitor-Braun (Luxembourg), N. Poncin (Luxembourg), M. Schlather (Luxembourg), M. Schlichenmaier (Luxembourg).",
+    "dates": null,
+    "proceedings": [
+      "Travaux Mathématiques, Volume XVI (2005)"
+    ],
+    "status": "Past edition"
+  },
+  {
+    "year": 2002,
+    "city": "Lisbon",
+    "country": "Portugal",
+    "region": "Europe",
+    "venue": "Instituto Superior Técnico, Lisbon",
+    "committee": "A. Cannas da Silva (Lisbon), M. Tribolet de Abreu (Lisbon), R. L. Fernandes (Lisbon).",
+    "dates": null,
+    "proceedings": [],
+    "status": "Past edition"
+  },
+  {
+    "year": 2000,
+    "city": "Luminy, Marseille",
+    "country": "France",
+    "region": "Europe",
+    "venue": "Centre international de rencontres mathématiques, Luminy",
+    "committee": "J.-P. Dufour (Montpellier), Y. Kosmann-Schwarzbach (Palaiseau).",
+    "dates": null,
+    "proceedings": [],
+    "status": "Past edition"
+  },
+  {
+    "year": 1998,
+    "city": "Warsaw",
+    "country": "Poland",
+    "region": "Europe",
+    "venue": "Banach Centre, Warsaw",
+    "committee": "J.-P. Dufour (Montpellier), J. Grabowski (Warsaw), A. Weinstein (Berkeley), S. Zakrzewski (Warsaw), M. Zhitomirskii (Haifa).",
+    "dates": null,
+    "proceedings": [
+      "Banach Center Publications 51 (2000)"
+    ],
+    "status": "Past edition"
+  }
+]
