@@ -1,0 +1,39 @@
+{
+  "updated": "2026-11-01",
+  "series": "International Poisson meetings",
+  "events": [
+    {
+      "year": 2026,
+      "edition": 14,
+      "country": "Belgium",
+      "url": "https://wis.kuleuven.be/events/2026_poisson/poisson2026",
+      "school": {
+        "institution": "University of Antwerp",
+        "city": "Antwerp",
+        "start_date": "2026-08-03",
+        "end_date": "2026-08-07",
+        "url": "https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/poissonschool2026/"
+      },
+      "conference": {
+        "institution": "KU Leuven",
+        "city": "Leuven",
+        "start_date": "2026-08-10",
+        "end_date": "2026-08-14",
+        "url": "https://wis.kuleuven.be/events/2026_poisson/conference_poisson2026"
+      },
+      "source": "Official University of Antwerp and KU Leuven event pages"
+    },
+    {
+      "year": 2028,
+      "country": "China",
+      "cities": [
+        "Beijing",
+        "Changchun"
+      ],
+      "dates": null,
+      "url": null,
+      "details": "Dates, venues and programme to be announced.",
+      "source": "Site maintainer announcement supplied in conversation; no public event page located."
+    }
+  ]
+}
