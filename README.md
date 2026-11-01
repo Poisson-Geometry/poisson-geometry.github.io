@@ -1,2 +1,2 @@
-# poissongeometry.github.io
+# poisson-geometry.github.io
 The Website for Poisson Geometry
