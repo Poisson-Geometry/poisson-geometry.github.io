@@ -12,8 +12,8 @@ await build({entryPoints:['src/client.jsx'],bundle:true,minify:true,outfile:'dis
 await build({entryPoints:['src/App.jsx'],bundle:true,platform:'node',format:'esm',outfile:'.build/App.mjs',packages:'external'});
 const {default:App}=await import('./.build/App.mjs?'+Date.now());
 await fs.copyFile('src/style.css','dist/assets/style.css');
-const routes=['/','/about/','/conferences/','/sitemap/',...events.map(e=>`/conferences/${e.year}/`),...materials.map(m=>`/conferences/${m.year}/materials/${m.id}/`)];
-const titles={'/':'Poisson Geometry — International Community','/about/':'About — Poisson Geometry','/conferences/':'Conferences & Schools — Poisson Geometry','/sitemap/':'Sitemap — Poisson Geometry'};
+const routes=['/','/about/','/conferences/','/prize/','/sitemap/',...events.map(e=>`/conferences/${e.year}/`),...materials.map(m=>`/conferences/${m.year}/materials/${m.id}/`)];
+const titles={'/':'Poisson Geometry — International Community','/about/':'About — Poisson Geometry','/conferences/':'Conferences & Schools — Poisson Geometry','/sitemap/':'Sitemap — Poisson Geometry','/prize/':'André Lichnerowicz Prize — Poisson Geometry'};
 for(const path of [...routes,'/404/']){
  const event=events.find(e=>path===`/conferences/${e.year}/`);
  const material=materials.find(m=>path===`/conferences/${m.year}/materials/${m.id}/`);
