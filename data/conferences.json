@@ -68,7 +68,11 @@
     "venue": "Accademia Pontaniana, Naples",
     "committee": "F. D'Andrea (Napoli), A. De Nicola (Salerno), C. Esposito (Salerno), A. Tortorella (Salerno), L. Vitagliano (Salerno), A. Zampini (Napoli)",
     "dates": "School: July 1-5, Conference: July 8-12",
-    "proceedings": [],
+    "proceedings": [
+      "Special issue associated with Poisson 2024, Differential Geometry and its Applications",
+      "Poisson Geometry and Mathematical Physics I, Springer INdAM Series (2026)",
+      "Poisson Geometry and Mathematical Physics II, Springer INdAM Series (2026)"
+    ],
     "status": "Past edition",
     "materials": [
       "2024-historical-record",
@@ -284,7 +288,10 @@
     "venue": "Madrid · ICMAT campus (25 July) and CSIC Central Building (26–29 July)",
     "committee": "M. García Fernández (ICMAT-UAM), D. Iglesias Ponte (La Laguna), D. Martín de Diego (ICMAT-CSIC), A. Matveeva (UPC), E. Miranda (chair, UPC), C. Oms (UPC), D. Peralta-Salas (ICMAT-CSIC), R. Rubio (UB)",
     "dates": "School: July 18-22, Conference: July 25-29",
-    "proceedings": [],
+    "proceedings": [
+      "Special issue: Poisson Geometry in Mathematics and Physics, Journal of Geometry and Physics (Poisson 2022)",
+      "School lecture volume: Advances in Poisson Geometry, CRM Advanced Courses, Birkhäuser/Springer (2025)"
+    ],
     "status": "Past edition",
     "materials": [
       "2022-historical-record",
