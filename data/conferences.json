@@ -5,10 +5,23 @@
     "country": "China",
     "region": "Asia",
     "status": "Announced",
-    "dates": null,
+    "dates": "Summer school: 7–11 August 2028; conference: 14–18 August 2028",
     "committee": null,
     "proceedings": [],
-    "materials": []
+    "materials": [],
+    "venue": "Jilin University, Changchun (summer school); Beijing University, Beijing (conference)",
+    "school": {
+      "institution": "Jilin University",
+      "city": "Changchun",
+      "start_date": "2028-08-07",
+      "end_date": "2028-08-11"
+    },
+    "conference": {
+      "institution": "Beijing University",
+      "city": "Beijing",
+      "start_date": "2028-08-14",
+      "end_date": "2028-08-18"
+    }
   },
   {
     "year": 2026,
